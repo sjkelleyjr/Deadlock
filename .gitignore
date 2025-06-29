@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not the chapters directory
+!chapters/
+!chapters/**
+
+# And not this .gitignore file
+!.gitignore 
