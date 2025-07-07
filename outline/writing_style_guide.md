@@ -56,6 +56,11 @@
 - ❌ Always ending with Alex looking around and smiling
 - ❌ Formulaic endings that feel repetitive
 - ❌ Trying to wrap up every chapter with a neat bow
+- ❌ Emotional epiphanies or "meaningful" realizations
+- ❌ "But tonight, she'd remembered..." or similar sentimental wrap-ups
+- ❌ "There was more to her than just her job" type statements
+- ❌ "She was still alive, still capable of..." inspirational endings
+- ❌ "Tomorrow was another day, but tonight..." sentimental conclusions
 
 ### What TO Do:
 - ✅ Vary the ending style - some chapters can end mid-scene
@@ -63,9 +68,15 @@
 - ✅ Use different tones - some serious, some humorous, some mundane
 - ✅ Let some chapters end with unresolved situations
 - ✅ End with dialogue, action, or observation rather than always with reflection
+- ✅ End chapters with the same tone they began with - cynical, understated, realistic
+- ✅ Use mundane details or understated observations
+- ✅ Let situations speak for themselves without emotional commentary
+- ✅ Some chapters can end abruptly - not every chapter needs closure
+- ✅ Mix abrupt endings with more complete ones for variety
+- ✅ Trust that readers can handle chapters that don't wrap up neatly
 
 ### Key Principle
-**Each chapter should feel distinct and fresh. The ending should serve the chapter's specific story, not follow a formula.**
+**Each chapter should feel distinct and fresh. The ending should serve the chapter's specific story, not follow a formula. Some chapters can end abruptly, others can have more closure - variety is key.**
 
 ## Comedic Tone & Techniques
 
@@ -181,6 +192,33 @@
 ### Key Principle
 **Show character traits through action and dialogue, don't explain them to the reader.**
 
+## Engineer Immunity (MASH Doctors Parallel)
+
+### Core Concept
+**The engineers can get away with almost anything because they are highly skilled individuals that the company desperately needs.**
+
+### MASH Doctors Parallel
+- Like the doctors in MASH who could break rules, insult superiors, and get away with murder because they were the only ones who could save lives
+- The engineers are the only ones who can keep the systems running, fix critical bugs, and deliver the technical solutions the company needs
+- Management knows they can't afford to lose them, so they tolerate their rebellious behavior
+
+### What This Means for the Story
+- **Alex** can be openly cynical and question everything without serious consequences
+- **Mack** can break rules, hack systems, and create chaos while management looks the other way
+- **Jordan** can negotiate from a position of strength because he's essential to the team
+- They can mock corporate initiatives, ignore stupid policies, and resist bureaucracy with relative impunity
+- Management will threaten and complain but ultimately back down because they need the engineers
+
+### Examples of Engineer Immunity in Action
+- Mack can live-tweet meetings and mock corporate initiatives
+- Alex can openly question management decisions and point out logical flaws
+- Jordan can negotiate better terms and push back on unreasonable demands
+- They can ignore mandatory training, skip pointless meetings, and work around broken systems
+- Management will grumble but won't fire them because they're too valuable
+
+### Key Principle
+**The engineers' value to the company gives them power and protection that other employees don't have. They can be rebellious and cynical because management can't afford to lose them.**
+
 ### Examples of What NOT to Do (Telling)
 - ❌ "It was part of her diplomatic approach to corporate life—appear engaged, gather information, and use it later."
 - ❌ "Alex was cynical and analytical by nature."
@@ -255,10 +293,10 @@
 ## Recurring Jokes & Callbacks
 
 ### Running Gags
-- The Colonel's obsession with metrics
-- Major Major's inability to make decisions
-- The General's impossible demands
-- The Chaplain's well-meaning but ineffective attempts
+- Sarah's obsession with metrics
+- David's inability to make decisions
+- Vincent's impossible demands
+- Michael's well-meaning but ineffective attempts
 
 ### Technical Callbacks
 - References to previous technical solutions

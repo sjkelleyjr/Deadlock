@@ -29,9 +29,9 @@
 **Characters**: Alex, Mack, Jordan
 
 **Action**:
-- Alex discovers the new Taskly system was built by their own company's "Innovation Lab"
+- Alex discovers the new Taskly system was built by ByteSkip's "Innovation Lab"
 - Finds evidence it's buggy, slow, and missing basic features
-- Discovers the company spent $2M developing it over 18 months
+- Discovers ByteSkip spent $2M developing it over 18 months
 - Mack and Jordan gather around to see the evidence
 
 **Dramatic Beat**:

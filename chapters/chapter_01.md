@@ -1,14 +1,14 @@
 # Chapter 1: The All-Hands Meeting
 
-The conference room smelled like stale coffee and desperation. Alex sat in her usual spot near the back, watching the rest of the engineering team file in. She'd arrived ten minutes early, and had already counted the corporate buzzwords in the agenda. Seventeen. A new record.
+The conference room smelled like stale coffee and desperation. Alex sat in her usual spot near the back, watching the rest of the engineering team file in. She'd arrived ten minutes early, and had already counted the buzzwords in the agenda. Seventeen. A new record.
 
 "Digital Transformation Initiative 2.0," she muttered to herself, reading the first slide. "Because 1.0 was such a resounding success."
 
 Mack plopped down in the chair next to her, headphones still around his neck. "What fresh hell is this?" he asked, nodding at the projector screen.
 
-"Apparently we're being 'transformed' again," Alex said. "I'm guessing this involves new processes that will make everything slower and more complicated."
+"Apparently we're being 'transformed' again," Alex said.
 
-"Classic," Mack said, pulling out his phone. "I'm already documenting this for my 'Corporate Bingo' game."
+"Classic," Mack said, pulling out his phone. "I'm already documenting this for my 'ByteSkip Bingo' game."
 
 Jordan slid into the seat on Alex's other side, carrying a notebook and three different colored pens. "Hey," he said with a smile that suggested he knew something they didn't. "I have it on good authority that this is going to be interesting."
 
@@ -18,7 +18,7 @@ Jordan slid into the seat on Alex's other side, carrying a notebook and three di
 
 The room filled up quickly. Sarah, their engineering manager, stood at the front of the room, organizing her presentation materials with the precision of someone who'd practiced this moment in front of a mirror. Michael, their technical lead, hovered near the door, looking like he wanted to be anywhere else.
 
-"Good morning, everyone!" Sarah said, her voice artificially bright. "I'm excited to share some exciting news about our company's future."
+"Good morning, everyone!" Sarah said, her voice artificially bright. "I'm excited to share some exciting news about ByteSkip's future."
 
 Vincent, VP of Engineering, made his grand entrance five minutes late. He wore expensive casual wear and carried the latest iPhone, which he used to check something important as he walked to the front of the room. The entire team turned to watch him, like flowers following the sun.
 
@@ -63,8 +63,6 @@ Vincent waved his hand dismissively. "We'll pivot. That's what agile is all abou
 "Pivot," Alex whispered to Mack, rolling her eyes.
 
 Mack was now fully engaged in his phone. "I'm live-tweeting this meeting," he said. "My followers are going to love this."
-
-"Please don't," Jordan said, but he was smiling. "Though I have to admit, this is going to be interesting to watch."
 
 The presentation continued for another forty-five minutes. Vincent talked about "innovation culture" and "failing fast," while Sarah explained how the new metrics would help them "move the needle" and "drive results." Alex counted thirty-seven buzzwords by the end.
 

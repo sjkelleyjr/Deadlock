@@ -4,14 +4,14 @@
 
 ### Chapter 1: "The All-Hands Meeting"
 - Introduction to our three engineers: Alex, Mack, and Jordan
-- Company announces "Digital Transformation Initiative 2.0"
+- ByteSkip announces "Digital Transformation Initiative 2.0"
 - The Colonel introduces new productivity metrics
 - **Dramatic Beat**: Each character has their own cynical reaction to the announcement
 - **Character Development**: They recognize each other as fellow survivors of corporate absurdity
 
 ### Chapter 2: "The JIRA Incident"
 - Team forced to use new project management system
-- Alex discovers the system was built by the company's own engineers
+- Alex discovers the system was built by ByteSkip's own engineers
 - Mack creates a script to auto-generate story points
 - Jordan negotiates with IT to keep the old system running
 - **Dramatic Beat**: Each character deals with the situation in their own way
@@ -95,7 +95,7 @@
 ## Act 2: Escalating Absurdity (Chapters 13-24)
 
 ### Chapter 13: "The Security Audit"
-- Company-wide security review
+- ByteSkip-wide security review
 - Engineers discover their passwords are stored in plain text
 - The Colonel blames the engineers for security issues
 - Team secretly fixes security while appearing to comply
@@ -125,7 +125,7 @@
 - **Character Development**: Reader understands Major Major's fear and ineffectiveness
 
 ### Chapter 17: "The Reorganization"
-- Company announces major restructuring
+- ByteSkip announces major restructuring
 - The Chaplain gets promoted but loses his team
 - Engineers are reassigned to meaningless projects
 - Team finds ways to work together despite the changes

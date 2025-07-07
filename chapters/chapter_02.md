@@ -114,4 +114,4 @@ Sarah stepped forward. "We're making excellent progress. The team is adapting we
 
 After Vincent left, Alex looked at Mack. "Adoption metrics?"
 
-"Already on it," Mack said. "My script is generating login data, task creation data, and usage analytics. By tomorrow morning, we'll have the best adoption metrics in the company."
+"Already on it," Mack said. "My script is generating login data, task creation data, and usage analytics. By tomorrow morning, we'll have the best adoption metrics in all of ByteSkip."
