@@ -3,16 +3,16 @@
 ## Current Status
 
 ### Completed Chapters
-- **Chapter 1: "The All-Hands Meeting & Taskly Migration"** - 3,200 words
-- **Chapter 2: "Sarah's Day"** - 1,777 words
-- **Chapter 3: "Alex's Guitar"** - 1,267 words
-- **Chapter 4: "The Performance Review"** - 2,100 words
-- **Total Completed**: 8,344 words
+- **Chapter 1: "The All-Hands Meeting & Taskly Migration"** - 1,886 words
+- **Chapter 2: "Sarah's Day"** - 1,769 words
+- **Chapter 3: "Alex's Guitar"** - 1,233 words
+- **Chapter 4: "The Performance Review"** - 1,731 words
+- **Total Completed**: 6,619 words
 
 ### Progress Summary
 - **Total Target**: 40-50,000 words
-- **Current Progress**: 8,344 words (4 chapters complete)
-- **Remaining**: ~31,656-41,656 words
+- **Current Progress**: 6,619 words (4 chapters complete)
+- **Remaining**: ~33,381-43,381 words
 
 ### Next Priority
 - **Chapter 5: "Michael's Dilemma"** - Michael caught between protecting his team and keeping his job
