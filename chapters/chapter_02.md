@@ -1,117 +1,149 @@
-# Chapter 2: The JIRA Incident
+# Chapter 2
 
-Monday morning, Alex arrived at her desk to find a new laptop sitting there, along with a stack of documentation and a note from Sarah. "Please migrate all your current projects to Taskly by end of day. Training session at 10 AM."
+Sarah Mitchell's alarm went off at 6:15 AM, but she was already awake. She'd been lying there for twenty minutes, thinking about the Taskly migration and the fourteen forms she needed to distribute by end of day. Her husband, Tom, was still asleep beside her, and she could hear their two kids, Emma and Jake, already arguing about who got to use the bathroom first.
 
-She opened the laptop and stared at the login screen. The Taskly logo looked suspiciously familiar.
+She grabbed her phone and checked her email. Nineteen new messages, all about the Digital Transformation Initiative 2.0. She deleted them all without reading them, then immediately felt guilty. What if one of them was important?
 
-Mack dropped into the chair next to her, carrying his own new laptop. "What the hell is a Taskly?"
+In the kitchen, she made coffee and started packing lunches. Emma wanted a turkey sandwich, no mayo, and Jake would only eat peanut butter and jelly if the crusts were cut off. Tom preferred to buy lunch, but she always packed something for him anyway. It was her way of showing she cared, even when work took up most of her time.
 
-"Apparently we're migrating to an internal JIRA today," Alex said. "All projects need to be moved by end of day."
+"Mom, I can't find my math homework," Emma called from upstairs.
 
-"End of day?" Mack said. "We have what, eight hours to move everything?"
+"It's on the kitchen table," Sarah called back. "Where you left it last night."
 
-"Seven and a half, actually," Alex said, checking her watch. "Training session at 10."
+"I didn't leave it there!"
 
-Jordan appeared behind them, carrying his laptop and a notebook. "I just got off the phone with IT. They're saying this is mandatory."
+Sarah closed her eyes and counted to three. "Check your backpack. The blue folder."
 
-"Of course it is," Mack said. "When has anything been optional around here?"
+Silence. Then: "Found it!"
 
-Alex logged into the new system and immediately noticed something odd. The interface looked like it had been built by someone who'd never used a project management tool before. The navigation was counterintuitive, the search function was buried three levels deep, and there was no way to bulk-edit tasks.
+She smiled despite herself. Emma was eleven and going through that phase where she was convinced her mother was always wrong about everything. Sarah remembered being the same way at that age.
 
-"Who built this thing?" she muttered, clicking through the menus.
+At 7:30, she kissed Tom goodbye and loaded the kids into the car. The drive to school was always chaotic—Emma needed to be dropped off first, then Jake at his elementary school, then she had to fight traffic to get to the office by 8:30. She'd been doing this routine for five years, and it still felt like a miracle when everyone arrived on time.
 
-Mack was already typing furiously on his laptop. "I'm trying to figure out how to export our current data. This system is a nightmare."
+"Mom, can I have a sleepover this weekend?" Emma asked from the backseat.
 
-Jordan was taking notes in his notebook. "I see some potential issues here. Let me make a few calls."
+"Ask your father," Sarah said automatically. "I have to work late on Friday."
 
-The training session at 10 AM was led by Lisa Chen from the Innovation Lab. She was enthusiastic about the new system, which made Alex immediately suspicious.
+"Again?" Emma said. "You always have to work late."
 
-"Taskly was built by our own engineers," Lisa said proudly. "It's designed specifically for our workflow and integrates perfectly with our existing tools."
+Sarah felt a pang of guilt. She did work late a lot. But the Taskly migration was behind schedule, and Vincent was expecting full adoption by the end of the week. She couldn't let her team down.
 
-Alex raised her hand. "What existing tools? We're not using any of the tools it's supposed to integrate with."
+"Maybe next weekend," she said. "I promise."
 
-Lisa's smile didn't waver. "That's exactly why we need this migration! Taskly will help us standardize our processes and improve our efficiency."
+Emma didn't respond, but Sarah could see her reflection in the rearview mirror, looking disappointed.
 
-"Right," Mack said under his breath. "Because nothing says 'efficiency' like learning a new system that doesn't work."
+At the office, Sarah arrived at her desk at 8:25, five minutes early as always. She organized her workspace with the precision that had earned her the nickname "The Colonel" among the engineers. Everything had its place—pens in the top drawer, notepads stacked by size, calendar open to today's date. It was the one thing she could control in her chaotic life.
 
-The training session lasted two hours and covered approximately none of the things they actually needed to know. Lisa spent most of the time talking about the system's "revolutionary features", like AI summaries, while the engineers tried to figure out how to create a simple task.
+Her first meeting was at 9 AM with Vincent. Sarah had prepared a detailed status report on the Taskly migration, complete with adoption metrics, user feedback, and a timeline for full implementation. She'd spent two hours on it last night after the kids went to bed.
 
-"Let me show you how to create a new project," Lisa said, clicking through the interface with practiced ease. "First, you navigate to the project creation wizard..."
+Vincent arrived ten minutes late, carrying his usual cold brew and looking distracted. "Sarah, thanks for coming. I need to talk to you about the Taskly adoption numbers."
 
-Alex watched as she clicked through seven different screens to create a project that should have taken three clicks. By the time she finished, she'd already calculated that this system would add approximately 15 minutes to every task creation.
+Sarah opened her laptop and pulled up the report. "I have the latest metrics here. We're at 85% adoption across the engineering team, which is ahead of our projected timeline."
 
-"Now, let's look at the reporting features," Lisa continued. "Taskly provides comprehensive analytics that will help us track our velocity and throughput."
+Vincent waved his hand dismissively. "That's not what I'm concerned about. The board is asking about ROI. They want to see how this investment is paying off."
 
-Jordan was asking questions about the integration capabilities. "What about our existing data? How do we migrate our current projects?"
+Sarah felt her stomach clench. "ROI?"
 
-"Excellent question," Lisa said. "We have a migration tool that will help you transfer your existing work. It's very straightforward."
+"Return on investment," Vincent said, as if Sarah didn't know what ROI meant. "We spent $2 million developing Taskly. The board wants to see measurable improvements in productivity."
 
-Alex tried the migration tool. It crashed after processing three tasks.
+Sarah looked at her report. The adoption numbers were mostly fictional, generated by Mack's script. The actual productivity metrics showed a 30% decrease in output since the migration began, but she couldn't tell Vincent that.
 
-"Straightforward," she said to Mack, rolling her eyes.
+"I can prepare a detailed ROI analysis," Sarah said. "We should see improvements in velocity and throughput once the team fully adapts to the new system."
 
-Back at their desks, Mack was already working on a solution. "I'm building a script to auto-generate tasks," he said. "If they want us to use this system, I'll give them what they want."
+"Great," Vincent said. "I need that by tomorrow morning. The board meeting is at 10 AM."
 
-"Won't that get you in trouble?" Alex asked.
+After Vincent left, Sarah sat at her desk and stared at her computer screen. She needed to create an ROI report that showed the $2 million investment was paying off, even though the system was making everything slower and more complicated. She couldn't tell Vincent the truth—that Taskly was a disaster and the engineers were actively working around it.
 
-"Only if they figure out it's fake," Mack said. "And since they don't understand the system anyway, they'll never know the difference."
+At 11 AM, she had a one-on-one with Michael. He looked exhausted, and she could see the stress in his eyes.
 
-Jordan was on the phone with IT. "Yes, I understand the concerns about the migration timeline. Let me see if I can help smooth this transition for everyone."
+"How are you holding up?" she asked.
 
-Alex spent the next hour trying to migrate their current projects. The system crashed four times, lost data twice, and required her to re-enter the same information three times. By lunch, she'd successfully migrated exactly one project, and it had taken her three hours.
+Michael sighed. "Honestly? Not great. The team is frustrated with Taskly, and I'm caught between what they need and what management wants."
 
-"Progress report," Michael said, appearing at her desk. "How's the migration going?"
+Sarah nodded. She understood that feeling all too well. "What can I do to help?"
 
-"Slowly," Alex said. "The system keeps crashing and losing data."
+"I don't know. The system keeps crashing, and we're spending more time fighting with it than actually working. But Vincent wants adoption metrics, so they're generating fake data to make it look like everything is working."
 
-Michael nodded sympathetically. "That's normal during the initial setup. The system needs time to learn your workflow."
+Sarah felt a pang of guilt. She was the one who'd pushed for the migration, who'd presented Taskly as the solution to all their problems. She'd believed in it, or at least she'd wanted to believe in it.
 
-"Learn my workflow?" Alex said. "It's a project management system. It should already know how to manage projects."
+"I'll talk to Vincent about extending the timeline," she said. "Maybe we can do a phased rollout instead of forcing everyone to migrate at once."
 
-"Taskly is different," Michael said. "It's adaptive. It learns from your usage patterns and optimizes itself accordingly."
+Michael looked skeptical. "You think that'll work?"
 
-Alex stared at him. "So it's a project management system that doesn't know how to manage projects until you teach it?"
+"I don't know," Sarah admitted.
 
-"Exactly!" Michael said, clearly missing the sarcasm. "That's what makes it revolutionary."
+At lunch, Sarah ate at her desk while working on the ROI report. She'd promised Emma she'd try to take a real lunch break, but there was too much work to do. She opened her phone and looked at the family photo on her lock screen—Tom, Emma, and Jake at the beach last summer, all of them smiling. She missed that version of herself, the one who had time to go to the beach and actually enjoy it.
 
-After lunch, Mack had his script working. "Watch this," he said, running the program. "I can now create a hundred tasks in about thirty seconds."
+Her phone buzzed with a text from Tom: "How's your day going?"
 
-Alex watched as the script automatically generated tasks with realistic names, descriptions, and story points. "Fix typo on homepage - 8 points," "Rewrite report generation backend - 1 point,", "Implement new authentication - 13 points."
+"Busy," she replied. "How are the kids?"
 
-"That's impressive," she said. "But what about the actual work?"
+"Emma's mad because I said no to the sleepover. Jake's fine. When will you be home?"
 
-"What about it?" Mack said. "The work gets done. The system gets its metrics. Everyone's happy."
+Sarah looked at her calendar. She had meetings until 6 PM, then she needed to finish the ROI report. "Probably 8. Sorry."
 
-Jordan returned from his meeting with IT. "Good news," he said. "I've negotiated a phased migration approach. We can keep using the old system for critical projects while we transition to Taskly."
+"Again?"
 
-"How did you manage that?" Alex asked.
+She felt another pang of guilt. "I'll make it up to them this weekend."
 
-"I explained the risks of forcing a full migration on such a tight timeline," Jordan said. "They seemed very receptive to the idea of a more gradual approach."
+"Sarah, you said that last weekend. And the weekend before that."
 
-"Receptive," Mack said, grinning. "They realized this was going to be a disaster."
+She didn't respond. What could she say? That she was trying to be a good manager? That she was caught between her team's needs and management's demands? That she was afraid of failing, of letting everyone down?
 
-By 4 PM, Alex had successfully migrated three projects. The system had crashed seven times, and she'd spent more time fighting with the interface than actually working. She opened her email and found seventeen messages from Michael about the migration progress.
+At 2 PM, she had a team meeting with the engineers. Alex, Mack, and Jordan were there, along with the rest of the team. They all looked tired and frustrated.
 
-"Status update," Michael said, appearing at her desk again. "How many projects have you migrated?"
+"Thanks for coming," Sarah said. "I wanted to check in on how the Taskly migration is going."
 
-"Three," Alex said.
+"Slowly," Alex said. "The system keeps crashing, and we're losing work every time it does."
 
-Michael's smile faltered slightly. "Three? We were expecting at least ten by now."
+Sarah nodded. "I understand there are some technical issues. But we need to push through them. ByteSkip has invested a lot in this system."
 
-"Ten?" Alex said. "Each project takes about an hour to migrate, and the system crashes every fifteen minutes. Three is actually pretty good."
+"Invested a lot in a system that doesn't work," Mack muttered.
 
-Michael made a note in his notebook. "I'll need to report this to Vincent. He's expecting full migration by end of day."
+Sarah pretended not to hear. "I'm working on getting you more training and support. In the meantime, please continue with the migration as best you can."
 
-"Good luck with that," Alex said.
+After the meeting, Jordan stayed behind. "Sarah, I know this is difficult for everyone. But I think we can make this work if we approach it differently."
 
-At 5 PM, Vincent appeared in the engineering area. He looked around at the engineers, most of whom were still working on their migrations.
+"How so?" she asked.
 
-"How's the Taskly migration going?", he said.
+"Let me talk to IT about a hybrid approach. We can keep using the old system for critical projects while we transition to Taskly gradually. That way, we don't lose productivity while we work out the kinks."
 
-Sarah stepped forward. "We're making excellent progress. The team is adapting well to the new system."
+Sarah felt a glimmer of hope. "You think that would work?"
 
-"Excellent," Vincent said. "I want to see the adoption metrics by tomorrow morning."
+"I do. And it would give us time to fix the real issues with Taskly before forcing everyone to use it."
 
-After Vincent left, Alex looked at Mack. "Adoption metrics?"
+"Thank you, Jordan," Sarah said. "I appreciate you trying to find a solution."
 
-"Already on it," Mack said. "My script is generating login data, task creation data, and usage analytics. By tomorrow morning, we'll have the best adoption metrics in all of ByteSkip."
+At 4 PM, she had another meeting with Vincent. This time, it was about the quarterly budget review.
+
+"The board is concerned about our spending," Vincent said. "We need to show that we're being fiscally responsible while still investing in innovation."
+
+Sarah pulled up the budget spreadsheet. "I've identified several areas where we can reduce costs without impacting productivity."
+
+"Good. I need a detailed cost-cutting plan by the end of the week. And make sure it doesn't affect the Taskly rollout."
+
+Sarah nodded, but inside she was screaming. How was she supposed to cut costs while forcing everyone to use an expensive system that didn't work?
+
+At 6 PM, she was still at her desk, working on the ROI report. The office was mostly empty, and she could hear the cleaning crew starting their rounds. Her phone buzzed again—Tom asking if she was coming home for dinner.
+
+"Working late," she replied. "Don't wait up."
+
+"Sarah, the kids miss you."
+
+"I know. I miss them too."
+
+"Then come home. The work will still be there tomorrow."
+
+But it wouldn't. Vincent needed the ROI report by tomorrow morning, and the board meeting was at 10 AM. If she didn't deliver, she'd look incompetent. And if she looked incompetent, she might lose her job. And if she lost her job, how would they pay for Emma's private school and Jake's soccer lessons and the mortgage on their house?
+
+At 8 PM, she finally finished the ROI report. It was mostly fiction, showing impressive productivity gains and cost savings that didn't actually exist. But it was what Vincent wanted, what the board wanted, what everyone wanted to hear.
+
+She packed up her laptop and headed for the elevator. The building was quiet now, and her footsteps echoed in the empty hallway. She thought about Emma and Jake, probably already in bed, and Tom, probably watching TV alone. She thought about the family vacation they'd planned for spring break, and how she'd probably have to cancel it because of work.
+
+Her phone buzzed. It was Tom again: "Are you okay?"
+
+"I'm fine," she replied. "Just tired."
+
+"Come home. We love you."
+
+Sarah stepped into the elevator and pressed the button for the lobby. As the doors closed, she caught a glimpse of her reflection in the mirrored wall. She looked exhausted, and older than she remembered.

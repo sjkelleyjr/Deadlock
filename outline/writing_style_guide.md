@@ -372,7 +372,7 @@
 - End with the characters finding ways to work around it
 
 **Examples of Good Situational Comedy:**
-- The Taskly migration in Chapter 2 (system crashes, fake data generation)
+- The Taskly migration in Chapter 1 (system crashes, fake data generation)
 - The Digital Transformation Initiative in Chapter 1 (17 forms, 37 buzzwords)
 - Sarah's ROI report creation in Chapter 3 (fictional metrics for real problems)
 

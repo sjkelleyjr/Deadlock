@@ -1,14 +1,14 @@
-# Chapter 2: "The JIRA Incident" - Scene Breakdown
+# Chapter 1: "The All-Hands Meeting & Taskly Migration" - Scene Breakdown (Part 2)
 
-## Scene 1: The Announcement (Opening)
+## Scene 1: The Taskly Migration Announcement (Opening)
 **Setting**: Team meeting room, Monday morning
-**Characters**: Alex, Mack, Jordan, The Chaplain, The Colonel
+**Characters**: Alex, Mack, Jordan, Sarah, Michael
 
 **Action**:
-- The Colonel announces mandatory migration to "Taskly" system
+- Sarah announces mandatory migration to "Taskly" system
 - Claims it will "streamline workflow" and "improve transparency"
 - Presents it as a "strategic initiative" and "cost-saving measure"
-- Sets deadline: two weeks to migrate all projects
+- Sets deadline: end of day to migrate all projects
 
 **Dramatic Beat**:
 - **Alex**: Immediately analyzes the announcement for logical flaws
