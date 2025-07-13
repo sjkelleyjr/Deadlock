@@ -111,7 +111,7 @@
 ### Character-Specific Situations
 - **Alex**: Technical reality vs. management expectations
 - **Mack**: Rebellion schemes that backfire or succeed unexpectedly
-- **Jordan**: Diplomatic attempts that make situations worse
+- **Jordan**: Diplomatic attempts that backfire and create more work for him (his smile faltering when he realizes what he's volunteered for)
 - **Sarah**: Caught between team needs and management demands
 - **David**: Endless escalation loops and bureaucratic paralysis
 - **Michael**: Trying to protect team while keeping his job

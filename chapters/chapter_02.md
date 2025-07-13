@@ -1,6 +1,6 @@
 # Chapter 2
 
-Sarah Mitchell's alarm went off at 6:15 AM, but she was already awake. She'd been lying there for twenty minutes, thinking about the Taskly migration and the fourteen forms she needed to distribute by end of day. Her husband, Tom, was still asleep beside her, and she could hear their two kids, Emma and Jake, already arguing about who got to use the bathroom first.
+Sarah's alarm went off at 6:15 AM, but she was already awake. She'd been lying there for twenty minutes, thinking about the Taskly migration and the fourteen forms she needed to distribute by end of day. Her husband, Tom, was still asleep beside her, and she could hear their two kids, Emma and Jake, already arguing about who got to use the bathroom first.
 
 She grabbed her phone and checked her email. Nineteen new messages, all about the Digital Transformation Initiative 2.0. She deleted them all without reading them, then immediately felt guilty. What if one of them was important?
 

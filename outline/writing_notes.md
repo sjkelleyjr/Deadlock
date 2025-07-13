@@ -39,7 +39,7 @@ When writing chapters, use first names only unless there's a formal context that
 ### Main Characters
 - **Alex** - The cynical analyst
 - **Mack** (Marcus) - The rebellious ex-startup founder
-- **Jordan** - The diplomatic self-taught programmer
+- **Jordan** - The diplomatic self-taught programmer (whose attempts to smooth things over often backfire and create more work for him)
 
 ### Antagonists (Use First Names in Chapters)
 - **Sarah** - Engineering Manager (MASH inspiration: The Colonel)
@@ -91,4 +91,35 @@ When writing chapters, use first names only unless there's a formal context that
 - ✅ Trust that readers understand the irony without spelling it out
 
 ### Key Principle
-**Each chapter should feel fresh and avoid repeating the same jokes or phrases. The humor should come from the situation, not from tired corporate satire tropes.** 
+**Each chapter should feel fresh and avoid repeating the same jokes or phrases. The humor should come from the situation, not from tired corporate satire tropes.**
+
+## Jordan's Comedic Dynamic
+
+### The Diplomatic Backfire Pattern
+Jordan's attempts to smooth things over and be diplomatic often backfire and create more work for him:
+
+**Examples:**
+- Chapter 1: Volunteers to "help coordinate the transition" → gets assigned to manage the Taskly rollout
+- Future opportunities: Negotiating with vendors → gets put in charge of vendor relationships
+- Mediating conflicts → becomes the go-to person for all disputes
+- Suggesting "better approaches" → gets assigned to implement them
+
+### How to Use This Pattern:
+- Jordan tries to be helpful and diplomatic
+- Management takes his suggestions as volunteering
+- He gets assigned additional responsibilities
+- He can't refuse without looking uncooperative
+- The other engineers find it amusing but don't help
+
+### Key Elements:
+- Jordan's smile faltering when he realizes what he's done
+- His reluctant acceptance: "I... of course. I'd be happy to help."
+- The other characters' subtle amusement
+- Management's enthusiasm for his "positive attitude"
+- Jordan's internal frustration that he can't say no
+
+### Why This Works:
+- It's authentic to corporate environments where being helpful gets you more work
+- It shows Jordan's genuine desire to be diplomatic backfiring
+- It creates natural tension between his diplomatic nature and his workload
+- It's funny because everyone can relate to this dynamic 
