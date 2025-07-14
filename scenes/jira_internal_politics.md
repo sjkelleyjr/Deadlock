@@ -13,11 +13,11 @@
 **The General's Pet Project**: 
 - The General (VP of Engineering) personally championed the internal Taskly system
 - Claims it will "reduce vendor dependencies" and "showcase our engineering excellence"
-- Has been pushing for ByteSkip-wide adoption for months
+- Has been pushing for ByteSauce-wide adoption for months
 - The Colonel is eager to please The General and prove her management worth
 
 **Budget Politics**:
-- ByteSkip spent $2M developing the internal Taskly system
+- ByteSauce spent $2M developing the internal Taskly system
 - The General needs to justify this investment
 - The Colonel sees this as an opportunity to demonstrate "cost savings"
 - Management wants to show the board they can "build, not buy"
@@ -32,7 +32,7 @@
 - Presents this as a "strategic initiative" and "cost-saving measure"
 
 **Alex's Discovery**:
-- Finds out the system was built by ByteSkip
+- Finds out the system was built by ByteSauce
 - Discovers it's been in development for 18 months
 - Realizes it's missing basic features that the old system had
 - Documents the absurdity for future reference

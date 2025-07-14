@@ -8,7 +8,7 @@
 **Personality Traits**:
 - Deeply cynical about corporate culture
 - Sees through every management ploy and buzzword
-- Constantly questioning the logic of ByteSkip decisions
+- Constantly questioning the logic of ByteSauce decisions
 - Has a deadpan sense of humor
 - Surprisingly competent despite his attitude
 - The voice of reason in the chaos
@@ -32,7 +32,7 @@
 - Always arrives 10 minutes early to meetings, sits in the back corner
 - Has a specific coffee order that she gets every morning from the same place
 - Keeps a running list of corporate buzzwords in a notebook
-- Refuses to use ByteSkip's preferred messaging app
+- Refuses to use ByteSauce's preferred messaging app
 - Has a collection of "Employee of the Month" certificates she's never received
 
 **Hopes & Fears**:
@@ -153,7 +153,7 @@
 - Wants to be taken seriously but can't resist making jokes in meetings
 - Claims to hate corporate politics but is actually quite good at navigating them
 - Says he doesn't care about money but tracks his stock options obsessively
-- Thinks he's a rebel but follows most ByteSkip rules
+- Thinks he's a rebel but follows most ByteSauce rules
 - Wants to be a leader but hates being responsible for other people
 
 **Skills & Talents**:

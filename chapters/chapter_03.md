@@ -58,7 +58,7 @@ She put the guitar down and checked the time. It was almost midnight, and she ha
 
 But instead, she opened her laptop and started writing. She wasn't sure what she was writing - maybe a blog post, maybe a letter to herself, maybe just thoughts that needed to get out of her head.
 
-"Dear Future Alex," she typed. "If you're reading this, it means you're still alive and still working at ByteSkip. I hope you're doing okay. I hope you haven't forgotten about the guitar in the corner, or the person you used to be."
+"Dear Future Alex," she typed. "If you're reading this, it means you're still alive and still working at ByteSauce. I hope you're doing okay. I hope you haven't forgotten about the guitar in the corner, or the person you used to be."
 
 She paused, thinking about what else to write.
 
@@ -71,5 +71,3 @@ She put the guitar back in its case and carried it to the corner where it lived.
 She'd picked it up months ago, thinking maybe she'd take lessons again, maybe she'd get better, maybe she'd find a way to make music a bigger part of her life. But she'd never called the number, never made the time.
 
 She put the card back where she'd found it and went to bed. Tomorrow she would punch another ticket to the corporate carnival, fight with systems that didn't work, generate reports that no one would read. But tonight, for a little while, she'd remembered who she used to be.
-
- 

@@ -96,7 +96,7 @@ At 2 PM, she had a team meeting with the engineers. Alex, Mack, and Jordan were 
 
 "Slowly," Alex said. "The system keeps crashing, and we're losing work every time it does."
 
-Sarah nodded. "I understand there are some technical issues. But we need to push through them. ByteSkip has invested a lot in this system."
+Sarah nodded. "I understand there are some technical issues. But we need to push through them. ByteSauce has invested a lot in this system."
 
 "Invested a lot in a system that doesn't work," Mack muttered.
 

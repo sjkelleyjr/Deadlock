@@ -108,7 +108,7 @@ Michael looked at Vincent's email, then at the Taskly report, then at his calend
 
 At 6:15, he packed up his laptop and headed for the elevator. He had fifteen minutes to get to Jake's soccer practice. If he left now, he could make it. If he stayed for the team meeting, he'd be late again.
 
-His phone buzzed. It was Sarah: "Great meeting today, Michael. I'm excited about the possibilities for your future here at ByteSkip."
+His phone buzzed. It was Sarah: "Great meeting today, Michael. I'm excited about the possibilities for your future here at ByteSauce."
 
 Michael pulled out of the parking lot and headed toward the soccer field. His phone buzzed again. It was Sarah: "Michael, I need you back in the office. Vincent wants to discuss the Taskly adoption metrics in person. He's very excited about the numbers and wants to understand how we achieved such success."
 

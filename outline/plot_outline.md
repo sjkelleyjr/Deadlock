@@ -4,10 +4,10 @@
 
 ### Chapter 1: "The All-Hands Meeting & Taskly Migration"
 - Introduction to our three engineers: Alex, Mack, and Jordan
-- ByteSkip announces "Digital Transformation Initiative 2.0"
+- ByteSauce announces "Digital Transformation Initiative 2.0"
 - The Colonel introduces new productivity metrics and fourteen forms
 - Team immediately forced to migrate to new "Taskly" project management system
-- Alex discovers Taskly was built by ByteSkip's own engineers and is buggy
+- Alex discovers Taskly was built by ByteSauce's own engineers and is buggy
 - Mack creates a script to auto-generate tasks and metrics
 - Jordan gets volunteered to coordinate the transition
 - **Dramatic Beat**: Each character has their own cynical reaction and survival strategy
@@ -91,7 +91,7 @@
 ## Act 2: Escalating Absurdity (Chapters 12-23)
 
 ### Chapter 12: "The Security Audit"
-- ByteSkip-wide security review
+- ByteSauce-wide security review
 - Engineers discover their passwords are stored in plain text
 - The Colonel blames the engineers for security issues
 - Team secretly fixes security while appearing to comply
@@ -121,7 +121,7 @@
 - **Character Development**: Reader understands Major Major's fear and ineffectiveness
 
 ### Chapter 16: "The Reorganization"
-- ByteSkip announces major restructuring
+- ByteSauce announces major restructuring
 - The Chaplain gets promoted but loses his team
 - Engineers are reassigned to meaningless projects
 - Team finds ways to work together despite the changes

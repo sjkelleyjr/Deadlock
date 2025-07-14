@@ -7,16 +7,18 @@
 - **Chapter 2: "Sarah's Day"** - 1,769 words
 - **Chapter 3: "Alex's Guitar"** - 1,233 words
 - **Chapter 4: "The Performance Review"** - 1,731 words
-- **Total Completed**: 6,619 words
+- **Chapter 5: "Michael's Dilemma"** - 1,384 words
+- **Chapter 6: "The Sprint Planning Disaster"** - 1,657 words
+- **Total Completed**: 9,660 words
 
 ### Progress Summary
 - **Total Target**: 40-50,000 words
-- **Current Progress**: 6,619 words (4 chapters complete)
-- **Remaining**: ~33,381-43,381 words
+- **Current Progress**: 9,660 words (6 chapters complete)
+- **Remaining**: ~30,340-40,340 words
 
 ### Next Priority
-- **Chapter 5: "Michael's Dilemma"** - Michael caught between protecting his team and keeping his job
-- **Chapter 6: "The Sprint Planning Disaster"** - Agile methodology chaos
+- **Chapter 7: "Jordan's Network"** - Jordan at networking events
+- **Chapter 8: "The Code Review Process"** - New mandatory code review policy
 
 
 
@@ -70,7 +72,7 @@
   - Jordan sells it as "industry-leading compliance"
 
 ### Other High-Comedy Scenes
-- **Chapter 1**: Taskly system built by ByteSkip
+- **Chapter 1**: Taskly system built by ByteSauce
 - **Chapter 6**: Technical sabotage of team building exercises
 - **Chapter 10**: Fake requirements to confuse consultants
 - **Chapter 12**: Absurd innovation ideas that management loves

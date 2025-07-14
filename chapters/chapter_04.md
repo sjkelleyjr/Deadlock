@@ -84,7 +84,7 @@ Alex watched as he scrolled through what appeared to be a very long document. "T
 
 "HR keeps very detailed records," David said. "It's part of our comprehensive performance management system."
 
-He continued scrolling. "I see you've been with ByteSkip for... three years now. And you're currently working on... let me find that... the Taskly migration project?"
+He continued scrolling. "I see you've been with ByteSauce for... three years now. And you're currently working on... let me find that... the Taskly migration project?"
 
 "Among other things," Alex said.
 
@@ -112,7 +112,7 @@ Alex was starting to get annoyed. "I'm excited about writing good code. I'm will
 
 David shifted in his seat. "I understand. But you have to understand that management wants to see... engagement. They want to know that you're invested in the company's success."
 
-"I am invested in the company's success," Alex said. "I want ByteSkip to succeed. I just don't think the way to do that is through meaningless metrics and broken systems."
+"I am invested in the company's success," Alex said. "I want ByteSauce to succeed. I just don't think the way to do that is through meaningless metrics and broken systems."
 
 David was quiet for a moment. "I see. Well, let me move on to the next section. Your overall rating for this year is... 'meets expectations.'"
 
@@ -178,7 +178,7 @@ Mack's review was at 2 PM. He came back looking amused.
 
 "What? How?"
 
-"I told David that I was 'passionate about innovation' and 'excited to leverage emerging technologies to drive ByteSkip's digital transformation.' I said I was 'committed to collaborative excellence' and 'focused on delivering strategic value.'"
+"I told David that I was 'passionate about innovation' and 'excited to leverage emerging technologies to drive ByteSauce's digital transformation.' I said I was 'committed to collaborative excellence' and 'focused on delivering strategic value.'"
 
 Alex stared at him. "You said all that?"
 
