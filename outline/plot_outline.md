@@ -99,16 +99,16 @@
 - **Character Development**: They share cynical observations about the hypocrisy
 
 ### Chapter 13: "The General's Vision"
-- Follow The General through her day, showing her disconnect from reality
-- Her startup background and her obsession with "innovation"
-- Her relationship with her venture capitalist boyfriend
-- **Dramatic Beat**: The General's struggle to maintain her "visionary" image
+- Follow The General through his day, showing his disconnect from reality
+- His startup background and his obsession with "innovation"
+- His relationship with his venture capitalist boyfriend
+- **Dramatic Beat**: The General's struggle to maintain his "visionary" image
 - **Character Development**: Reader sees The General as a tragic figure, not just a villain
 
 ### Chapter 14: "The Vendor Meeting"
 - The General brings in expensive consultants
 - Consultants recommend the exact opposite of what the team needs
-- Jordan negotiates with vendors behind the scenes
+- Jordan tries to convince the vendors behind the scenes, but to no avail
 - Mack and Alex create fake requirements to confuse consultants
 - **Dramatic Beat**: Each character's individual approach to dealing with outsiders
 - **Character Development**: They appreciate each other's different methods
@@ -140,7 +140,7 @@
 - Simple "Export to CSV" feature request
 - Legal team gets involved, demands extensive compliance
 - Mack builds over-engineered solution with 5 microservices
-- Alex documents the absurdity, Jordan sells it as "industry-leading"
+- Alex documents the absurdity, Jordan sells it as "industry-leading" in a blog post
 - **Dramatic Beat**: Each character's response to corporate over-regulation
 - **Character Development**: They share cynical observations about the complexity
 

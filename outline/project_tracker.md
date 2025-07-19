@@ -11,17 +11,18 @@
 - **Chapter 6: "The Sprint Planning Disaster"** - 1,659 words
 - **Chapter 7: "Jordan's Network"** - 1,623 words
 - **Chapter 8: "The Code Review Process"** - 1,010 words
-- **Total Completed**: 12,269 words
+- **Chapter 9: "Mack's Side Projects"** - 1,544 words
+- **Total Completed**: 13,813 words
 
 ### Progress Summary
 - **Total Target**: 40-50,000 words
-- **Current Progress**: 12,269 words (8 chapters complete)
-- **Progress**: ~25-31% complete
-- **Remaining**: ~27,731-37,731 words
+- **Current Progress**: 13,813 words (9 chapters complete)
+- **Progress**: ~28-35% complete
+- **Remaining**: ~26,187-36,187 words
 
 ### Next Priority
-- **Chapter 9: "Marcus's Side Projects"** - Mack's automation scripts and projects
 - **Chapter 10: "The Team Building Exercise"** - HR mandates "fun" team building activities
+- **Chapter 11: "The Budget Meeting"** - The General demands 50% more features with 25% less budget
 
 
 
