@@ -19,12 +19,13 @@
 - **Mack**: Rebellious, embraces chaos, finds humor in the absurd
 - **Jordan**: Diplomatic, speaks corporate, negotiates the system
 
-### Dialogue Style
+### Dialogue Style - UPDATED FOR ESCALATING STAKES
 - Natural, authentic to corporate environments
 - Use first names in casual conversation
 - Avoid formal titles unless context requires them
-- Characters share cynical observations but don't collaborate
-- Individual survival strategies, not coordinated resistance
+- Characters start with individual survival strategies but are forced to adapt
+- Their usual approaches become more dangerous and risky over time
+- Eventually forced to work together when individual strategies fail
 
 ### Narrative Voice
 - Third person limited, following the three main characters
@@ -32,11 +33,12 @@
 - Subtle commentary on corporate absurdity
 - No explicit moralizing or preaching
 
-### Pacing
-- Each chapter focuses on a specific corporate incident
-- Characters respond individually to the same situation
-- End with them continuing to survive in their own ways
-- No character growth or meaningful collaboration
+### Pacing - UPDATED FOR ESCALATING STAKES
+- Each chapter builds on previous chapters and has higher consequences
+- Characters' previous victories come back to haunt them
+- Management becomes more suspicious and desperate over time
+- The company's dysfunction reaches crisis levels
+- Characters are eventually forced to work together when individual strategies fail
 
 ### Ending Style
 - Implicit continuity of corporate absurdity
@@ -86,11 +88,43 @@
 - **Escalating Absurdity**: Small problems snowball into ridiculous situations
 - **Repetitive Nonsense**: Corporate buzzwords and meaningless processes
 
+### Circular Reasoning Examples to Use:
+- **Management Logic**: "We need to increase productivity to justify the budget, but we need the budget to increase productivity"
+- **Bureaucratic Loops**: "You need manager approval to access the system, but you need system access to request manager approval"
+- **Process Paradoxes**: "We need to reduce meetings to increase productivity, so let's have a meeting about reducing meetings"
+- **Security Catch-22s**: "The security policy requires you to change your password every 30 days, but you can't change it until you log in, and you can't log in because your password expired"
+- **Documentation Loops**: "We need to document everything for compliance, but the documentation process is so complex it prevents us from doing the work we need to document"
+
 ### Witty Dialogue (MASH Style)
 - **Rapid-Fire Banter**: Quick, clever exchanges between characters
 - **Sarcastic Observations**: Characters pointing out the obvious absurdity
 - **Wordplay and Puns**: Technical terms used in unexpected ways
 - **Character Chemistry**: Natural flow between the trio
+
+## Chapter Structure & Length Requirements
+
+### Word Count Target
+- **Target Length**: 1,500 words per chapter
+- **Acceptable Range**: 1,200-1,800 words
+- **Minimum**: 1,200 words (no chapters shorter than this)
+- **Ideal**: 1,400-1,600 words for consistency
+
+### Chapter Structure
+- **Opening**: Set the scene and establish the corporate situation (200-300 words)
+- **Development**: Escalate the absurdity and show character responses (800-1,000 words)
+- **Climax**: Peak of the situation or revelation (200-300 words)
+- **Resolution**: Show consequences or aftermath (200-300 words)
+
+### Why This Length Matters
+- **Consistency**: Readers expect similar chapter lengths
+- **Depth**: Enough space to develop situations and character interactions
+- **Pacing**: Allows for proper escalation and resolution
+- **Engagement**: Long enough to be satisfying, short enough to maintain momentum
+
+### Current Problem
+- Recent chapters (10, 11, 12) are getting shorter (553, 907, 571 words)
+- Need to expand scenes and add more character interaction
+- Include more dialogue, description, and corporate absurdity details
 
 ## Narrative Techniques
 

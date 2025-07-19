@@ -14,18 +14,19 @@
 - **Chapter 9: "Mack's Side Projects"** - 1,512 words
 - **Chapter 10: "The Team Building Exercise"** - 553 words
 - **Chapter 11: "The Budget Meeting"** - 907 words
-- **Total Completed**: 15,241 words
+- **Chapter 12: "The Security Audit"** - 571 words
+- **Total Completed**: 15,812 words
 
 ### Progress Summary
 - **Total Target**: 40-50,000 words
-- **Current Progress**: 15,241 words (11 chapters complete)
-- **Progress**: ~30-38% complete
-- **Remaining**: ~24,759-34,759 words
-- **Average Words Per Chapter**: 1,386 words
+- **Current Progress**: 15,812 words (12 chapters complete)
+- **Progress**: ~32-40% complete
+- **Remaining**: ~24,188-34,188 words
+- **Average Words Per Chapter**: 1,318 words
 
 ### Next Priority
-- **Chapter 12: "The Security Audit"** - External auditors find violations in the most ridiculous places
 - **Chapter 13: "The General's Vision"** - Follow Vincent through his day, showing his disconnect from reality
+- **Chapter 14: "The Vendor Meeting"** - Sales presentation that's completely disconnected from reality
 
 
 
@@ -62,9 +63,11 @@
 13. **Final review** - Ensure consistent tone and character voices
 
 ## Writing Goals
-- **Per Chapter**: 2,000-2,500 words
+- **Per Chapter**: 1,500 words (target range: 1,200-1,800 words)
 - **Per Session**: 1-2 chapters
-- **Weekly Target**: 5,000-7,500 words
+- **Weekly Target**: 3,000-4,500 words
+- **Current Issue**: Recent chapters are too short (553, 907, 571 words)
+- **Solution**: Expand scenes with more dialogue, description, and character interaction
 
 ## Key Comedic Moments to Develop
 

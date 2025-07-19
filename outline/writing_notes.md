@@ -56,17 +56,34 @@ When writing chapters, use first names only unless there's a formal context that
 - Use "Taskly" for the internal project management system
 - Don't use "JIRA" or "EnterpriseJIRA" - too obvious
 
-### Tone Reminders
-- Characters don't grow or collaborate - they just survive in their own ways
-- No explicit statements about nothing changing at the end
-- Focus on cynical camaraderie, not friendship
-- Individual survival strategies, not coordinated resistance
+### Tone Reminders - UPDATED FOR ESCALATING STAKES
+**For Corporate/Plot-Driven Chapters:**
+- Characters start with individual survival strategies but are forced to adapt
+- Their usual approaches become more dangerous and risky over time
+- The company's dysfunction escalates to crisis levels
+- They're eventually forced to work together when individual strategies fail
+- Focus on escalating consequences, not just survival
 
-### Chapter Structure
-- Each chapter focuses on a specific corporate incident
-- Characters respond individually to the same situation
-- They share cynical observations but don't work together
-- End with them continuing to survive in their own ways
+**For Character Sketch Chapters:**
+- Focus on character depth and personal life
+- Show the human side of characters outside of work
+- Can include character growth and reflection
+- These chapters provide balance and humanity to the story
+
+### Chapter Structure - UPDATED FOR ESCALATING STAKES
+**For Corporate/Plot-Driven Chapters (1, 4-27):**
+- Each chapter should build on previous chapters and have higher consequences
+- Characters' previous victories should come back to haunt them
+- Management should become more suspicious and desperate over time
+- The company's dysfunction should reach crisis levels
+- End with escalating tension, not just survival
+
+**For Character Sketch Chapters (2-3):**
+- Standalone character development pieces
+- Focus on personal life and individual perspective
+- No need to build on previous corporate events
+- Can end with character reflection or personal moments
+- These chapters provide depth and humanity to the characters
 
 ### Dialogue Style
 - Use first names in all casual conversation
@@ -92,6 +109,44 @@ When writing chapters, use first names only unless there's a formal context that
 
 ### Key Principle
 **Each chapter should feel fresh and avoid repeating the same jokes or phrases. The humor should come from the situation, not from tired corporate satire tropes.**
+
+## Circular Reasoning and Catch-22 Logic
+
+### Core Concept
+**Incorporate circular reasoning and catch-22 logic that's central to Catch-22 into corporate conversations and processes.**
+
+### Management Circular Logic Examples:
+- "We need to increase productivity to justify the budget, but we need the budget to increase productivity"
+- "You can't work on that project until it's approved, but it can't be approved until you show progress on it"
+- "We need to reduce meetings to increase productivity, so let's have a meeting about reducing meetings"
+
+### Bureaucratic Catch-22s:
+- "You need manager approval to access the system, but you need system access to request manager approval"
+- "The security policy requires you to change your password every 30 days, but you can't change it until you log in, and you can't log in because your password expired"
+- "You can't submit your timesheet until you complete your tasks, but you can't complete your tasks until you log your time"
+
+### Corporate Process Loops:
+- "We need to document everything for compliance, but the documentation process is so complex it prevents us from doing the work we need to document"
+- "The performance review system measures productivity, but filling out the performance review system takes so much time it reduces productivity"
+
+### Character-Specific Circular Logic:
+
+**Vincent's Innovation Loop:**
+- "We need to innovate to stay competitive, but we can't take risks because we need to stay competitive"
+- "You should think outside the box, but make sure you follow all the established processes"
+
+**Sarah's Management Paradox:**
+- "I need to protect my team from unreasonable demands, but I need to show I'm a team player by supporting management's unreasonable demands"
+
+**David's HR Logic:**
+- "We need to improve employee satisfaction to reduce turnover, but we can't spend money on improvements because turnover is too high"
+
+### How to Use Circular Logic:
+- Have management present these circular arguments with complete sincerity
+- Let the engineers point out the logical flaws
+- Show management doubling down on the circular logic when challenged
+- Use these moments to escalate the absurdity and dysfunction
+- The circular logic should become more extreme as the story progresses
 
 ## Jordan's Comedic Dynamic
 
