@@ -24,7 +24,7 @@ Alex glanced at her watch. They were already ten minutes behind schedule.
 
 Sarah, their engineering manager, stepped forward eagerly. "We'll be implementing a comprehensive suite of new processes designed to optimize our velocity and increase our throughput."
 
-"Velocity and throughput," Alex muttered. "Two words that mean absolutely nothing when you're dealing with legacy code that hasn't been touched in five years."
+"Velocity and throughput" Alex rolled her eyes.
 
 "Now, let me introduce you to our new productivity metrics," Sarah continued. "We'll be tracking story points, velocity, burndown charts, and—"
 
@@ -36,7 +36,7 @@ Jordan raised his hand. "What about our current projects? We have several featur
 
 "Excellent question," Vincent said, stepping back in. "We'll be doing a complete reset. All current work will be re-evaluated through our new agile framework."
 
-Michael, their technical lead, finally spoke up. "I have some concerns about the timeline. We have a major release scheduled for next month."
+Michael, their technical lead, finally spoke up. "I have some concerns about the timeline. We have a major release scheduled for next month.  Can't we finish that first?"
 
 Vincent waved his hand dismissively. "We'll pivot. That's what agile is all about—being flexible and responsive to change."
 

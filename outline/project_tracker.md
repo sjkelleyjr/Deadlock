@@ -3,22 +3,23 @@
 ## Current Status
 
 ### Completed Chapters
-- **Chapter 1: "The All-Hands Meeting & Taskly Migration"** - 1,886 words
-- **Chapter 2: "Sarah's Day"** - 1,769 words
+- **Chapter 1: "The All-Hands Meeting & Taskly Migration"** - 1,874 words
+- **Chapter 2: "Sarah's Day"** - 1,755 words
 - **Chapter 3: "Alex's Guitar"** - 1,233 words
 - **Chapter 4: "The Performance Review"** - 1,731 words
 - **Chapter 5: "Michael's Dilemma"** - 1,384 words
-- **Chapter 6: "The Sprint Planning Disaster"** - 1,657 words
-- **Total Completed**: 9,660 words
+- **Chapter 6: "The Sprint Planning Disaster"** - 1,659 words
+- **Chapter 7: "Jordan's Network"** - 1,623 words
+- **Total Completed**: 11,259 words
 
 ### Progress Summary
 - **Total Target**: 40-50,000 words
-- **Current Progress**: 9,660 words (6 chapters complete)
-- **Remaining**: ~30,340-40,340 words
+- **Current Progress**: 11,259 words (7 chapters complete)
+- **Remaining**: ~28,741-38,741 words
 
 ### Next Priority
-- **Chapter 7: "Jordan's Network"** - Jordan at networking events
 - **Chapter 8: "The Code Review Process"** - New mandatory code review policy
+- **Chapter 9: "Marcus's Side Projects"** - Mack's automation scripts and projects
 
 
 

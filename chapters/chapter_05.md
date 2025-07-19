@@ -30,7 +30,7 @@ Alex gave him a look that said she understood exactly what he wasn't saying. "Wi
 
 After Alex left, Michael opened his calendar and saw he had a one-on-one with Sarah in thirty minutes. He'd been dreading it all morning. Sarah would want to discuss the "excellent progress" they were making with Taskly, and he'd have to nod and smile and pretend everything was working perfectly.
 
-His phone buzzed again. It was Jenny: "Emma has a fever. I'm taking her to the doctor. Can you pick up Jake from soccer practice?"
+His phone buzzed again. It was Jenny: "Sophie has a fever. I'm taking her to the doctor. Can you pick up Liam from soccer practice?"
 
 Michael looked at his calendar. He had the one-on-one with Sarah, then a team meeting, then a call with the vendor about the new monitoring system. "I'll try," he replied. "What time is practice?"
 
@@ -100,13 +100,13 @@ After Jordan left, Michael opened his email and found a message from Vincent. "G
 
 Michael stared at the email. The adoption metrics were fake. The system was broken. But Vincent was happy, Sarah was happy, and Michael was being offered a promotion. He was succeeding by every metric that mattered to the company, even though none of those metrics reflected reality.
 
-His phone buzzed. It was Jenny again: "Emma has strep throat. The doctor prescribed antibiotics. How's your day going?"
+His phone buzzed. It was Jenny again: "Sophie has strep throat. The doctor prescribed antibiotics. How's your day going?"
 
 Michael looked at Vincent's email, then at the Taskly report, then at his calendar full of meetings about a system that didn't work.
 
 "Fine," he replied. "Just another day at the office."
 
-At 6:15, he packed up his laptop and headed for the elevator. He had fifteen minutes to get to Jake's soccer practice. If he left now, he could make it. If he stayed for the team meeting, he'd be late again.
+At 6:15, he packed up his laptop and headed for the elevator. He had fifteen minutes to get to Liam's soccer practice. If he left now, he could make it. If he stayed for the team meeting, he'd be late again.
 
 His phone buzzed. It was Sarah: "Great meeting today, Michael. I'm excited about the possibilities for your future here at ByteSauce."
 
@@ -116,7 +116,7 @@ Michael stared at the message. At 6:15 PM.
 
 He pulled over to the side of the road and called Jenny.
 
-"Hey," she said. "Are you on your way to get Jake?"
+"Hey," she said. "Are you on your way to get Liam?"
 
 "Actually," Michael said, "I need to go back to the office. Vincent wants to discuss the Taskly metrics."
 
@@ -124,11 +124,11 @@ He pulled over to the side of the road and called Jenny.
 
 "I know. I'm sorry."
 
-Jenny was quiet for a moment. "I'll ask my mom to pick up Jake."
+Jenny was quiet for a moment. "I'll ask my mom to pick up Liam."
 
 Michael felt another pang of guilt. "I'm really sorry, Jenny. This shouldn't take long."
 
-"Michael, this is the third time this week. Jake's been asking when you're going to come to one of his practices."
+"Michael, this is the third time this week. Liam's been asking when you're going to come to one of his practices."
 
 "I know. I'll make it up to him. I promise."
 

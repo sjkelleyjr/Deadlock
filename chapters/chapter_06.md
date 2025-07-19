@@ -1,6 +1,6 @@
 # Chapter 6
 
-The conference room was set up for what Sarah called a "proper agile sprint planning session." There were sticky notes, whiteboards covered in columns labeled "To Do," "In Progress," and "Done," and a stack of index cards that looked suspiciously like they'd been purchased specifically for this meeting.
+The conference room was set up for what Sarah called a "proper agile sprint planning session." There were sticky notes, whiteboards covered in columns labeled "To Do," "In Progress," and "Done," and a stack of index cards that had been purchased specifically for this meeting.
 
 Alex sat at the table, watching Sarah organize the materials with the precision of someone who'd watched too many YouTube videos about agile methodology. She'd even brought a timer, which she placed prominently in the center of the table.
 
@@ -84,9 +84,9 @@ Jordan cleared his throat again. "I think we might want to consider a more phase
 
 Sarah shook her head. "That's not agile. In agile, we deliver working software every sprint. We can't wait three sprints to see results."
 
-"Working software.  You mean software that actually works?"  Alex skickered.
+"Working software.  As opposed to the broken software we're currently using?" Alex snickered.
 
-"Of course!" Sarah said. "That's what agile is all about."
+"Maybe the Taskly team should've considered agile." chuckled Mack.
 
 Mack leaned back in his chair. "So we're supposed to deliver three complex features in two weeks, with unrealistic estimates, and make sure they actually work?"
 
@@ -112,7 +112,7 @@ Sarah brightened. "Jordan, that's exactly the kind of agile thinking we need! Yo
 
 Mack glanced at Jordan, amazed that he was able to convince Sarah that the task she had just said was 1 point had now become 3 points.
 
-Jordan glanced backed at Mack and grinned slightly.
+Jordan glanced backed at Mack and grinned slyly.
 
 Sarah continued writing on the whiteboard. "So our sprint goal is: 'User can log in with email and password.' That's 3 points. We can definitely do that in two weeks."
 
@@ -138,7 +138,7 @@ Jordan cleared his throat. "I think we might want to consider making the standup
 
 Sarah shook her head. "Standups are mandatory. That's how we build team cohesion and ensure accountability."
 
-"Accountability," Mack said. "For a 3-point story."
+"Daily standups," Mack said. "For a login form."
 
 "Exactly!" Sarah said, missing the point yet again. "Now let's set up our sprint board. We'll use Taskly to track our progress."
 
@@ -152,6 +152,6 @@ Sarah brightened. "Jordan, that's a great idea! You could help coordinate the Ta
 
 Jordan's smile faltered slightly. "I... of course. I'd be happy to help facilitate the process." he said behind gritted teeth.
 
-Mack grinned. "Nice going."
+Mack glanced at Jordan and grinned.
 
 The meeting continued for another hour, with Sarah explaining the finer points of agile methodology while the engineers tried to figure out how to make it work with their actual constraints. By the end, they had committed to a 3-point story that should have been 8 points, scheduled daily standups that no one wanted to attend, and assigned Jordan to coordinate the Taskly integration.

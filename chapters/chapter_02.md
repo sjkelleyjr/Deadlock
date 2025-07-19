@@ -62,7 +62,7 @@ Michael sighed. "Honestly? Not great. The team is frustrated with Taskly, and I'
 
 Sarah nodded. She understood that feeling all too well. "What can I do to help?"
 
-"I don't know. The system keeps crashing, and we're spending more time fighting with it than actually working. But Vincent wants adoption metrics, so they're generating fake data to make it look like everything is working."
+"I don't know. The system keeps crashing, and we're spending more time fighting with it than actually working. But Vincent wants adoption metrics."
 
 Sarah felt a pang of guilt. She was the one who'd pushed for the migration, who'd presented Taskly as the solution to all their problems. She'd believed in it, or at least she'd wanted to believe in it.
 
