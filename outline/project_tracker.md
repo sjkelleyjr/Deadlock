@@ -15,18 +15,19 @@
 - **Chapter 10: "The Team Building Exercise"** - 553 words
 - **Chapter 11: "The Budget Meeting"** - 907 words
 - **Chapter 12: "The Security Audit"** - 571 words
-- **Total Completed**: 15,812 words
+- **Chapter 13: "The General's Vision"** - 2,183 words
+- **Total Completed**: 17,995 words
 
 ### Progress Summary
 - **Total Target**: 40-50,000 words
-- **Current Progress**: 15,812 words (12 chapters complete)
-- **Progress**: ~32-40% complete
-- **Remaining**: ~24,188-34,188 words
-- **Average Words Per Chapter**: 1,318 words
+- **Current Progress**: 17,995 words (13 chapters complete)
+- **Progress**: ~36-45% complete
+- **Remaining**: ~22,005-32,005 words
+- **Average Words Per Chapter**: 1,384 words
 
 ### Next Priority
-- **Chapter 13: "The General's Vision"** - Follow Vincent through his day, showing his disconnect from reality
 - **Chapter 14: "The Vendor Meeting"** - Sales presentation that's completely disconnected from reality
+- **Chapter 15: "The Innovation Workshop"** - Management loves Mack's absurd ideas, rejects practical ones
 
 
 
