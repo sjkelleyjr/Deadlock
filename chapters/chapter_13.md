@@ -164,4 +164,4 @@ Vincent left the office at 7 PM. The parking garage was mostly empty.
 
 He drove home in his Tesla Model S, listening to a podcast about leadership strategies. The host was talking about the importance of vision and execution. The leather seats were still warm from the sun.
 
-At his modern glass-and-steel house in the hills, he poured himself a glass of twenty-year-old scotch and checked his email. Three new messages about the Triple-A Framework implementation. 
+At his modern glass-and-steel house in the hills, he poured himself a glass of twenty-year-old scotch on his rooftop overlooking the city and checked his email. Three new messages about the Triple-A Framework implementation. 
