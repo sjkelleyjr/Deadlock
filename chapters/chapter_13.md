@@ -160,10 +160,8 @@ Another employee spoke up. "But what about the work we're already doing? Won't t
 
 Vincent shook his head. "Not at all. These processes are designed to accelerate our work, not slow it down. Think of it like upgrading from a bicycle to a motorcycle—you're still moving forward, but now you're moving much faster."
 
-The Q&A session continued for another hour, with employees asking questions that Vincent answered with increasing enthusiasm. By the end, he felt that the town hall had been a success. The employees seemed engaged and excited about the future.
-
 Vincent left the office at 7 PM. The parking garage was mostly empty.
 
-He drove home listening to a podcast about leadership strategies. The host was talking about the importance of vision and execution.
+He drove home in his Tesla Model S, listening to a podcast about leadership strategies. The host was talking about the importance of vision and execution. The leather seats were still warm from the sun.
 
-At home, he poured himself a drink and checked his email. Three new messages about the Triple-A Framework implementation. 
+At his modern glass-and-steel house in the hills, he poured himself a glass of twenty-year-old scotch and checked his email. Three new messages about the Triple-A Framework implementation. 
