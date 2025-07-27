@@ -1,4 +1,4 @@
-# Plot Outline: Seg Fault
+# Plot Outline: Deadlock
 
 ## Act 1: The Absurdity Begins (Chapters 1-11) - COMPLETED
 *The engineers discover the company's dysfunction and develop their individual survival strategies*
