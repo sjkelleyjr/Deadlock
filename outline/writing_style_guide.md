@@ -115,6 +115,39 @@
 - **Climax**: Peak of the situation or revelation (200-300 words)
 - **Resolution**: Show consequences or aftermath (200-300 words)
 
+### Chapter Openings - VARIED APPROACHES
+**Avoid repetitive openings. Each chapter should start differently.**
+
+### What NOT to Do:
+- ❌ "The email arrived at [time] on a [day]"
+- ❌ Always starting with email notifications
+- ❌ Formulaic openings that feel repetitive
+- ❌ "Alex was already having a bad day—her coffee machine had broken again..."
+- ❌ Always starting with the same character's perspective
+
+### What TO Do:
+- ✅ Start with action or dialogue
+- ✅ Begin with a character in motion
+- ✅ Open with a scene already in progress
+- ✅ Start with a different character's perspective
+- ✅ Begin with a corporate situation already unfolding
+- ✅ Open with sensory details or atmosphere
+- ✅ Start with a meeting already in progress
+- ✅ Begin with a character arriving somewhere
+- ✅ Open with a problem already happening
+
+### Examples of Good Chapter Openings:
+- "Bradley from Optimize arrived at 1:45 PM, fifteen minutes early for his demo..."
+- "The conference room was already packed when Alex walked in..."
+- "Vincent's day began at 6:30 AM, as it always did..."
+- "Mack was already at his desk when the meeting reminder popped up..."
+- "The security audit wasn't just another meeting this time. It was a reckoning..."
+- "Sarah looked up from her screen as the notification appeared..."
+- "Jordan was scrolling through his phone when the announcement came..."
+
+### Key Principle
+**Each chapter should feel distinct and fresh. The opening should immediately engage the reader and establish the situation without falling into repetitive patterns.**
+
 ### Why This Length Matters
 - **Consistency**: Readers expect similar chapter lengths
 - **Depth**: Enough space to develop situations and character interactions

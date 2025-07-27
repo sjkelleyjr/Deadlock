@@ -3,31 +3,32 @@
 ## Current Status
 
 ### Completed Chapters
-- **Chapter 1: "The All-Hands Meeting & Taskly Migration"** - 1,874 words
-- **Chapter 2: "Sarah's Day"** - 1,755 words
-- **Chapter 3: "Alex's Guitar"** - 1,233 words
-- **Chapter 4: "The Performance Review"** - 1,731 words
+- **Chapter 1: "The All-Hands Meeting & Taskly Migration"** - 1,871 words
+- **Chapter 2: "Sarah's Day"** - 1,757 words
+- **Chapter 3: "Alex's Guitar"** - 1,235 words
+- **Chapter 4: "The Performance Review"** - 1,732 words
 - **Chapter 5: "Michael's Dilemma"** - 1,384 words
 - **Chapter 6: "The Sprint Planning Disaster"** - 1,659 words
 - **Chapter 7: "Jordan's Network"** - 1,623 words
 - **Chapter 8: "The Code Review Process"** - 1,010 words
 - **Chapter 9: "Mack's Side Projects"** - 1,512 words
-- **Chapter 10: "The Team Building Exercise"** - 553 words
+- **Chapter 10: "The Team Building Exercise"** - 541 words
 - **Chapter 11: "The Budget Meeting"** - 907 words
-- **Chapter 12: "The Security Audit"** - 571 words
-- **Chapter 13: "The General's Vision"** - 2,183 words
-- **Total Completed**: 17,995 words
+- **Chapter 12: "The Security Audit"** - 547 words
+- **Chapter 13: "The General's Vision"** - 2,173 words
+- **Chapter 14: "The Vendor Meeting"** - 1,406 words
+- **Total Completed**: 19,357 words
 
 ### Progress Summary
 - **Total Target**: 40-50,000 words
-- **Current Progress**: 17,995 words (13 chapters complete)
-- **Progress**: ~36-45% complete
-- **Remaining**: ~22,005-32,005 words
-- **Average Words Per Chapter**: 1,384 words
+- **Current Progress**: 19,357 words (14 chapters complete)
+- **Progress**: ~39-48% complete
+- **Remaining**: ~20,643-30,643 words
+- **Average Words Per Chapter**: 1,383 words
 
 ### Next Priority
-- **Chapter 14: "The Vendor Meeting"** - Sales presentation that's completely disconnected from reality
 - **Chapter 15: "The Innovation Workshop"** - Management loves Mack's absurd ideas, rejects practical ones
+- **Chapter 16: "The Major Major Investigation"** - HR investigates complaints about the engineers
 
 
 
