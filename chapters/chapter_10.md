@@ -6,8 +6,6 @@ The email arrived on a Tuesday morning, just as Alex was settling into her desk.
 
 Mack appeared at her desk, eyes wide. “You get the team building email too?”
 
-“Apparently, we need to ‘strengthen our bonds’ and ‘improve communication,’” Alex said.
-
 Jordan joined them, already plotting. “I say we treat this like a hackathon. But for chaos.”
 
 Friday came and the team shuffled into the conference room.

@@ -1,6 +1,6 @@
 # Chapter 1
 
-The conference room smelled like stale coffee and desperation. Alex sat in her usual spot near the back, watching the rest of the engineering team file in. She'd arrived ten minutes early and had already counted the buzzwords in the agenda. Twenty-three. A new record.
+The conference room smelled like stale coffee and desperation. Alex sat in her usual spot near the back, watching the rest of the engineering team file in. She'd arrived ten minutes early and had already counted the buzzwords in the agenda.
 
 "Digital Transformation Initiative 2.0," she muttered to herself, reading the first slide. "Because 1.0 was such a resounding success."
 
@@ -14,7 +14,7 @@ Jordan slid into the seat on Alex's other side, carrying a notebook and three di
 
 "Vincent's pet project," Jordan said, opening his notebook. "He's been working on this for months."
 
-Vincent, VP of Engineering, made his grand entrance five minutes late. He wore expensive casual wear and carried the latest iPhone, which he used to check something important as he walked to the front of the room.
+Vincent, VP of Engineering, made his grand entrance characteristically late. He wore expensive casual wear and carried the latest iPhone, which he used to check something important as he walked to the front of the room.
 
 "Thanks for coming, everyone," Vincent said, not looking up from his phone. "I know you're all busy, so I'll keep this brief."
 
@@ -30,7 +30,7 @@ Sarah, their engineering manager, stepped forward eagerly. "We'll be implementin
 
 "Story points?" Mack interrupted. "We're not even using agile methodology."
 
-Sarah's smile didn't waver, but Alex could see the panic in her eyes. "That's exactly why we need this transformation! We're moving to a fully agile approach with two-week sprints, daily standups, and comprehensive retrospectives."
+Sarah's smile didn't waver, but Alex could see a hint of panic in her eyes. "That's exactly why we need this transformation! We're moving to a fully agile approach with two-week sprints, daily standups, and comprehensive retrospectives."
 
 Jordan raised his hand. "What about our current projects? We have several features in development that are already behind schedule."
 
@@ -40,7 +40,7 @@ Michael, their technical lead, finally spoke up. "I have some concerns about the
 
 Vincent waved his hand dismissively. "We'll pivot. That's what agile is all about—being flexible and responsive to change."
 
-The presentation continued for another forty-five minutes. Vincent talked about "innovation culture" and "failing fast," while Sarah explained how the new metrics would help them "move the needle" and "drive results." Alex counted thirty-seven buzzwords by the end.
+The presentation continued for another forty-five minutes. Vincent talked about "innovation culture" and "failing fast," while Sarah explained how the new metrics would help them "move the needle" and "drive results."
 
 "Any questions?" Vincent asked, looking around the room.
 
@@ -56,7 +56,7 @@ A few people chuckled. Sarah's smile became more strained.
 
 Vincent nodded appreciatively. "Exactly. That's the kind of positive attitude we need. Jordan, I'd like you to help coordinate the transition."
 
-Jordan's smile faltered slightly. He'd been trying to smooth things over, not volunteer for more work. "I... of course. I'd be happy to help facilitate the process."
+Jordan's smile faltered slightly. He'd been trying to smooth things over, not volunteer for more work. "I... of course. I'd be happy to help facilitate the process."  Mack shot him a smirk.
 
 The meeting ended with Sarah distributing packets of information about the new processes. Alex flipped through her packet and found fourteen different forms that would need to be filled out weekly.
 
@@ -76,19 +76,19 @@ Michael gave her a tired smile. "Thanks for the vote of confidence."
 
 Back at their desks, Alex opened her email and found nineteen new messages about the Digital Transformation Initiative 2.0. She deleted them all without reading them.
 
-At 5:30, Alex packed up her laptop and headed for the elevator. The doors opened, but the elevator didn't move. She pressed the button again. Nothing.
+At the end of the day, Alex packed up her laptop and headed for the elevator. The doors opened, but the elevator didn't move. She pressed the button again. Nothing.
 
 The elevator was broken again.
 
 ---
 
-Monday morning, Alex arrived at her desk to find a new laptop sitting there, along with a stack of documentation and a note from Sarah. "Please migrate all your current projects to Taskly by end of day. Training session at 10 AM."
+Next Monday morning, Alex arrived at her desk to find a new laptop sitting there, along with a stack of documentation and a note from Sarah. "Please migrate all your current projects to Taskly by end of day. Training session at 10 AM."
 
 She opened the laptop and stared at the login screen. The Taskly logo looked suspiciously familiar.
 
 Mack dropped into the chair next to her, carrying his own new laptop. "What's a Taskly?"
 
-"Apparently we're migrating to an internal JIRA today," Alex said. "All projects need to be moved by end of day."
+"Apparently we're migrating to an internal project tracker today," Alex said. "All projects need to be moved by end of day."
 
 "End of day?" Mack said. "We have what, eight hours to move everything?"
 
@@ -120,11 +120,11 @@ Jordan was asking questions about the integration capabilities. "What about our 
 
 Alex tried the migration tool. It crashed after processing three tasks.
 
-"Straightforward," she said to Mack, rolling her eyes.
+"Straightforward" she said to Mack.
 
 Back at their desks, Mack was already working on a solution. "I'm building a script to auto-generate tasks," he said. "If they want us to use this system, I'll give them what they want."
 
-"Won't that get you in trouble?" Alex asked.
+"Won't you get into trouble?" Alex asked.
 
 "Only if they figure out it's fake," Mack said. "And since they don't understand the system anyway, they'll never know the difference."
 
@@ -162,7 +162,7 @@ Michael's smile faltered slightly. "Three? We were expecting at least ten by now
 
 "Ten?" Alex said. "Each project takes about an hour to migrate, and the system crashes every fifteen minutes. Three is actually pretty good."
 
-At 5 PM, Vincent appeared in the engineering area. He looked around at the engineers, most of whom were still working on their migrations.
+An hour later, Vincent appeared in the engineering area. He looked around at the engineers, most of whom were still working on their migrations.
 
 "How's the Taskly migration going?" he said.
 
@@ -172,4 +172,4 @@ Sarah stepped forward. "We're making excellent progress. The team is adapting we
 
 After Vincent left, Alex looked at Mack. "Adoption metrics?"
 
-"Already on it," Mack said. "My script is generating login data, task creation data, and usage analytics. By tomorrow morning, we'll have the best adoption metrics in all of ByteSauce."
+"Already on it," Mack said. "My script is generating login data, task creation data, and usage analytics. By tomorrow morning, we'll have the best adoption metrics in the entire company."

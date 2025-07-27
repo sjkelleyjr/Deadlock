@@ -28,7 +28,7 @@ Lisa from the Innovation Lab piped up. "Maybe we can automate the compliance pro
 
 Jordan frowned. "But if the system changes the password, the user won't know it. They'll be locked out."
 
-Sarah nodded. "And then they'll call IT, who will reset it to 'password123' again."
+Sarah nodded. "And then they'll call IT, who will reset it to 'password123'."
 
 Vincent scribbled something on his notepad. "We need a process to ensure the process is being followed, and a process to ensure the process for following the process is also being followed."
 
@@ -44,6 +44,6 @@ By the end of the meeting, nothing had been resolved. The auditors had recommend
 
 As the engineers left the room, Alex said, "Did we just survive a security audit by proving that security is impossible?"
 
-Mack shrugged. "We survived by making the process so circular that nobody could figure out where to start."
+Mack shrugged. "They made the process so circular that nobody could figure out where to start."
 
 Jordan checked his phone. "We have a follow-up meeting scheduled for next week. The agenda is 'Review of the Review Process.'"

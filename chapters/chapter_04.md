@@ -20,9 +20,9 @@ Alex laughed. "They're not going to notice?"
 
 "Notice what? That I copied last year's responses? They don't read these things anyway."
 
-Jordan joined them, carrying a notebook and looking thoughtful. "Actually, I think we should take this seriously. Performance reviews can impact promotions and raises."
+Jordan joined them, carrying his customary notebook and looking thoughtful. "Actually, I think we should take this seriously. Performance reviews can impact promotions and raises."
 
-"Promotions?" Mack said. "To what? Senior Engineer? Lead Engineer? Engineering Manager? No thanks."
+"Promotions?" Mack said. "To what? Senior Engineer? Tech Lead? Engineering Manager? No thanks."
 
 "Raises, then," Jordan shrugged. "Money is money."
 

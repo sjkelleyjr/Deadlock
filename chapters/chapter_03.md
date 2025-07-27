@@ -32,7 +32,7 @@ Her cat, Pixel, wandered into the room and jumped up on the couch next to her. P
 
 Pixel purred and settled down next to her, watching her fingers move across the fretboard. He was used to this routine - Alex playing guitar late at night when she couldn't sleep, when work was too much to process.
 
-She thought about the barista at her coffee shop. His name was Jake, and he was probably in his early twenties. He had a tattoo of a guitar on his forearm, and she'd overheard him talking about his band to another customer. They were playing a show next weekend at The Basement.
+She thought about the barista at her coffee shop. His name was Jake, and he was probably in his early twenties. He had a tattoo of a guitar on his forearm, and she'd overheard him talking about his band The Yahoos to another customer. They were playing a show next weekend at The Basement.
 
 She'd thought about asking him about it, about telling him that she used to play too. But she was thirty-two, and he was probably twenty-three, and the idea of explaining her corporate job to someone who spent his days making coffee and his nights playing music felt impossible.
 

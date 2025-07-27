@@ -62,7 +62,7 @@ Michael sighed. "Honestly? Not great. The team is frustrated with Taskly, and I'
 
 Sarah nodded. She understood that feeling all too well. "What can I do to help?"
 
-"I don't know. The system keeps crashing, and we're spending more time fighting with it than actually working. But Vincent wants adoption metrics."
+"I don't know. The system keeps crashing, and we're spending more time fighting with it than actually working. But Vincent wants adoption metrics.", he shrugged.
 
 Sarah felt a pang of guilt. She was the one who'd pushed for the migration, who'd presented Taskly as the solution to all their problems. She'd believed in it, or at least she'd wanted to believe in it.
 
@@ -98,7 +98,7 @@ At 2 PM, she had a team meeting with the engineers. Alex, Mack, and Jordan were 
 
 Sarah nodded. "I understand there are some technical issues. But we need to push through them. ByteSauce has invested a lot in this system."
 
-"Invested a lot in a system that doesn't work," Mack muttered.
+"Invested a lot in a system that doesn't work." Mack muttered.
 
 Sarah pretended not to hear. "I'm working on getting you more training and support. In the meantime, please continue with the migration as best you can."
 
