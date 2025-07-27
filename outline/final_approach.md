@@ -1,4 +1,4 @@
-# Final Approach: Corporate Chaos
+# Final Approach: Seg Fault
 
 ## Core Concept
 A comedic novel about three engineers surviving corporate absurdity in their own ways, sharing cynical camaraderie without trying to change each other or the system. Inspired by the tone of *Catch-22* and *MASH*.

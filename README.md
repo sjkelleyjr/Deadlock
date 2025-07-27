@@ -1,4 +1,4 @@
-# Corporate Chaos: A Tech Comedy Novel
+# Seg Fault
 
 ## Project Overview
 A 40-50,000 word comedic novel following 2-3 engineers navigating the absurdities of big tech corporate bureaucracy. Inspired by the satirical humor of *Catch-22* and *MASH*.
