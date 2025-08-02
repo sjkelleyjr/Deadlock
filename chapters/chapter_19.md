@@ -1,4 +1,4 @@
-# Chapter 19: The Crisis
+# Chapter 19
 
 The first alert came in at 2:47 PM on a Tuesday afternoon. Alex was in the middle of a code review when her Slack notification sound went off three times in rapid succession.
 
@@ -22,7 +22,7 @@ Alex pulled up the logs. The culprit was obvious—the overengineered data expor
 
 Slack exploded with panicked messages. Customer Success was drowning in tickets. Sales couldn't access the CRM. The company was at a standstill.
 
-Vincent’s message popped up: "What's happening? Why is everything down?"
+Vincent's message popped up: "What's happening? Why is everything down?"
 
 Alex: "That export tool is causing a cascade failure."
 

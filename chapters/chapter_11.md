@@ -30,7 +30,7 @@ Mack raised his hand. "So, if I understand correctly, you want us to do 50% more
 
 Alex couldn't help herself. "That's mathematically impossible."
 
-Vincent frowned. "Nothing is impossible if you think outside the box.  Frugality breeds innovative!"
+Vincent frowned. "Nothing is impossible if you think outside the box. Frugality breeds innovation!"
 
 Mack grinned. "Oh, I love thinking outside the box. Let me propose a solution."
 
@@ -80,7 +80,7 @@ The meeting devolved into a discussion of measurement frameworks, stakeholder an
 
 By the end of the meeting, the engineers had successfully turned a budget cut into a research project. Vincent was nodding along to discussions of "value stream mapping" and "outcome-based metrics," lured by his love of planning.
 
-As they left the conference room, Mack grinned. "Well, that was fun."
+Mack grinned as they walked back to their desks. "Well, that was fun."
 
 Alex nodded. "We just turned a budget cut into a paid research project."
 

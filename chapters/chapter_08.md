@@ -1,8 +1,6 @@
 # Chapter 8
 
-The email arrived at 8:30 AM on Monday morning, just as Alex was settling into her desk with her coffee. The subject line read "MANDATORY: New Code Review Policy - Effective Immediately" and was sent from Vincent's office.
-
-Alex opened it and immediately groaned. The email was three pages long and contained phrases like "quality assurance," "knowledge sharing," "best practices," and "innovation culture." She scrolled down to find the actual requirements.
+"MANDATORY: New Code Review Policy - Effective Immediately," Alex read from her screen, groaning as she settled into her desk with her coffee. The email was three pages long and contained phrases like "quality assurance," "knowledge sharing," "best practices," and "innovation culture." She scrolled down to find the actual requirements.
 
 "All code changes must be reviewed by at least two team members before deployment," she read aloud. "Reviewers must provide constructive feedback and ensure code meets ByteSauce standards. Reviews must be completed within 24 hours of submission."
 
@@ -72,7 +70,7 @@ The team's code became increasingly complex and difficult to maintain, but manag
 
 "Look at how our engineers are collaborating and innovating," he'd say. "The code review process has transformed our development culture."
 
-The engineers would nod and smile, knowing exactly what they were doing.
+The engineers would nod and smile.
 
 Alex looked at her latest review comment with satisfaction: "Great use of design patterns here. Maybe we could add some additional abstraction layers to make this more maintainable for future iterations."
 

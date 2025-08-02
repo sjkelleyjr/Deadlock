@@ -6,7 +6,7 @@ He opened his laptop and checked his calendar. Today was investigation day. He h
 
 At 9:25 AM, David gathered his clipboard and walked toward Alex's desk. He passed by the engineering area, noting the casual atmosphere—hoodies, coffee cups, the faint sound of typing. It was so different from the HR floor, where everyone wore business casual and spoke in measured tones.
 
-"Alex, I need to speak with you about some concerns that have been raised," David said, appearing at her desk with his practiced professional smile.
+"Alex, I need to speak with you about some concerns that have been raised," David announced, appearing at her desk with his practiced professional smile.
 
 Alex glanced at her screen, then back at David. "What kind of concerns?"
 
@@ -14,7 +14,7 @@ David opened his clipboard and began reading from his prepared statement. "The e
 
 Alex blinked. "Who made these accusations?"
 
-"Anonymous complaints," David said simply. "Standard procedure requires investigation regardless of source."
+"Anonymous complaints," David responded simply. "Standard procedure requires investigation regardless of source."
 
 Alex leaned back in her chair. "So you're investigating us based on anonymous complaints about not being excited enough about broken systems?"
 
@@ -62,7 +62,7 @@ David wrote this down. "I think I have sufficient information for now. This inve
 
 "Two weeks to investigate complaints about not being excited enough about broken systems?"
 
-David's smile remained unchanged. "I have a process to follow. I'll be interviewing all team members and preparing a comprehensive report."
+David's smile remained unchanged. "I have a procedure to follow. I'll be interviewing all team members and preparing a comprehensive report."
 
 Alex watched as David stood and walked toward Mack's desk, clipboard in hand. She could hear him beginning the same prepared statement.
 
@@ -79,7 +79,7 @@ The investigation into allegations against the engineering team has revealed rec
 
 David paused, considering his next sentence. He had learned early in his HR career that the key to successful investigations was maintaining objectivity while following established procedures. He had handled everything from dress code disputes to workplace harassment, and he prided himself on his ability to remain impartial.
 
-He continued writing, detailing each allegation and the team's responses. The process was familiar—he had done this many times before. The engineers' answers were straightforward, sometimes blunt, always rooted in what worked. David had seen this before: technical people who valued results over rituals.
+He continued writing, detailing each allegation and the team's responses. The procedure was familiar—he had done this many times before. The engineers' answers were straightforward, sometimes blunt, always rooted in what worked. David had seen this before: technical people who valued results over rituals.
 
 At 2:30 PM, David took a break and walked to the break room for coffee. He passed by the engineering area again, noting the contrast with his own department. The engineers worked in an open space with standing desks and whiteboards covered in diagrams. His HR colleagues worked in cubicles with motivational posters and filing cabinets.
 
@@ -90,19 +90,19 @@ David poured himself a cup of coffee and thought about his family. His wife Gwen
 
 Gwen would roll her eyes and say, "David, they're five and eight. Just tell them to share."
 
-But David believed in the power of process. It was the backbone of his professional life, a safeguard against disorder.
+But David believed in the power of procedure. It was the backbone of his professional life, a safeguard against disorder.
 
 He returned to his desk and continued working on his investigation report. The afternoon passed quickly as he interviewed the remaining team members and compiled his findings. Each interview followed the same pattern—he would read the allegations, the engineer would provide their perspective, and he would document everything for his report.
 
 By 5:30 PM, David had completed all his interviews. He closed his laptop and gathered his materials. The investigation was proceeding according to schedule. He would spend the next few days compiling his final report, which would include recommendations for management action.
 
-As he walked to his car, David reflected on his day. The engineers were pragmatic, always questioning inefficiencies and voicing their frustrations with broken systems. But David’s responsibility ended with the report; what happened next was out of his hands.
+As he walked to his car, David reflected on his day. The engineers were pragmatic, always questioning inefficiencies and voicing their frustrations with broken systems. But David's responsibility ended with the report; what happened next was out of his hands.
 
 At home, Gwen was preparing dinner while the children played in the living room. Maya was building a tower with blocks, and Lucas was trying to knock it down.
 
 "Dad's home!" Lucas shouted, running to greet David.
 
-"Hi, buddy," David said, hugging his son. "How was your day?"
+"Hi, buddy," David greeted, hugging his son. "How was your day?"
 
 "Maya won't share the blocks!"
 
@@ -114,7 +114,7 @@ David smiled. "You're right. Lucas, Maya, let's take turns with the blocks. Maya
 
 The children agreed, and David joined his family for dinner. Over the meal, Gwen asked about his day.
 
-"Just another investigation," David said. "The engineering team is being investigated for not being enthusiastic enough about corporate initiatives."
+"Just another investigation," David reported. "The engineering team is being investigated for not being enthusiastic enough about corporate initiatives."
 
 Gwen raised an eyebrow. "What does that mean?"
 
@@ -122,17 +122,17 @@ Gwen raised an eyebrow. "What does that mean?"
 
 "And what did you find?"
 
-David considered his response. "They're practical. If something doesn’t work, they say so."
+David considered his response. "They're practical. If something doesn't work, they say so."
 
 Gwen nodded. "So they're being investigated for being good at their jobs?"
 
 David thought about this. "I'm investigating the allegations as presented. The decision about action will be made by management."
 
-Gwen smiled. "David, sometimes I think you're too good at following "the process"."
+Gwen smiled. "David, sometimes I think you're too good at following 'the process'."
 
-David looked at his wife. "Process is what keeps things running smoothly."
+David looked at his wife. "Procedure is what keeps things running smoothly."
 
-Gwen laughed. "Process also makes you sound like a robot sometimes."
+Gwen laughed. "Procedure also makes you sound like a robot sometimes."
 
 David smiled. "I prefer to think of it as professional consistency."
 

@@ -42,8 +42,10 @@ Mack's eyes lit up. "That's beautiful. It's like a Möbius strip of bureaucracy.
 
 By the end of the meeting, nothing had been resolved. The auditors had recommended a new task force to review the compliance process, which would report back after the next audit. Vincent looked exhausted.
 
-As the engineers left the room, Alex said, "Did we just survive a security audit by proving that security is impossible?"
+Alex looked at her notes from the meeting. "Did we just survive a security audit by proving that security is impossible?"
 
 Mack shrugged. "They made the process so circular that nobody could figure out where to start."
 
 Jordan checked his phone. "We have a follow-up meeting scheduled for next week. The agenda is 'Review of the Review Process.'"
+
+The engineers exchanged glances. They had successfully navigated another corporate absurdity by turning it into an even more absurd process. The system was so complex that it had become impossible to fix—which meant it was also impossible to break.
