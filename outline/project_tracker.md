@@ -15,20 +15,21 @@
 - **Chapter 10: "The Team Building Exercise"** - 541 words
 - **Chapter 11: "The Budget Meeting"** - 907 words
 - **Chapter 12: "The Security Audit"** - 547 words
-- **Chapter 13: "The General's Vision"** - 2,173 words
+- **Chapter 13: "Vincent's Vision"** - 2,173 words
 - **Chapter 14: "The Vendor Meeting"** - 1,406 words
-- **Total Completed**: 19,357 words
+- **Chapter 15: "The Major Major Investigation"** - 1,593 words
+- **Total Completed**: 20,950 words
 
 ### Progress Summary
 - **Total Target**: 40-50,000 words
-- **Current Progress**: 19,357 words (14 chapters complete)
-- **Progress**: ~39-48% complete
-- **Remaining**: ~20,643-30,643 words
-- **Average Words Per Chapter**: 1,383 words
+- **Current Progress**: 20,950 words (15 chapters complete)
+- **Progress**: ~42-52% complete
+- **Remaining**: ~19,050-29,050 words
+- **Average Words Per Chapter**: 1,397 words
 
 ### Next Priority
-- **Chapter 15: "The Innovation Workshop"** - Management loves Mack's absurd ideas, rejects practical ones
-- **Chapter 16: "The Major Major Investigation"** - HR investigates complaints about the engineers
+- **Chapter 16: "The Reorganization"** - ByteSauce announces major restructuring in response to "productivity issues"
+- **Chapter 17: "The Innovation Workshop"** - Vincent hosts mandatory innovation session to "fix" the team's "lack of creativity"
 
 
 
