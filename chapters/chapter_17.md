@@ -130,16 +130,18 @@ Alex smiled. "And more opportunities to demonstrate our 'innovative thinking.'"
 
 The next day, Alex received an email from Vincent with the subject line "EXCITING NEWS: Innovation Implementation Initiative." The email detailed how ByteSauce was going to implement several of the "innovative" ideas from the workshop, including the AI-powered coffee machine and the blockchain office supply tracker.
 
+Alex forwarded the email to Mack and Jordan with the subject line: "We may have unleashed something we can't control."
+
+Mack replied: "Or we may have created the perfect opportunity for more creative problem-solving."
+
+Jordan added: "At least we're getting good at thinking unconventionally. Even if the conventions are getting more absurd by the day."
+
+The next day, Alex received an email from Vincent with the subject line "EXCITING NEWS: Innovation Implementation Initiative." The email detailed how ByteSauce was going to implement several of the "innovative" ideas from the workshop, including the AI-powered coffee machine and the blockchain office supply tracker.
+
 Alex forwarded the email to Mack and Jordan with the subject line: "This is insane."
 
 Mack replied: "We've opened Pandora's Box."
 
-Jordan added: "At least we're getting good at 'thinking unconventionally'. Even if the 'conventions' are getting more absurd by the day."
-
-Alex stared at her screen, thinking about the workshop. They had successfully convinced Vincent that they were innovative thinkers, but at what cost? The company was now committed to implementing absurd ideas that would create even more complexity and inefficiency.
-
-But maybe that was the point. In a world where management valued innovation over functionality, the best strategy was to give them exactly what they wanted—even if it meant building systems that were more creative than useful.
-
-She closed the email and went back to her actual work. Somewhere in the building, Vincent was probably already planning the next innovation workshop.
+Jordan added: "At least we're getting good at "thinking unconventionally". Even if the "conventions" are getting more absurd by the day."
 
  

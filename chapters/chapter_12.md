@@ -47,5 +47,3 @@ Alex looked at her notes from the meeting. "Did we just survive a security audit
 Mack shrugged. "They made the process so circular that nobody could figure out where to start."
 
 Jordan checked his phone. "We have a follow-up meeting scheduled for next week. The agenda is 'Review of the Review Process.'"
-
-The engineers exchanged glances. They had successfully navigated another corporate absurdity by turning it into an even more absurd process. The system was so complex that it had become impossible to fix—which meant it was also impossible to break.
