@@ -134,4 +134,4 @@ Jordan grinned. "At least we're consistent."
 
 Alex shook her head. "The real crisis isn't over. It's just getting started."
 
-Sarah was already scheduling follow-ups to implement her new 'improvements.' The engineers knew what was coming—more layers, more process, and more opportunities for spectacular disaster.
+Sarah was already scheduling follow-ups to implement her new 'improvements.'

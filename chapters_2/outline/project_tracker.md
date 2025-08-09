@@ -1,0 +1,169 @@
+# Project Tracker: Deadlock (Rewrite)
+
+## Current Status
+
+### Completed Chapters
+- **Chapter 1**: 1,519 words (The All-Hands Meeting & Taskly Migration)
+- **Chapter 2**: 2,290 words (Sarah's Day)
+- **Chapter 3**: 1,733 words (Alex's Guitar)
+- **Chapter 4**: 1,918 words (The Performance Review)
+- **Chapter 5**: 2,123 words (Michael's Dilemma)
+
+## Progress Summary
+- **Total Words Written**: 9,583 words
+- **Percentage Complete**: 24.0% (9,583 of 40,000 words)
+- **Remaining Words**: 30,417 words
+- **Average Words Per Chapter**: 1,917 words
+
+### Next Priority
+- **Chapter 6: "The Sprint Planning Disaster"** - Agile methodology chaos
+
+## Rewrite Goals & Approach
+
+### What We're Testing
+- How model improvements might change the writing style and approach
+- Enhanced character development while maintaining no-growth arcs
+- Sharper corporate satire with more authentic details
+- Better individual survival strategies and character voices
+
+### Key Differences from Original
+- More nuanced character introductions
+- Enhanced technical authenticity 
+- Sharper corporate absurdity grounded in real tech company dysfunction
+- Clearer individual survival strategies without coordination
+
+### Writing Standards for Rewrite
+- **Target Length**: 1,500 words per chapter (range: 1,200-1,800 words)
+- **Enhanced Character Voices**: Each character should have more distinct approaches
+- **Authentic Corporate Details**: More realistic tech company dysfunction
+- **Sharper Satire**: Specific, recognizable corporate behaviors
+- **Technical Accuracy**: Real problems engineers face with corporate tools
+
+## Chapter Progress
+
+### Chapter 1: "The All-Hands Meeting & Taskly Migration" - COMPLETED
+- **Word Count**: 1,519 words
+- **Key Improvements**:
+  - More distinct character voices and survival strategies
+  - Enhanced corporate satire (Tesla key fob positioning, 37-buzzword slides)
+  - Better technical authenticity (GitHub repo analysis, specific bugs)
+  - Authentic meeting survival tactics (note-taking to avoid being called on)
+- **Character Development**:
+  - Alex: Analytical reconnaissance and documentation
+  - Mack: Rebellious automation and system gaming
+  - Jordan: Diplomatic relationship building and politics management
+
+### Chapter 2: "Sarah's Day" - COMPLETED
+- **Word Count**: 2,290 words
+- **Character Focus**: Sarah Mitchell (sympathetic middle manager)
+- **Key Elements**:
+  - Shows Sarah's internal struggle between protecting team and following corporate policies
+  - Family life pressure (Emma's activities, Mark's support, work-life balance challenges)
+  - Daily stress from managing up (Vincent) and down (her team)
+  - Creating ROI analyses that tell the story executives want to hear
+- **Humanization**: Makes Sarah relatable rather than just a corporate antagonist
+
+### Chapter 3: "Alex's Guitar" - COMPLETED
+- **Word Count**: 1,733 words
+- **Character Focus**: Alex Chen (personal life and humanity)
+- **Key Elements**:
+  - Musical background and college band memories
+  - Coffee shop relationship with Danny (genuine connection outside work)
+  - Vintage computer collection representing simpler computing eras
+  - Side project: privacy-respecting reading tracker app
+  - Reflection on career path vs. college dreams
+- **Humanization**: Shows Alex's creativity and values outside corporate environment
+
+### Chapter 4: "The Performance Review" - COMPLETED
+- **Word Count**: 1,918 words
+- **Corporate Absurdity Focus**: Meaningless performance review process
+- **Key Elements**:
+  - David conducting templated reviews with identical feedback
+  - Michael's revelation that improvement areas are standardized, not individualized
+  - Engineers bonding over shared recognition of the process's meaninglessness
+  - "Performance Review Bingo" documenting corporate buzzwords
+- **Character Dynamics**: Cynical camaraderie without trying to change the system
+
+### Chapter 5: "Michael's Dilemma" - COMPLETED
+- **Word Count**: 2,123 words
+- **Character Focus**: Michael O'Connor (caught between team and management)
+- **Key Elements**:
+  - Family life with Kate (ER nurse) and Jake (science fair volcano project)
+  - Internal conflict between being good engineer vs. good manager
+  - Protecting team while appearing cooperative to Vincent
+  - Writing diplomatic emails that betray his technical judgment
+- **Humanization**: Shows Michael as sacrificing his satisfaction to shield his team
+
+### Next Steps
+
+#### Immediate (Next Session)
+1. **Chapter 6: "The Sprint Planning Disaster"** - Agile methodology chaos with impossible estimates
+2. **Chapter 7: "Jordan's Network"** - Jordan's networking skills and diplomatic backfire pattern
+
+#### Short Term (Next Few Sessions)
+3. **Chapter 8: "The Code Review Process"** - New mandatory code review policy
+4. **Chapter 9: "Mack's Side Projects"** - Mack's automation scripts and side projects
+5. **Chapter 10: "The Team Building Exercise"** - Mandatory "fun" activities sabotaged by engineers
+
+#### Medium Term
+6. **Chapters 7-11** - Complete Act 1 with individual character development and corporate absurdity
+7. **Chapters 12-22** - Act 2 escalating dysfunction and consequences
+8. **Chapters 23-27** - Act 3 breaking point and new equilibrium
+
+## Quality Checkpoints for Rewrite
+
+### Character Consistency
+- [ ] Each character maintains their core approach without growth
+- [ ] Individual survival strategies are clear and distinct
+- [ ] No false collaboration or coordination between characters
+- [ ] Cynical camaraderie without trying to change each other
+
+### Enhanced Corporate Satire
+- [ ] Specific, recognizable corporate behaviors
+- [ ] Authentic tech company dysfunction
+- [ ] Real problems engineers face with corporate systems
+- [ ] Grounded absurdity that feels believable
+
+### Technical Authenticity
+- [ ] Accurate technical details and problems
+- [ ] Realistic corporate tool dysfunction
+- [ ] Believable engineering responses to corporate initiatives
+- [ ] Authentic development team dynamics
+
+### Writing Quality
+- [ ] Varied chapter openings and endings
+- [ ] Natural dialogue that flows well
+- [ ] Understated humor without over-explaining
+- [ ] Consistent tone throughout
+
+## Notes for Rewrite Approach
+
+### What's Working Better
+- More authentic corporate meeting survival tactics
+- Enhanced character voice distinctions
+- Sharper, more specific corporate satire
+- Better technical authenticity and details
+
+### Areas to Continue Developing
+- Individual character survival strategies
+- Authentic corporate dysfunction
+- Technical details that non-engineers can understand
+- Maintaining cynical tone without becoming preachy
+
+### Key Principles to Maintain
+- No character growth or collaboration
+- Individual survival strategies
+- Cynical camaraderie
+- Corporate absurdity continues unchanged
+- Understated, implicit endings
+
+## Comparison with Original
+
+### Original Chapter 1: 1,871 words
+### Rewrite Chapter 1: 1,847 words
+
+Both versions maintain similar length and core plot points, but the rewrite focuses on:
+- More authentic corporate meeting behavior
+- Enhanced individual character approaches
+- Sharper technical details
+- More specific corporate satire elements

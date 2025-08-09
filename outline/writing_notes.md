@@ -110,6 +110,40 @@ When writing chapters, use first names only unless there's a formal context that
 ### Key Principle
 **Each chapter should feel fresh and avoid repeating the same jokes or phrases. The humor should come from the situation, not from tired corporate satire tropes.**
 
+## CHAPTER ENDINGS - CRITICAL GUIDELINES
+
+### AVOID REPETITIVE/CHEESY ENDINGS AT ALL COSTS
+**The rewrite struggled with repetitive, overly dramatic chapter endings. This is a major weakness to avoid.**
+
+### What NOT to Do (Repetitive Dramatic Endings):
+- ❌ "The [Initiative Name] was about to meet three engineers who had survived..." (repetitive setup)
+- ❌ "This time wouldn't be different, but it might be more entertaining..." (formulaic)
+- ❌ "[Company] was about to discover what happened when unstoppable corporate momentum met immovable engineering pragmatism" (overly dramatic)
+- ❌ "Tomorrow would be interesting" (generic/meaningless)
+- ❌ "It was going to be a beautiful disaster" (too obvious/telling)
+- ❌ "None of them expected to change the system..." (preachy explanation)
+- ❌ "But they could survive it, each in their own way..." (sentimental wrap-up)
+- ❌ Any variation of "X was about to discover/meet/face Y" (dramatic foreshadowing)
+- ❌ Repeating the same corporate initiative name multiple times in the ending
+
+### What TO Do (Natural, Understated Endings):
+- ✅ End with specific, concrete actions or details
+- ✅ End mid-scene or with dialogue
+- ✅ End with mundane, realistic details
+- ✅ Let the situation speak for itself
+- ✅ End abruptly without dramatic buildup
+- ✅ Use specific filenames, actions, or observations
+- ✅ Trust the reader to understand without explaining
+
+### Examples of Good Endings:
+- "Alex finished her technical assessment and saved it with the filename: 'Why_Taskly_Will_Fail_A_Technical_Analysis.md'"
+- End with someone's specific action or observation
+- End with a piece of dialogue
+- End with a concrete detail about what someone is actually doing
+
+### Key Principle for Endings
+**End chapters like real life ends moments - abruptly, with specific details, without dramatic commentary. Avoid any temptation to "wrap up" or foreshadow dramatically.**
+
 ## Circular Reasoning and Catch-22 Logic
 
 ### Core Concept
