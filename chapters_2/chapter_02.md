@@ -1,4 +1,4 @@
-# Chapter 2: Sarah's Day
+# Chapter 2
 
 Sarah's alarm went off at 5:47 AM, thirteen minutes before her phone's scheduled wake-up call. She'd been lying awake since 5:30, mentally rehearsing the Taskly migration talking points she'd practiced in the shower the night before.
 

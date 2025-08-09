@@ -1,4 +1,4 @@
-# Chapter 3: Alex's Guitar
+# Chapter 3
 
 Alex's apartment was quiet except for the hum of three vintage computers and the soft clicking of Pixel's claws on the hardwood floor. She sat cross-legged on her couch with her guitar—a 1987 Fender Stratocaster she'd bought junior year with money from her campus IT job—picking out the opening riff to "Blackbird."
 

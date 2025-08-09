@@ -1,4 +1,4 @@
-# Chapter 1: The All-Hands Meeting & Taskly Migration
+# Chapter 1
 
 The conference room was already packed when Alex walked in, laptop under one arm, coffee in the other hand. She scanned the room and spotted two empty seats near the back corner—her preferred territory for corporate spectacles. The projector displayed ByteSauce's new logo, a minimalist "B" that had cost more than most people's annual salary.
 
