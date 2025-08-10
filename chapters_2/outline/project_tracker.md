@@ -3,22 +3,26 @@
 ## Current Status
 
 ### Completed Chapters
-- **Chapter 1**: 1,519 words (The All-Hands Meeting & Taskly Migration)
-- **Chapter 2**: 2,290 words (Sarah's Day)
-- **Chapter 3**: 1,733 words (Alex's Guitar)
+- **Chapter 1**: 1,513 words (The All-Hands Meeting & Taskly Migration)
+- **Chapter 2**: 2,288 words (Sarah's Day)
+- **Chapter 3**: 1,731 words (Alex's Guitar)
 - **Chapter 4**: 1,918 words (The Performance Review)
 - **Chapter 5**: 2,123 words (Michael's Dilemma)
-- **Chapter 6**: 1,813 words (The Code Review Process)
-- **Chapter 7**: 1,899 words (Mack's Side Projects)
+- **Chapter 6**: 1,904 words (The Code Review Process)
+- **Chapter 7**: 2,395 words (Mack's Side Projects)
+- **Chapter 8**: 1,813 words (The Team Building Exercise)
+- **Chapter 9**: 1,901 words (The Budget Meeting)
+- **Chapter 10**: 530 words (The Team Building Exercise)
+- **Chapter 11**: 1,189 words (The Budget Meeting)
 
 ## Progress Summary
-- **Total Words Written**: 13,295 words
-- **Percentage Complete**: 33.2% (13,295 of 40,000 words)
-- **Remaining Words**: 26,705 words
-- **Average Words Per Chapter**: 1,899 words
+- **Total Words Written**: 19,305 words
+- **Percentage Complete**: 48.3% (19,305 of 40,000 words)
+- **Remaining Words**: 20,695 words
+- **Average Words Per Chapter**: 1,755 words
 
 ### Next Priority
-- **Chapter 8: "The Team Building Exercise"** - Mandatory "fun" activities sabotaged by engineers
+- **Chapter 12: "The Security Audit"** - Company-wide security review reveals massive vulnerabilities
 
 ## Rewrite Goals & Approach
 
@@ -97,7 +101,7 @@
 - **Humanization**: Shows Michael as sacrificing his satisfaction to shield his team
 
 ### Chapter 6: "The Code Review Process" - COMPLETED
-- **Word Count**: 1,813 words
+- **Word Count**: 1,904 words
 - **Corporate Absurdity Focus**: Mandatory code review process with "Innovation Score"
 - **Key Elements**:
   - New mandatory code review policy requiring AI/blockchain/machine learning mentions
@@ -108,7 +112,7 @@
 - **Character Dynamics**: Each character's individual survival strategy (Alex: analysis, Mack: rebellion, Jordan: diplomacy)
 
 ### Chapter 7: "Mack's Side Projects" - COMPLETED
-- **Word Count**: 1,899 words
+- **Word Count**: 2,395 words
 - **Character Focus**: Mack Rodriguez (personal life and creative energy)
 - **Key Elements**:
   - Mack's apartment as shrine to unfinished projects (mechanical keyboards, Raspberry Pi cluster)
@@ -118,24 +122,61 @@
   - Struggle between creative energy and corporate constraints
   - Decision to focus on building something that matters (productivity app)
 - **Character Development**: Shows Mack's rebellious spirit, technical passion, and desire to create meaningful solutions
+
+### Chapter 8: "The Team Building Exercise" - COMPLETED
+- **Word Count**: 1,813 words
+- **Corporate Absurdity Focus**: Mandatory team building activities
 - **Key Elements**:
-  - New mandatory code review policy requiring AI/blockchain/machine learning mentions
-  - Vincent rejecting practical code in favor of "innovative" solutions
-  - Team developing sophisticated system to game the Innovation Score
-  - Alex's sarcastic comments and documentation of the process
-  - Jordan's diplomatic presentation of their "revolutionary" system
-- **Character Dynamics**: Each character's individual survival strategy (Alex: analysis, Mack: rebellion, Jordan: diplomacy)
+  - Engineers naturally subverting corporate activities through technical approaches
+  - Human Knot activity devolves into knot topology arguments
+  - Spaghetti tower challenge becomes materials black market and 3D printing attempts
+  - Communication challenge becomes Morse code, interpretive dance, and bird calls
+  - Classic conga line scene with disco music and engineers dancing out of the room
+- **Character Dynamics**: Each character's natural response to corporate nonsense (Alex: analysis, Mack: rebellion, Jordan: plotting)
+
+### Chapter 9: "The Budget Meeting" - COMPLETED
+- **Word Count**: 1,901 words
+- **Corporate Absurdity Focus**: Impossible budget demands and meaningless metrics
+- **Key Elements**:
+  - Vincent demands 50% more features with 25% less budget
+  - David presents meaningless productivity metrics (Lines of Code per Day, Innovation Score)
+  - Alex points out mathematical impossibility of the request
+  - Jordan turns impossible demand into paid research project
+  - Team successfully reframes corporate nonsense as innovation opportunity
+- **Character Dynamics**: Each character's approach to impossible demands (Alex: analysis, Mack: resistance, Jordan: diplomacy)
+
+### Chapter 10: "The Team Building Exercise" - COMPLETED
+- **Word Count**: 530 words
+- **Corporate Absurdity Focus**: Mandatory team building activities
+- **Key Elements**:
+  - Engineers naturally subverting corporate activities through technical approaches
+  - Human Knot activity devolves into knot topology arguments
+  - Spaghetti tower challenge becomes materials black market and 3D printing attempts
+  - Communication challenge becomes Morse code, interpretive dance, and bird calls
+  - Classic conga line scene with disco music and engineers dancing out of the room
+- **Character Dynamics**: Each character's natural response to corporate nonsense (Alex: analysis, Mack: rebellion, Jordan: plotting)
+
+### Chapter 11: "The Budget Meeting" - COMPLETED
+- **Word Count**: 1,189 words
+- **Corporate Absurdity Focus**: Impossible budget demands and meaningless metrics
+- **Key Elements**:
+  - Vincent demands 50% more features with 25% less budget
+  - David presents meaningless productivity metrics (Lines of Code per Day, Innovation Score)
+  - Alex points out mathematical impossibility of the request
+  - Jordan turns impossible demand into paid research project
+  - Team successfully reframes corporate nonsense as innovation opportunity
+- **Character Dynamics**: Each character's approach to impossible demands (Alex: analysis, Mack: resistance, Jordan: diplomacy)
 
 ### Next Steps
 
 #### Immediate (Next Session)
-1. **Chapter 8: "The Team Building Exercise"** - Mandatory "fun" activities sabotaged by engineers
-2. **Chapter 9: "The Budget Meeting"** - Vincent demands more features with less budget
+1. **Chapter 12: "The Security Audit"** - Company-wide security review reveals massive vulnerabilities
+2. **Chapter 13: "Vincent's Vision"** - Follow Vincent through his day showing complete disconnect from reality
 
 #### Short Term (Next Few Sessions)
-3. **Chapter 10: "The Security Audit"** - Company-wide security review reveals massive vulnerabilities
-4. **Chapter 11: "Vincent's Vision"** - Follow Vincent through his day showing complete disconnect from reality
-5. **Chapter 12: "The Vendor Meeting"** - Vincent brings in expensive consultants to "fix" the team
+3. **Chapter 14: "The Vendor Meeting"** - Vincent brings in expensive consultants to "fix" the team
+4. **Chapter 15: "Major Major's Investigation"** - Major Major investigates "productivity issues" based on the team's previous subversions
+5. **Chapter 16: "The Reorganization"** - ByteSauce announces major restructuring in response to "productivity issues"
 
 #### Medium Term
 6. **Chapters 7-11** - Complete Act 1 with individual character development and corporate absurdity
