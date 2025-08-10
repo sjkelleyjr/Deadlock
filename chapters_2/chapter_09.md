@@ -230,5 +230,3 @@ Mack looked up from his screen. "Thanks for pushing me."
 "Anytime. Now, about that Thai food..."
 
 "Give me another hour. I want to get this working."
-
-Rachel smiled. "I'll order delivery. You keep building."
