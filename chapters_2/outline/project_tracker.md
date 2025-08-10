@@ -9,15 +9,16 @@
 - **Chapter 4**: 1,918 words (The Performance Review)
 - **Chapter 5**: 2,123 words (Michael's Dilemma)
 - **Chapter 6**: 1,813 words (The Code Review Process)
+- **Chapter 7**: 1,899 words (Mack's Side Projects)
 
 ## Progress Summary
-- **Total Words Written**: 11,396 words
-- **Percentage Complete**: 28.5% (11,396 of 40,000 words)
-- **Remaining Words**: 28,604 words
+- **Total Words Written**: 13,295 words
+- **Percentage Complete**: 33.2% (13,295 of 40,000 words)
+- **Remaining Words**: 26,705 words
 - **Average Words Per Chapter**: 1,899 words
 
 ### Next Priority
-- **Chapter 7: "Mack's Side Projects"** - Mack's automation scripts and side projects
+- **Chapter 8: "The Team Building Exercise"** - Mandatory "fun" activities sabotaged by engineers
 
 ## Rewrite Goals & Approach
 
@@ -106,16 +107,35 @@
   - Jordan's diplomatic presentation of their "revolutionary" system
 - **Character Dynamics**: Each character's individual survival strategy (Alex: analysis, Mack: rebellion, Jordan: diplomacy)
 
+### Chapter 7: "Mack's Side Projects" - COMPLETED
+- **Word Count**: 1,899 words
+- **Character Focus**: Mack Rodriguez (personal life and creative energy)
+- **Key Elements**:
+  - Mack's apartment as shrine to unfinished projects (mechanical keyboards, Raspberry Pi cluster)
+  - Relationship with Jasmine (marketing girlfriend who doesn't understand his work)
+  - Roommate Carlos (startup developer doing meaningful work) as contrast
+  - Comment generation script that makes simple functions sound revolutionary
+  - Struggle between creative energy and corporate constraints
+  - Decision to focus on building something that matters (productivity app)
+- **Character Development**: Shows Mack's rebellious spirit, technical passion, and desire to create meaningful solutions
+- **Key Elements**:
+  - New mandatory code review policy requiring AI/blockchain/machine learning mentions
+  - Vincent rejecting practical code in favor of "innovative" solutions
+  - Team developing sophisticated system to game the Innovation Score
+  - Alex's sarcastic comments and documentation of the process
+  - Jordan's diplomatic presentation of their "revolutionary" system
+- **Character Dynamics**: Each character's individual survival strategy (Alex: analysis, Mack: rebellion, Jordan: diplomacy)
+
 ### Next Steps
 
 #### Immediate (Next Session)
-1. **Chapter 7: "Mack's Side Projects"** - Mack's automation scripts and side projects
-2. **Chapter 8: "The Team Building Exercise"** - Mandatory "fun" activities sabotaged by engineers
+1. **Chapter 8: "The Team Building Exercise"** - Mandatory "fun" activities sabotaged by engineers
+2. **Chapter 9: "The Budget Meeting"** - Vincent demands more features with less budget
 
 #### Short Term (Next Few Sessions)
-3. **Chapter 9: "The Budget Meeting"** - Vincent demands more features with less budget
-4. **Chapter 10: "The Security Audit"** - Company-wide security review reveals massive vulnerabilities
-5. **Chapter 11: "Vincent's Vision"** - Follow Vincent through his day showing complete disconnect from reality
+3. **Chapter 10: "The Security Audit"** - Company-wide security review reveals massive vulnerabilities
+4. **Chapter 11: "Vincent's Vision"** - Follow Vincent through his day showing complete disconnect from reality
+5. **Chapter 12: "The Vendor Meeting"** - Vincent brings in expensive consultants to "fix" the team
 
 #### Medium Term
 6. **Chapters 7-11** - Complete Act 1 with individual character development and corporate absurdity
