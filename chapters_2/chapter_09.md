@@ -74,7 +74,7 @@ Mack's phone buzzed. It was a message from Alex: "Did you see the new Innovation
 
 Mack typed back: "Define 'disruptive thinking.'"
 
-"According to the 23-page document Vincent just sent, it means 'challenging conventional approaches to problem-solving while maintaining alignment with strategic objectives.'"
+"According to the 23-page document Vincent just sent, it means 'challenging conventional approaches to problem-solving while maintaining alignment with strategic objectives.' Also, he mentioned something about 'vibe coding' being the future of software development."
 
 "So we're supposed to be disruptive but not too disruptive?"
 
@@ -225,7 +225,7 @@ Rachel watched him work for a while, then went to the kitchen to make coffee. Wh
 
 "See? When you focus on something that matters, you can do amazing things."
 
-Mack looked up from his screen. "Thanks for pushing me."
+Mack looked up from his screen. "Thanks"
 
 "Anytime. Now, about that Thai food..."
 

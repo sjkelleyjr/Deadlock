@@ -176,7 +176,7 @@ Alex looked around the room. "So the solution is to become the person who can se
 
 "The solution is to become the person who can sell good ideas well. There's a difference."
 
-"Is there? Look at Taskly. It's objectively worse than what we had, but it's getting pushed through because someone made it sound strategic."
+"Is there? Look at Taskly. It's objectively worse than what we had, but it's getting pushed through because someone made it sound strategic. The Innovation Lab is just vibe coding their way through the entire project."
 
 Jordan nodded. "And that's exactly why we need more engineers in positions where they can influence decisions. If the people making the calls don't understand the technical reality, they'll keep making bad choices."
 
