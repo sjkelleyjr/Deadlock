@@ -38,7 +38,7 @@ Jordan leaned forward. "I think what Alex is trying to say is that we need to fo
 
 "Hard metrics that don't measure what we're actually trying to achieve," Mack said.
 
-David clicked to the next slide, which showed a proposed new development process that involved more meetings, more documentation, and more oversight. "This new process will help us achieve the efficiency gains we need."
+David steamrolled through to the next slide, which showed a proposed new development process that involved more meetings, more documentation, and more oversight. "This new process will help us achieve the efficiency gains we need."
 
 Alex looked at the slide. "This process adds three new approval steps and two additional meetings for every feature. How is that supposed to make us more efficient?"
 
@@ -68,7 +68,7 @@ David looked concerned. "But what about the actual feature delivery? The board i
 
 "We can deliver the research study as our primary Q4 deliverable," Jordan said. "And we can include some prototype features that demonstrate the concepts we're researching."
 
-"Prototype features that prove why their approach doesn't work," Alex added.
+"Prototype features that prove why their approach doesn't work," Alex added. "brilliant."
 
 Vincent smiled. "This is exactly the kind of thinking I was looking for. You're turning a challenge into an opportunity."
 

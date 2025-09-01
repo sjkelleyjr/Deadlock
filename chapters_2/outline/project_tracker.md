@@ -14,15 +14,17 @@
 - **Chapter 9**: 1,901 words (The Budget Meeting)
 - **Chapter 10**: 530 words (The Team Building Exercise)
 - **Chapter 11**: 1,189 words (The Budget Meeting)
+- **Chapter 12**: 1,501 words (The Security Audit)
+- **Chapter 13**: 2,159 words (Vincent's Vision)
 
 ## Progress Summary
-- **Total Words Written**: 19,305 words
-- **Percentage Complete**: 48.3% (19,305 of 40,000 words)
-- **Remaining Words**: 20,695 words
-- **Average Words Per Chapter**: 1,755 words
+- **Total Words Written**: 22,965 words
+- **Percentage Complete**: 57.4% (22,965 of 40,000 words)
+- **Remaining Words**: 17,035 words
+- **Average Words Per Chapter**: 1,766 words
 
 ### Next Priority
-- **Chapter 12: "The Security Audit"** - Company-wide security review reveals massive vulnerabilities
+- **Chapter 14: "The Vendor Meeting"** - Vincent brings in expensive consultants to "fix" the team
 
 ## Rewrite Goals & Approach
 
