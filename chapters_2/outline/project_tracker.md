@@ -13,18 +13,17 @@
 - **Chapter 8**: 1,813 words (The Team Building Exercise)
 - **Chapter 9**: 1,901 words (The Budget Meeting)
 - **Chapter 10**: 530 words (The Team Building Exercise)
-- **Chapter 11**: 1,189 words (The Budget Meeting)
-- **Chapter 12**: 1,501 words (The Security Audit)
-- **Chapter 13**: 2,159 words (Vincent's Vision)
+- **Chapter 11**: 1,191 words (The Budget Meeting)
+- **Chapter 12**: 1,865 words (The Security Audit)
 
 ## Progress Summary
-- **Total Words Written**: 22,965 words
-- **Percentage Complete**: 57.4% (22,965 of 40,000 words)
-- **Remaining Words**: 17,035 words
-- **Average Words Per Chapter**: 1,766 words
+- **Total Words Written**: 21,172 words
+- **Percentage Complete**: 52.9% (21,172 of 40,000 words)
+- **Remaining Words**: 18,828 words
+- **Average Words Per Chapter**: 1,764 words
 
 ### Next Priority
-- **Chapter 14: "The Vendor Meeting"** - Vincent brings in expensive consultants to "fix" the team
+- **Chapter 13: "Vincent's Vision"** - Follow Vincent through his day, disconnected from reality; escalating demands
 
 ## Rewrite Goals & Approach
 
@@ -117,85 +116,57 @@
 - **Word Count**: 2,395 words
 - **Character Focus**: Mack Rodriguez (personal life and creative energy)
 - **Key Elements**:
-  - Mack's apartment as shrine to unfinished projects (mechanical keyboards, Raspberry Pi cluster)
-  - Relationship with Jasmine (marketing girlfriend who doesn't understand his work)
-  - Roommate Carlos (startup developer doing meaningful work) as contrast
-  - Comment generation script that makes simple functions sound revolutionary
-  - Struggle between creative energy and corporate constraints
-  - Decision to focus on building something that matters (productivity app)
-- **Character Development**: Shows Mack's rebellious spirit, technical passion, and desire to create meaningful solutions
+  - Apartment full of unfinished projects
+  - Jasmine, girlfriend with grounded patience
+  - Roommate who enables chaotic builds
+  - Decision to focus on one meaningful side project
+- **Theme**: Energy vs. corporate constraints
 
 ### Chapter 8: "The Team Building Exercise" - COMPLETED
 - **Word Count**: 1,813 words
-- **Corporate Absurdity Focus**: Mandatory team building activities
+- **Corporate Absurdity Focus**: Mandatory "fun" that engineers subvert with technicality
 - **Key Elements**:
-  - Engineers naturally subverting corporate activities through technical approaches
-  - Human Knot activity devolves into knot topology arguments
-  - Spaghetti tower challenge becomes materials black market and 3D printing attempts
-  - Communication challenge becomes Morse code, interpretive dance, and bird calls
-  - Classic conga line scene with disco music and engineers dancing out of the room
-- **Character Dynamics**: Each character's natural response to corporate nonsense (Alex: analysis, Mack: rebellion, Jordan: plotting)
+  - HR-led "fun" exercises
+  - Engineers quietly game the activities
+  - Conga line exit
+- **Tone**: Subtle cynicism, understated humor
 
 ### Chapter 9: "The Budget Meeting" - COMPLETED
 - **Word Count**: 1,901 words
-- **Corporate Absurdity Focus**: Impossible budget demands and meaningless metrics
+- **Corporate Absurdity Focus**: Impossible demands, meaningless metrics
 - **Key Elements**:
-  - Vincent demands 50% more features with 25% less budget
-  - David presents meaningless productivity metrics (Lines of Code per Day, Innovation Score)
-  - Alex points out mathematical impossibility of the request
-  - Jordan turns impossible demand into paid research project
-  - Team successfully reframes corporate nonsense as innovation opportunity
-- **Character Dynamics**: Each character's approach to impossible demands (Alex: analysis, Mack: resistance, Jordan: diplomacy)
+  - David presenting metrics that say nothing
+  - Vincent demanding more with less
+  - Jordan reframes impossible ask as a "research project"
+- **Ending**: Understated, implied consequences
 
-### Chapter 10: "The Team Building Exercise" - COMPLETED
+### Chapter 10: "The Team Building Exercise" (Rewrite) - COMPLETED
 - **Word Count**: 530 words
-- **Corporate Absurdity Focus**: Mandatory team building activities
-- **Key Elements**:
-  - Engineers naturally subverting corporate activities through technical approaches
-  - Human Knot activity devolves into knot topology arguments
-  - Spaghetti tower challenge becomes materials black market and 3D printing attempts
-  - Communication challenge becomes Morse code, interpretive dance, and bird calls
-  - Classic conga line scene with disco music and engineers dancing out of the room
-- **Character Dynamics**: Each character's natural response to corporate nonsense (Alex: analysis, Mack: rebellion, Jordan: plotting)
+- Notes: Kept subtlety from earlier version; conga line retained
 
-### Chapter 11: "The Budget Meeting" - COMPLETED
-- **Word Count**: 1,189 words
-- **Corporate Absurdity Focus**: Impossible budget demands and meaningless metrics
-- **Key Elements**:
-  - Vincent demands 50% more features with 25% less budget
-  - David presents meaningless productivity metrics (Lines of Code per Day, Innovation Score)
-  - Alex points out mathematical impossibility of the request
-  - Jordan turns impossible demand into paid research project
-  - Team successfully reframes corporate nonsense as innovation opportunity
-- **Character Dynamics**: Each character's approach to impossible demands (Alex: analysis, Mack: resistance, Jordan: diplomacy)
+### Chapter 11: "The Budget Meeting" (Rewrite) - COMPLETED
+- **Word Count**: 1,191 words
+- Notes: Replaced nicknames with names; subtler ending
 
-### Next Steps
+### Chapter 12: "The Security Audit" - COMPLETED
+- **Word Count**: 1,865 words
+- Notes: Real vulnerabilities exposed; innovation rubric quietly removed; understated ending
 
-#### Immediate (Next Session)
-1. **Chapter 12: "The Security Audit"** - Company-wide security review reveals massive vulnerabilities
-2. **Chapter 13: "Vincent's Vision"** - Follow Vincent through his day showing complete disconnect from reality
+### Chapter 13: "Vincent's Vision" - NEXT
+### Chapter 14: "The Vendor Meeting" - PENDING
 
-#### Short Term (Next Few Sessions)
-3. **Chapter 14: "The Vendor Meeting"** - Vincent brings in expensive consultants to "fix" the team
-4. **Chapter 15: "Major Major's Investigation"** - Major Major investigates "productivity issues" based on the team's previous subversions
-5. **Chapter 16: "The Reorganization"** - ByteSauce announces major restructuring in response to "productivity issues"
+## Checklists
 
-#### Medium Term
-6. **Chapters 7-11** - Complete Act 1 with individual character development and corporate absurdity
-7. **Chapters 12-22** - Act 2 escalating dysfunction and consequences
-8. **Chapters 23-27** - Act 3 breaking point and new equilibrium
-
-## Quality Checkpoints for Rewrite
+### Satire & Tone
+- [ ] Understated endings (no moral summaries)
+- [ ] Specific, non-generic corporate behaviors
+- [ ] Avoid on-the-nose thematic statements
 
 ### Character Consistency
-- [ ] Each character maintains their core approach without growth
-- [ ] Individual survival strategies are clear and distinct
-- [ ] No false collaboration or coordination between characters
-- [ ] Cynical camaraderie without trying to change each other
+- [ ] Distinct survival strategies (Alex: analysis; Mack: rebellion; Jordan: diplomacy)
+- [ ] No growth arcs; adaptation only
 
-### Enhanced Corporate Satire
-- [ ] Specific, recognizable corporate behaviors
-- [ ] Authentic tech company dysfunction
+### Corporate Reality
 - [ ] Real problems engineers face with corporate systems
 - [ ] Grounded absurdity that feels believable
 
@@ -231,14 +202,3 @@
 - Cynical camaraderie
 - Corporate absurdity continues unchanged
 - Understated, implicit endings
-
-## Comparison with Original
-
-### Original Chapter 1: 1,871 words
-### Rewrite Chapter 1: 1,847 words
-
-Both versions maintain similar length and core plot points, but the rewrite focuses on:
-- More authentic corporate meeting behavior
-- Enhanced individual character approaches
-- Sharper technical details
-- More specific corporate satire elements

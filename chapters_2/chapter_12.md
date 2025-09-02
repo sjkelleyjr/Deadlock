@@ -1,209 +1,235 @@
-# Chapter 12: The Security Audit
+# Chapter 12
 
-The email arrived at 8:47 AM on a Tuesday morning, which was suspicious timing. Corporate emails never arrived before 9:00 AM unless something was wrong.
+The subject line said it was routine. The calendar invites said otherwise.
 
-"URGENT: ByteSauce-Wide Security Review - All Engineering Teams Must Comply"
+Alex skimmed the message. ByteSauce was conducting a "standardized security posture review." All engineering teams. This week. A shared spreadsheet tracked time slots like a hospital intake board.
 
-Alex read it twice, then forwarded it to the team Slack with a single word: "Shit."
+Jordan messaged: "I'll sit in."
 
-Jordan responded first: "What's the actual scope?"
-
-Mack: "Define 'security review'"
-
-Sarah chimed in: "Corporate is concerned about recent 'productivity improvements' and wants to ensure we're following security best practices."
-
-Alex stared at the screen. "They're investigating us."
+Mack: "Do we have a posture?"
 
 ---
 
-The security auditor arrived at 10:00 AM sharp. His name was Greg, and he wore a polo shirt with a company logo that looked like it had been designed by someone who'd never seen a computer. He carried a clipboard and spoke with the confidence of someone who'd read exactly one cybersecurity article.
+The auditor introduced himself as Greg and did not shake hands. He carried a tablet, a checklist, and the energy of someone who preferred boxes checked to conversations had.
 
-"Good morning, team. I'm here to conduct a comprehensive security review of your development practices."
+"I'll start with access controls," he said, already opening tabs. "Then code review protections, password policies, credential storage, deployment gates. Standard order."
 
-Jordan smiled warmly. "Welcome, Greg. We're happy to help with any security concerns."
+Jordan smiled like he was glad standards existed. "Happy to walk you through our process."
 
-"Excellent. Let's start with your password policies."
+Greg was already in the repository settings. "Main is open to direct push."
 
-Alex felt her stomach drop. She'd been storing test credentials in a plain text file for the last three months because the company's password manager was so broken it took fifteen minutes to retrieve a single password.
+Alex glanced at the screen. "It's… historically open."
 
-Greg opened his laptop and began typing. "First, I need to see your current password storage practices."
+"How long has it been open?"
 
-Mack leaned back in his chair. "Define 'password storage practices.'"
+"Since we created it."
 
-"Well, how do you store passwords for development environments, databases, API keys, that sort of thing?"
+Greg tapped something on his tablet. The sound felt like a timestamp.
 
-Jordan glanced at Alex, then at Mack. "We follow company policy, of course."
+"Branch protection should be enabled. Required reviews should be enforced. Dismiss stale approvals. Status checks required."
 
-"Of course. And what is company policy?"
+"We can enable those," Jordan said. "Today."
 
-Alex cleared her throat. "We use the corporate password manager."
+Greg didn't look up. "Today would have been better two years ago. Credentials?"
 
-Greg nodded approvingly. "Good. And how often do you rotate passwords?"
+Alex opened the secrets page for their deployment system. She hesitated for half a breath before scrolling.
 
-"According to policy," Jordan said smoothly.
+Greg read. "Plain text in a shared notes tool. Development database password is 'password'."
 
-"Which is?"
+Mack scratched his neck. "It's development."
 
-"Quarterly," Alex lied.
+"It's a password," Greg said. He didn't raise his voice. "Shared notes tool has no audit log."
 
-Greg made a note. "Excellent. Now, let's look at your code repository security."
+Jordan kept his voice even. "We can migrate to the password manager. The corporate one."
 
-Mack's eyes narrowed. "What exactly are you checking?"
+"It timed out for three months," Alex said. "That's why we…"
 
-"Access controls, branch protection, code review processes, that sort of thing."
+Greg made another note. "The tool being broken is not an exception policy."
 
-Jordan smiled. "We have a very robust code review process. In fact, we recently implemented an Innovation Score system that ensures all code meets our quality standards."
+---
 
-Greg's face lit up. "Innovation Score? That sounds cutting-edge. Tell me more."
+In the conference room, the TV reflected Greg's checklists at a slight delay, as if the system itself needed time to process the implications.
 
-Alex felt the trap closing. The Innovation Score system they'd gamed with fake comments was about to be exposed as a security risk.
+"Code review," Greg said. "I see references to an Innovation Score rubric in your PR template."
 
-"Each code review gets scored on innovation and creativity," Jordan explained. "It helps ensure we're building truly disruptive solutions."
+Mack glanced at Jordan. "Historical artifact."
 
-"Fascinating. And how do you prevent malicious code from being merged?"
+Greg clicked into a merged pull request. The diff contained three lines of working code and twenty lines of commentary about "paradigm-shifting statistical engines."
 
-Mack leaned forward. "We have automated tests."
+"What is this?" Greg asked, neutral.
 
-"Which run when?"
+Jordan considered the safest version of the truth. "A leadership initiative incentivized… visible creativity in reviews. It created noise. We can remove it."
 
-"Before merge," Alex said quickly.
+Greg scrolled. "It created noise. Yes. Who approved this one?"
 
-Greg typed something on his laptop. "I see. And what about your production deployment process?"
+Alex swallowed. The approving user icon was theirs.
 
-Jordan's diplomatic smile never wavered. "We follow industry best practices."
+"We'll remove it," she said. "Today."
 
-"Such as?"
+Greg nodded. "Remove the rubric. Enable protections. Migrate credentials. Document the deployment gates. I'll need evidence."
 
-"Automated testing, code review, approval workflows."
+He closed the laptop with care, as if to avoid smudging anything further.
 
-Greg nodded. "Good. Now, let me check your actual repository settings."
+---
 
-He opened his browser and navigated to their Git repository. Alex watched as he clicked through the settings, her heart rate increasing with each click.
+After he left, no one said anything for a minute. It wasn't a dramatic silence. Just the kind that happens when the facts have finished arranging themselves.
 
-"Interesting," Greg said. "I notice that your main branch doesn't have branch protection enabled."
+Jordan exhaled first. "I'll file the requests for branch protection and status checks."
 
-Jordan's smile faltered slightly. "We're in the process of implementing that."
+"I'll move the credentials," Alex said. "And rotate the ones we hard-coded in the runbook we pretend is a wiki."
 
-"Process of implementing? How long has this repository been active?"
+Mack opened his terminal. "I'll strip the Innovation Score blocks from recent merges and update the PR template."
 
-"About two years," Alex admitted.
+Jordan nodded. "And I'll draft a summary for Sarah. Minimal adjectives."
 
-Greg's eyebrows rose. "Two years without branch protection? That's a significant security risk."
+Alex opened the repo settings. The toggles were exactly where Greg said they'd be. She enabled one, then another. Each switch felt like a belated apology written in UI.
 
-Mack crossed his arms. "How significant are we talking?"
+A notification popped up in Slack: "Security posture review: please upload remediation evidence here." There was a link to a folder with their team name and a placeholder file called evidence.txt.
 
-"Anyone with write access could push directly to main, potentially deploying malicious code or breaking the application."
+Alex created a real one and started dropping screenshots into it. The folder name looked like something that would be referenced later by someone who didn’t know any of their names.
 
-Jordan nodded thoughtfully. "You're absolutely right. We should prioritize this."
+She set her laptop to upload and watched the progress bar move across the screen in a straight, unambiguous line.
 
-"Priority one," Greg said, making another note. "Now, let me check your recent commits."
+---
 
-Alex felt her palms start to sweat. The Innovation Score comments were going to be visible in the commit history.
+Sarah appeared in the doorway like a question mark.
 
-Greg scrolled through recent pull requests. "I see some interesting commit messages. 'REVOLUTIONARY AI-POWERED STATISTICAL ANALYSIS ENGINE' - that's quite descriptive."
+"How bad?" she asked.
 
-Mack's jaw clenched. "We believe in clear, descriptive commit messages."
+Jordan angled the monitor away from her on reflex. "Manageable."
 
-"Very clear. And these comments in the code - 'INNOVATION SCORE: 8.9/10' - what's that about?"
+Sarah looked tired in a way that lights couldn’t correct. "I'll need two sentences for leadership."
 
-Jordan cleared his throat. "That's part of our quality assurance process."
+Jordan nodded. "We identified gaps in access controls and credential storage; remediations are in progress with evidence attached. Timelines: by end of week."
 
-"Quality assurance? These comments don't seem to relate to the actual code functionality."
+"That'll work," Sarah said. She lingered half a beat. "If there are landmines I should step on before someone else does, tell me."
 
-Alex felt the walls closing in. "They're documentation standards."
+"We'll surface them," Jordan said. He meant "we’ll defuse them and leave the shards."
 
-Greg frowned. "Documentation standards that include innovation scores? That seems unusual."
+Sarah left as quietly as she'd arrived.
 
-Mack leaned back in his chair. "What makes it unusual?"
+---
 
-"Unusual as in, I've never seen anything like this in a professional codebase. It looks like someone is gaming a system."
+Alex wrote a small script and didn’t tell anyone. It looked for strings that smelled like secrets—base64 blobs, aws_ prefixes, anything ending in _KEY or _TOKEN—in every repo she had access to. It pinged empty directories like a sonar. The output wasn’t pretty, but it was honest.
 
-Jordan's diplomatic facade cracked slightly. "Gaming? That's a strong word."
+She found three credentials in old Jenkins job definitions, two in a Terraform variable file from a migration that never happened, and one in a shell script that had survived four reorganizations because no one knew what it did but also no one was brave enough to delete it.
 
-"Is it? Because these comments appear to be artificially inflating some kind of scoring system rather than providing actual code documentation."
+She rotated what she could and documented what she couldn’t.
 
-Alex felt the trap snap shut. "We can explain the Innovation Score system."
+For the ones she couldn't rotate without downtime, she created temporary compensating controls, which is what you called it when you built fences around bad decisions.
 
-"Please do."
+---
 
-Jordan took a deep breath. "It's a corporate initiative to encourage innovative thinking in our code."
+Mack pulled up the PR template and removed the Innovation Score block. He didn’t make a speech about it. He just deleted the lines and added a note that said "Keep changesets small. Add tests."
 
-"By adding fake comments about AI and machine learning to simple arithmetic functions?"
+Then he went hunting.
 
-Mack's chair creaked as he shifted. "The comments are aspirational."
+ripgrep turned up every "INNOVATION SCORE:" in the codebase. Most were jokes. Some had been cargo-culted into new files by people who thought they were following a rule.
 
-"Aspirational? For a function that calculates the average of an array?"
+He scrubbed them quietly and rebased the noise away where he could. He left the actual work visible.
 
-Alex felt her face flush. "The system was designed to encourage creative thinking."
+He also wrote a one-off script to rotate a handful of internal tokens and pushed it to a private repo named after a plant, because that was the closest he came to plausible deniability.
 
-"Creative thinking about how to deceive management, perhaps?"
+---
 
-Jordan's smile was now completely gone. "I think there's been a misunderstanding."
+Jordan opened Confluence and created a page titled "Security Hygiene (Working)." He wrote in short lines and bullet points and avoided any sentence that sounded like a policy. He linked to the evidence folder, the branch protection settings, and a checklist with boxes that could be checked by anyone with a mouse.
 
-Greg closed his laptop. "I think the misunderstanding is on your end. You've been systematically gaming a corporate system, and in the process, you've created a codebase that's both insecure and unprofessional."
+He DM'd Greg. "We'll attach evidence as we remediate. Please reply 'received' for each upload so we have an audit trail."
 
-Mack stood up. "Unprofessional? We've been doing our jobs while dealing with impossible requirements and meaningless metrics."
+Greg replied with a thumbs-up emoji and a timestamp. It was the most human thing he had done all day.
 
-"By lying to management?"
+Jordan added a line to the page: "Acknowledgements captured in thread." It looked official without sounding proud of itself.
 
-"By surviving," Alex said quietly.
+---
 
-Greg looked at each of them in turn. "I'll be filing a report with corporate. This goes beyond security issues - this is a fundamental breakdown in professional standards."
+By late afternoon, they had a rhythm. Alex found secrets; Mack rotated what he could reach; Jordan turned their work into receipts.
 
-Jordan tried one more diplomatic approach. "Greg, I think we can work together to address these concerns."
+Someone from another team asked in a public channel whether the "innovation rubric" would be returning. No one answered. The message scrolled out of view beneath a cascade of status updates and meeting links.
 
-"Address them? You've been actively subverting company policies for months. This isn't something you can 'address' with a meeting."
+Vincent posted a company-wide note reminding everyone to "keep shipping against Q3 OKRs" and to "use this audit as a chance to demonstrate our operational excellence." He wrote "operational excellence" three times in two paragraphs. It read like he was trying to convince himself.
 
-Alex felt the weight of their previous victories crashing down. The Innovation Score gaming, the budget meeting research project, the team building subversion - it was all coming back to haunt them.
+Sarah reacted with a checkmark and nothing else.
 
-"Greg," she said, "we can fix the security issues immediately. Branch protection, proper password management, real code reviews."
+---
 
-"Fix them? You should have had them from the beginning. The fact that you're only addressing basic security practices now, after being caught gaming the system, suggests a fundamental lack of professional judgment."
+Greg returned for a short follow-up, which consisted mostly of him opening their evidence folder and asking for screenshots with the browser chrome visible.
 
-Mack's hands were clenched into fists. "Professional judgment? We've been dealing with a system that rewards buzzwords over actual work."
+"We prefer showing full context," he said. "It reduces disputes later."
 
-"Then you should have raised those concerns through proper channels."
+"Disputes?" Mack asked.
 
-Jordan laughed bitterly. "Proper channels? We've been trying to work within the system for months."
+Greg didn’t answer. He was already counting the toggles in a screenshot with his finger.
 
-"By lying to it?"
+He stopped at the PR template diff. "Good. Remove the rubric from the template and from cultural practice."
 
-Alex felt the conversation spiraling out of control. "We can implement proper security practices starting today."
+"From cultural practice," Jordan repeated, as if it were a setting.
 
-"Today? You should have had them implemented two years ago. This isn't about implementing security practices - this is about a team that's been systematically deceiving management."
+Greg closed his tablet. "I'll compile a preliminary report. You'll get the official one next week. Continue uploading evidence."
 
-Greg stood up and gathered his things. "I'll be submitting my report by end of day. I recommend you start preparing your responses to corporate."
+He left a small stack of printed guidance on the corner of the table. No one touched it.
 
-After Greg left, the team sat in stunned silence.
+---
 
-"Well," Mack said finally, "that could have gone better."
+The plain-text password in the shared notes tool became a Slack thread no one reacted to in public. Alex moved it to the password manager, updated the environment variables, and pushed a tiny change that did nothing but forced a new deployment so the secrets would refresh.
 
-Jordan rubbed his temples. "We're going to need to do some damage control."
+The deploy took three minutes. The logs rolled by like a polite parade. Nothing broke. Alex was almost disappointed.
 
-Alex stared at her screen. "Damage control? We just got caught gaming the Innovation Score system that we've been using for months."
+She added a line to the runbook that said, "This exists," with a link.
 
-"Not just gaming it," Mack added. "We made it look like we were building revolutionary AI systems when we were just writing basic functions."
+---
 
-Jordan nodded slowly. "And now corporate knows we've been lying to them."
+At five-thirty, the floor got loud with coats and laughter from other departments. Engineering stayed seated.
 
-Alex felt the consequences of their previous victories settling in. "We've been getting away with too much. It was bound to catch up with us."
+Jordan rewrote his summary for Sarah four times until it didn’t sound like an apology.
 
-Mack stood up and started pacing. "So what do we do now?"
+- Access controls: enforced branch protection, required reviews, status checks. Evidence attached.
+- Credential storage: migrated to password manager; rotations in progress; compensating controls documented.
+- Code review template: removed non-functional rubric; added test and changeset guidance.
 
-"First," Jordan said, "we implement real security practices. Branch protection, proper password management, actual code reviews."
+He sent it and nudged the lid down without closing it.
 
-"Second," Alex added, "we prepare for the corporate investigation."
+---
 
-"Third," Mack said, "we figure out how to survive this without losing our jobs."
+Alex's script finished its last pass and printed a final list of suspicious matches. She sorted them by confidence and assigned the lowest to "monitor."
 
-Jordan looked at his phone. "I should probably call Sarah. She's going to need to know about this."
+She considered turning the script into a pre-commit hook and then didn't. They needed fewer rules, not new ones written by the same people who didn't follow the old ones.
 
-Alex opened her terminal and started typing. "I'll set up branch protection on the main repository."
+She archived the script in a folder named tools and wrote a readme that said, "Use if needed."
 
-Mack sat back down. "I'll start removing the fake Innovation Score comments from our recent commits."
+---
 
-Jordan nodded. "And I'll draft a response to corporate explaining our security improvements."
+Mack created a tiny internal page titled "Things That Are Now True" and listed five bullets that no one would argue with.
 
-As they worked, Alex felt the weight of the situation settling in. Their previous victories had consequences, and the company's dysfunction was becoming more dangerous. The game was getting harder to play.
+- Main is protected.
+- Reviews are required.
+- Tests are not optional.
+- Secrets live in the tool with the lock icon.
+- The template is smaller.
 
-She typed the command to enable branch protection and wondered how much longer the game would continue.
+He turned off notifications for the page.
+
+---
+
+Greg's shared folder pinged again. "Please upload evidence of password rotations." There was a specific format requested for filenames: teamname_artifact_date.png.
+
+Alex renamed her screenshots. It was easier than asking whether the underscore mattered.
+
+She watched the progress spinner until it became a checkmark.
+
+---
+
+On the way out, they passed Sarah talking to Legal in the hallway. The conversation used words like "exposure" and "mitigation" in voices calibrated not to carry.
+
+Sarah caught Jordan's eye and gave a small nod that meant "I saw your summary" and also "thank you for making it look like this."
+
+Jordan nodded back. He didn’t say anything because the right word would have sounded like a promise.
+
+---
+
+It was dark outside. The motion sensor lights in the conference room clicked off and then on again as Alex went back for her water bottle. The TV still reflected the last checklist they had closed.
+
+She unplugged the HDMI, and the reflection disappeared.
+
+On her desk, the evidence folder was still open. She added one more screenshot—the branch protection page with all the toggles green—and dragged it into place.
+
+The upload bar moved from left to right, steady and unremarkable, the way good decisions look when they happen too late to be dramatic.
