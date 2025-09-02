@@ -192,6 +192,4 @@ The room was silent except for the sound of people shifting uncomfortably in the
 
 As Vincent continued his speech about innovation and disruption, the engineers exchanged glances. They had just been praised for their deception, and now every team in the company was being told to follow their example.
 
-The engineers sat in silence, listening to Vincent's vision of a company where every team would follow their example of "creative problem-solving."
-
 The meeting ended with Vincent's promise to personally mentor each department in the art of "disruptive innovation."
