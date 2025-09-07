@@ -15,15 +15,18 @@
 - **Chapter 10**: 530 words (The Team Building Exercise)
 - **Chapter 11**: 1,191 words (The Budget Meeting)
 - **Chapter 12**: 1,865 words (The Security Audit)
+- **Chapter 13**: 2,173 words (Vincent's Vision)
+ - **Chapter 14**: 2,298 words (The Vendor Meeting)
+ - **Chapter 15**: 1,369 words (Major Major's Investigation)
 
 ## Progress Summary
-- **Total Words Written**: 21,172 words
-- **Percentage Complete**: 52.9% (21,172 of 40,000 words)
-- **Remaining Words**: 18,828 words
-- **Average Words Per Chapter**: 1,764 words
+- **Total Words Written**: 27,012 words
+- **Percentage Complete**: 67.5% (27,012 of 40,000 words)
+- **Remaining Words**: 12,988 words
+- **Average Words Per Chapter**: 1,801 words
 
 ### Next Priority
-- **Chapter 13: "Vincent's Vision"** - Follow Vincent through his day, disconnected from reality; escalating demands
+- **Chapter 16: "The Reorganization"** - Company restructures; team reassigned and strategies tested
 
 ## Rewrite Goals & Approach
 
@@ -152,8 +155,11 @@
 - **Word Count**: 1,865 words
 - Notes: Real vulnerabilities exposed; innovation rubric quietly removed; understated ending
 
-### Chapter 13: "Vincent's Vision" - NEXT
-### Chapter 14: "The Vendor Meeting" - PENDING
+### Chapter 13: "Vincent's Vision" - COMPLETED
+- **Word Count**: 2,173 words
+- Notes: Vincent's escalating demands; disconnect framed through routine; quiet ending
+
+### Chapter 14: "The Vendor Meeting" - NEXT
 
 ## Checklists
 
