@@ -22,7 +22,7 @@ Alex looked at the chart that represented a week of her life as a heatmap. “Or
 
 Sarah spoke before the room decided what to feel. “We value well-being, but we can’t equate activity with output. The last two outages were resolved by people who weren’t in meetings.”
 
-David nodded and wrote that down as if the system might incorporate nuance if he gave it enough examples. “Completely agree. Still, leadership has asked me to look for trends that could indicate systemic issues.”
+David nodded and wrote that down as if the "system" might incorporate nuance if he gave it enough examples. “Completely agree. Still, leadership has asked me to look for trends that could indicate systemic issues.”
 
 “What counts as a trend?” Jordan asked.
 

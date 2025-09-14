@@ -18,15 +18,17 @@
 - **Chapter 13**: 2,173 words (Vincent's Vision)
  - **Chapter 14**: 2,298 words (The Vendor Meeting)
  - **Chapter 15**: 1,369 words (Major Major's Investigation)
+ - **Chapter 16**: 1,498 words (The Reorganization)
+ - **Chapter 17**: 1,291 words (The Innovation Workshop)
 
 ## Progress Summary
-- **Total Words Written**: 27,012 words
-- **Percentage Complete**: 67.5% (27,012 of 40,000 words)
-- **Remaining Words**: 12,988 words
-- **Average Words Per Chapter**: 1,801 words
+- **Total Words Written**: 29,801 words
+- **Percentage Complete**: 74.5% (29,801 of 40,000 words)
+- **Remaining Words**: 10,199 words
+- **Average Words Per Chapter**: 1,753 words
 
 ### Next Priority
-- **Chapter 16: "The Reorganization"** - Company restructures; team reassigned and strategies tested
+- **Chapter 18: "The Rube Goldberg Machine"** - CSV export spirals into compliance nightmare; absurd over-engineering
 
 ## Rewrite Goals & Approach
 
