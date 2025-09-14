@@ -112,12 +112,7 @@ Mack sent a thumbs‑up and muted the thread.
 
 —
 
-
-—
-
 By the end of the week, the innovation workshop had produced a prototype game, a calendar, and a draft policy. Vincent declared it momentum in a company-wide note that used the word disruption three times.
-
-Alex closed her laptop and wrote a commit message that removed the word delight from a comment. Mack added a test that failed cheerfully for the right reason. Jordan wrote a recap that didn’t promise anything he couldn’t make happen.
 
 The banner that said Think Like A Founder was folded and placed in a storage room with banners for three other initiatives that no one remembered starting.
 

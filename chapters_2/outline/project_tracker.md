@@ -20,15 +20,16 @@
  - **Chapter 15**: 1,369 words (Major Major's Investigation)
  - **Chapter 16**: 1,498 words (The Reorganization)
  - **Chapter 17**: 1,291 words (The Innovation Workshop)
+ - **Chapter 18**: 1,264 words (The Rube Goldberg Machine)
 
 ## Progress Summary
-- **Total Words Written**: 29,801 words
-- **Percentage Complete**: 74.5% (29,801 of 40,000 words)
-- **Remaining Words**: 10,199 words
-- **Average Words Per Chapter**: 1,753 words
+- **Total Words Written**: 31,065 words
+- **Percentage Complete**: 77.7% (31,065 of 40,000 words)
+- **Remaining Words**: 8,935 words
+- **Average Words Per Chapter**: 1,726 words
 
 ### Next Priority
-- **Chapter 18: "The Rube Goldberg Machine"** - CSV export spirals into compliance nightmare; absurd over-engineering
+- **Chapter 19: "The Crisis"** - Major failure hits; team forced to triage together under pressure
 
 ## Rewrite Goals & Approach
 
