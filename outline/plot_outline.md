@@ -107,20 +107,21 @@
 - **Escalation**: Vincent's delusions are becoming more extreme
 - **Consequence**: His demands are becoming impossible to work around
 
-### Chapter 14: "The Vendor Meeting"
-- Vincent brings in expensive consultants to "fix" the team
-- Consultants recommend the exact opposite of what the team needs
-- Jordan tries to convince the vendors behind the scenes, but to no avail
-- Mack and Alex create fake requirements to confuse consultants
-- **Escalation**: External pressure is added to internal dysfunction
-- **Consequence**: The engineers' previous victories are being scrutinized
+### Chapter 14: "The Innovation Council (Part I: Vendors)"
+- Vincent forms an Innovation Council with expensive consultants to "fix" the team
+- Consultants recommend performative solutions and dashboard theatre
+- Jordan works backchannels, fails to redirect scope
+- Mack and Alex seed fake "requirements" that expose consultant ignorance
+- Setup: an external consultant will later validate risk in Ch24
+- **Escalation**: External pressure fuses with internal bureaucracy
+- **Consequence**: The team's prior subversions become exhibits for the council
 
-### Chapter 15: "Major Major's Investigation"
-- Major Major investigates "productivity issues" based on the team's previous subversions
-- His HR background and his fear of making the wrong call
-- His family life and his collection of motivational posters
-- **Escalation**: Management is starting to notice patterns
-- **Consequence**: The engineers' usual strategies are being monitored
+### Chapter 15: "The Inquisition (Part I: Investigation)"
+- Major Major opens a formal investigation into "productivity issues" targeting the team's subversions
+- His HR background and fear of a wrong call drive process over truth
+- Quiet interviews and data pulls begin; access audits tighten
+- **Escalation**: Patterns are documented and weaponized
+- **Consequence**: Usual strategies are monitored and now carry real risk
 
 ### Chapter 16: "The Reorganization"
 - ByteSauce announces major restructuring in response to "productivity issues"
@@ -130,13 +131,13 @@
 - **Escalation**: The company is actively trying to break up the team
 - **Consequence**: Individual survival strategies are being tested
 
-### Chapter 17: "The Innovation Workshop"
-- Vincent hosts mandatory innovation session to "fix" the team's "lack of creativity"
-- Everyone forced to brainstorm "disruptive" ideas
-- Alex suggests practical improvements, gets ignored
-- Mack proposes absurd ideas that management loves
-- **Escalation**: Management is trying to force "innovation" through bureaucracy
-- **Consequence**: The engineers' cynicism is becoming more obvious
+### Chapter 17: "The Innovation Council (Part II: Workshop)"
+- Mandatory workshop to brainstorm "disruptive" ideas under council oversight
+- Alex proposes practical reliability fixes; ignored
+- Mack pitches absurd ideas that management loves; they become roadmap slideware
+- Council schedules a showcase rewarding theatre over outcomes; dates are set
+- **Escalation**: Forced innovation becomes a lever against the team
+- **Consequence**: Council artifacts will be used at the board review (Ch24 setup)
 
 ### Chapter 18: "The Rube Goldberg Machine"
 - Simple "Export to CSV" feature request becomes a compliance nightmare
@@ -154,74 +155,83 @@
 - **Escalation**: The company's dysfunction is causing real problems
 - **Consequence**: The engineers' previous work is coming back to haunt them
 
-### Chapter 20: "The Performance Metrics"
-- New quarterly review system designed to catch the engineers' subversions
-- Engineers measured on impossible metrics
-- Team develops creative ways to game the system
-- Jordan negotiates better metrics for the team
-- **Escalation**: Management is actively trying to catch the engineers
-- **Consequence**: The usual strategies are becoming more risky
+### Chapter 20: "The Inquisition (Part II: Performance Metrics)"
+- New quarterly review system designed to catch subversions; impossible metrics enforced
+- Team builds temporary workarounds but cost and risk spike
+- Jordan negotiates mitigations but signs an agreement that will be used later
+- **Escalation**: Management actively tries to trap the team using numbers
+- **Consequence**: Strategies become risky; options narrow toward Ch22
 
-### Chapter 21: "The Office Politics"
-- Rival team tries to steal their projects, backed by management
-- The Chaplain caught in the middle
-- Engineers use their technical skills to outmaneuver rivals
-- Jordan brokers a truce that benefits everyone
-- **Escalation**: Internal competition is being weaponized against the team
-- **Consequence**: The engineers' camaraderie is being tested
+### Chapter 21: "Merged into Chapter 22"
+- Office politics and rival team beats folded into Ch22 "The Breaking Point"
 
 ### Chapter 22: "The Breaking Point"
-- Vincent demands impossible deadline based on previous "successes"
-- The Colonel implements draconian monitoring of the team
-- Major Major investigates "productivity issues" with new scrutiny
-- Team realizes they can't keep playing the game forever
-- **Escalation**: Management's demands have become impossible
-- **Consequence**: The engineers' usual strategies have failed
+- Vincent sets an impossible board‑facing deadline based on Innovation Council slideware
+- The Colonel turns on draconian monitoring; a rival team moves to annex projects with leadership cover
+- The Chaplain is forced to choose; his attempted truce fails in public
+- Engineers outmaneuver the annex briefly, but costs hit delivery and expose fragility
+- Board review and external audit are locked in 72 hours; the team sees the trap
+- **Escalation**: Demands and politics converge; there is no safe path left
+- **Consequence**: They decide continuing the game will end them; the clock for Act 3 starts
 
 ## Act 3: The Breaking Point (Chapters 23-27)
 *The system reaches critical mass and something has to give*
 
+### Act 3 Engine
+- Ticking clock: Board review and external audit in 72 hours tied to Taskly relaunch and headcount decisions
+- Stakes: Fail → layoffs/outsourcing; Succeed → mandate for guardrails and team autonomy
+- Antagonist plan: Vincent + The Colonel push metrics theatre to pass the board without fixing anything
+- Team objective: Present undeniable evidence of risk and a viable, lightweight guardrail plan
+- Character pivots:
+  - Alex: from private cynic to public truth‑teller
+  - Mack: from clever hacker to builder of guardrails
+  - Jordan: from risk‑free diplomat to visible advocate who spends political capital
+  - Sarah: from conflicted manager to ally who risks her badge
+  - Michael: from fence‑sitter to the person who makes the call
+
 ### Chapter 23: "The First Rebellion"
-- Team collectively decides they've had enough
-- Alex provides cynical analysis of why the system is broken
-- Mack provides energy for collective resistance
-- Jordan provides diplomatic approaches for the confrontation
-- **Breaking Point**: They realize they need to work together
-- **Consequence**: Their individual strategies have reached their limits
+- Team refuses to sanitize metrics for the board deck; they sign a memo with names and evidence (irreversible)
+- Jordan uses his network to route the memo to Risk and Audit, starting a formal process that cannot be walked back
+- Alex compiles concrete failures (Ch18/Ch19) showing sampling and shared‑module risks masked by dashboards
+- Mack disables the metric‑fudging automations and adds a visible commit that kills the crutch (bridge burned)
+- **Breaking Point**: They stop surviving individually and take a collective, on‑record stand
+- **Consequence**: Immediate monitoring, loss of privileges, and a 72‑hour countdown to the board review
 
 ### Chapter 24: "The Confrontation"
-- Team presents their case to management with evidence of dysfunction
-- The Chaplain finally takes a stand and supports the team
-- The Colonel realizes her metrics are meaningless
-- Major Major actually makes a decision for once
-- **Breaking Point**: Management is forced to acknowledge the problems
-- **Consequence**: The system starts to crack under pressure
+- Live demo in the review exposes metric theatre: a sandbox replay shows green dashboards during a known failure mode
+- Sarah publicly backs the team and forces cross‑service impact questions into the agenda
+- Jordan spends political capital to get an external witness (vendor/consultant from Ch14/17) to validate the risk
+- Vincent tries to shut it down; The Colonel sees her metrics fail in real time
+- **Breaking Point**: Leadership is forced to acknowledge the problem on‑record
+- **Consequence**: Vote to pilot guardrails passes; the team is tasked with proposing the minimal plan in 24 hours
 
 ### Chapter 25: "The Aftermath"
-- Some changes happen, but they're mostly cosmetic
-- The system continues to be absurd in the background
-- Team realizes they've found their individual ways to survive
-- They accept that corporate life is survivable, but on their terms
-- **Breaking Point**: They've achieved a new equilibrium
-- **Consequence**: The company has to adapt to their resistance
+- Partial win with cost: a vendor initiative is canceled; The Chaplain loses a title; Jordan loses a political ally
+- Guardrails mandated: dependency maps for shared modules; CI dependency validator; incident tests run first
+- Michael commits to the plan knowing it costs him with Vincent
+- **Breaking Point**: A change with teeth lands, but creates enemies
+- **Consequence**: The company adopts constraints that shift power from theatre to reliability
 
 ### Chapter 26: "The New Normal"
-- Team has found their individual rhythms within the new system
-- They continue to fight bureaucracy in their own ways
-- The Chaplain becomes a better advocate but still powerless
-- They maintain their cynical camaraderie
-- **Breaking Point**: They've created their own version of success
-- **Consequence**: The company has learned to work around them
+- Concrete systemic changes ship: shared "safe" modules deleted; validator blocks risky couplings; fewer gates, smarter gates
+- Alex becomes the on‑record voice of technical truth; Mack maintains the guardrails; Jordan formalizes a Reliability Council
+- Sarah advocates effectively but accepts limits; Michael makes hard tradeoffs in public
+- **Breaking Point**: They operate on their terms without hiding
+- **Consequence**: The organization routes around them, but cannot ignore the guardrails
 
 ### Chapter 27: "The Survivors"
-- Team has achieved a sustainable way to work within the system
-- They continue surviving together without changing who they are
-- The company's dysfunction continues, but they've found their place in it
-- They've proven that you can survive corporate absurdity without becoming part of it
-- **Breaking Point**: They've won their own version of victory
-- **Consequence**: They've shown that resistance is possible
+- Final image echoes Ch1: another all‑hands and a fresh metric dashboard—this time the team ignores theatre and watches the guardrails pass
+- They haven’t fixed the absurdity; they’ve made it survivable and safer for others
+- **Breaking Point**: Their victory is sustainable, not total
+- **Consequence**: Resistance becomes practice, not a stunt
 
 ## Key Changes from Original Outline
+
+### Act 2 Consolidations (reduce repetition and build fuel for Act 3)
+- Merge Ch14 "The Vendor Meeting" and Ch17 "The Innovation Workshop" into one sustained "Innovation Council" fiasco that resurfaces in Ch24
+- Merge Ch15 "Major Major's Investigation" and Ch20 "The Performance Metrics" into a single inquisition arc that tightens pressure through Ch22
+- Fold Ch21 "The Office Politics" complications into Ch22 "The Breaking Point" to set the immediate pre‑Act‑3 crisis
+- Ensure each combined thread raises the stakes and narrows options toward the 72‑hour clock
 
 ### Escalating Stakes
 - Each chapter should have higher consequences than the last
@@ -269,3 +279,11 @@
 - They don't "fix" the system, but they change how it works
 - They achieve their own version of success
 - The company adapts to their resistance rather than the other way around 
+
+## Callback Ledger (setups → Act 3 payoffs)
+
+- Ch8 secret code review communication → Forms part of the signed evidence packet in Ch23
+- Ch18 Rube Goldberg export microservices → Exhibit A in Ch24 demo showing metric theatre
+- Ch19 shared "safe" throttling module + "we_did_this_once" test → Guardrail requirements in Ch25 and CI checks in Ch26
+- Ch6 sprint planning disaster → Reality vs. estimates segment in Ch24 agenda
+- Ch11 budget meeting cuts → Reallocation to reliability work in Ch25; vendor cancellation cost

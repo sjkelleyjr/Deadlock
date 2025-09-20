@@ -14,22 +14,25 @@
 - **Chapter 9**: 1,901 words (The Budget Meeting)
 - **Chapter 10**: 530 words (The Team Building Exercise)
 - **Chapter 11**: 1,191 words (The Budget Meeting)
-- **Chapter 12**: 1,865 words (The Security Audit)
+- **Chapter 12**: 1,863 words (The Security Audit)
 - **Chapter 13**: 2,173 words (Vincent's Vision)
- - **Chapter 14**: 2,298 words (The Vendor Meeting)
- - **Chapter 15**: 1,369 words (Major Major's Investigation)
- - **Chapter 16**: 1,498 words (The Reorganization)
- - **Chapter 17**: 1,291 words (The Innovation Workshop)
- - **Chapter 18**: 1,264 words (The Rube Goldberg Machine)
+- **Chapter 14**: 2,298 words (The Vendor Meeting)
+- **Chapter 15**: 1,372 words (Major Major's Investigation)
+- **Chapter 16**: 1,498 words (The Reorganization)
+- **Chapter 17**: 1,261 words (The Innovation Workshop)
+- **Chapter 18**: 1,225 words (The Rube Goldberg Machine)
+- **Chapter 19**: 1,031 words (The Crisis)
+- **Chapter 20**: 854 words (The Performance Metrics)
 
 ## Progress Summary
-- **Total Words Written**: 31,065 words
-- **Percentage Complete**: 77.7% (31,065 of 40,000 words)
-- **Remaining Words**: 8,935 words
-- **Average Words Per Chapter**: 1,726 words
+- **Total Words Written**: 32,882 words
+- **Percentage Complete**: 82.2% (32,882 of 40,000 words)
+- **Remaining Words**: 7,118 words
+- **Average Words Per Chapter**: 1,644 words
 
 ### Next Priority
-- **Chapter 19: "The Crisis"** - Major failure hits; team forced to triage together under pressure
+- **Chapter 21: "The Office Politics"** - Rival team complications (to be folded into Chapter 22)
+- **Chapter 22: "The Breaking Point"** - Sets the 72-hour clock for Act 3
 
 ## Rewrite Goals & Approach
 

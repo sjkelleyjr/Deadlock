@@ -233,3 +233,5 @@ She unplugged the HDMI, and the reflection disappeared.
 On her desk, the evidence folder was still open. She added one more screenshot—the branch protection page with all the toggles green—and dragged it into place.
 
 The upload bar moved from left to right, steady and unremarkable, the way good decisions look when they happen too late to be dramatic.
+
+By morning, the evidence folder had a new observer no one invited.

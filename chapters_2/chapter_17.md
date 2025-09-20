@@ -116,3 +116,5 @@ By the end of the week, the innovation workshop had produced a prototype game, a
 
 The banner that said Think Like A Founder was folded and placed in a storage room with banners for three other initiatives that no one remembered starting.
 
+A calendar hold appeared without an organizer and refused to move.
+
