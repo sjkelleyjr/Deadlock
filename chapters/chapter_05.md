@@ -1,135 +1,227 @@
 # Chapter 5
 
-Michael sat at his desk, staring at the Taskly adoption metrics report that Sarah had sent him. The numbers looked impressive—95% user adoption, 87% task completion rate, 92% satisfaction score. He knew they were fake. Everyone knew they were fake.
+Michael's day started at 6:15 AM with his phone buzzing on the nightstand. A production alert from the monitoring system he'd built two years ago, back when he still wrote code more than he attended meetings about writing code.
 
-His phone buzzed with a text from his wife, Jenny. "How's your day going?"
+Database connection pool exhausted. He knew the fix—increase the pool size and restart the service—but he also knew that fixing it himself would undermine the on-call rotation he'd spent six months establishing. 
 
-"Fine," he replied automatically. He'd been saying "fine" for weeks now, even though nothing was fine.
+He sent a message to the on-call engineer instead: "Seeing the DB pool alert. Let me know if you need anything."
 
-The Taskly migration had been a disaster from day one. The system crashed constantly, lost data, and made simple tasks take three times longer. But Mack's script was generating beautiful metrics, and Vincent was thrilled with the "successful rollout." Michael had tried to explain the technical issues to Sarah, but she'd just smiled and said, "The numbers look great, Michael. Let's focus on the positive."
+The response came back in three minutes: "Already on it. Increasing pool size now."
 
-He opened his email and found seventeen new messages about the Digital Transformation Initiative. He deleted them all without reading them.
+Michael smiled despite the early hour. His team was good. They knew their stuff, they helped each other, and they rarely needed him to solve technical problems anymore. Which was exactly what he'd wanted when he'd taken the promotion to Technical Lead three years ago.
 
-"Michael?" Alex appeared at his desk, carrying a coffee and looking concerned. "You okay? You've been staring at that screen for like ten minutes."
+What he hadn't anticipated was spending most of his time protecting them from people who had no idea what they did.
 
-"I'm fine," Michael said, closing the Taskly report. "Just reviewing some metrics."
+His wife Kate was already awake, getting ready for her shift at the hospital. She was an ER nurse, which meant she dealt with actual emergencies involving real consequences, not the manufactured urgency of quarterly planning sessions and strategic realignment initiatives.
 
-Alex glanced at the screen, then back at Michael. "Right. The metrics."
+"Another production issue?" she asked, watching him check his phone.
 
-They both knew what she meant.
+"Already handled. The team's got it."
 
-"How's the new feature coming along?" Michael asked, changing the subject.
+"Good team."
 
-"Slowly," Alex said. "The system keeps crashing every time I try to update a task. But I'm making progress."
+"The best."
 
-Michael nodded. He wanted to tell her to stop using Taskly, to go back to the old system, to do whatever she needed to do to get her work done. But he couldn't. He was the technical lead. He was supposed to enforce the new processes, not undermine them.
+Kate had heard enough of his work stories to understand the basic dynamics: he had smart people who did important work, and he spent his days in meetings with people who didn't understand either the smartness or the importance.
 
-"Keep me updated," he said instead.
+"What time will you be home?" she asked.
 
-Alex gave him a look that said she understood exactly what he wasn't saying. "Will do."
+Michael checked his calendar. Back-to-back meetings until 6 PM, then the quarterly planning session that Vincent had moved to 7 PM because it was the only time that worked with his schedule.
 
-After Alex left, Michael opened his calendar and saw he had a one-on-one with Sarah in thirty minutes. He'd been dreading it all morning. Sarah would want to discuss the "excellent progress" they were making with Taskly, and he'd have to nod and smile and pretend everything was working perfectly.
+"Late. Probably 9."
 
-His phone buzzed again. It was Jenny: "Sophie has a fever. I'm taking her to the doctor. Can you pick up Liam from soccer practice?"
+Kate nodded. She'd stopped asking why his meetings ran so long, just like he'd stopped trying to explain that most of them could be emails, if anyone actually read emails anymore.
 
-Michael looked at his calendar. He had the one-on-one with Sarah, then a team meeting, then a call with the vendor about the new monitoring system. "I'll try," he replied. "What time is practice?"
+"Jake has soccer practice at 4. I can pick him up if you can't make it."
 
-"6:30. But if you can't make it, I can ask my mom."
+"I'll try to duck out early."
 
-Michael felt another pang of guilt. Jenny was always covering for him, always understanding when work took priority over family. But lately, it felt like work was taking priority over everything.
+"It's fine, Michael. He knows you're busy."
 
-At 2 PM, he headed to Sarah's office for their one-on-one. Sarah was already there, organizing her workspace.
+That was the problem. Jake was twelve, and he was already learning that work came first, meetings were more important than soccer games, and adults spent their evenings on laptops instead of helping with homework.
 
-"Michael! Come in, come in. Have a seat."
+Michael kissed Kate goodbye and headed to ByteSauce, where his first meeting was with Vincent about the Taskly migration timeline. Vincent wanted to know why the engineering teams were "resistant to change" and what Michael could do to "drive adoption."
 
-He sat down across from her. The office was immaculate, everything in its place. Sarah's calendar was open to today's date, and she had a notebook ready for their meeting.
+"The teams aren't resistant to change," Michael explained for the third time in two weeks. "They're resistant to tools that don't work as well as the tools they're already using."
 
-"How are you doing today?" Sarah asked.
+Vincent consulted his notes. "But the Innovation Lab has assured me that Taskly has all the features we need."
 
-"Fine," he replied automatically.  "How are you?"
+"It has some of the features we need. The API doesn't exist yet, bulk operations are limited, and the migration tools have data integrity issues."
 
-"Oh, you know. Busy. Lots of exciting things happening with the Digital Transformation Initiative."
+"Those sound like implementation details. Can't the teams work around those limitations?"
 
-Michael nodded. "Yes, it's been quite a rollout."
+Michael stared at Vincent across the conference table. "The limitations aren't edge cases. They're core functionality gaps that affect daily workflows."
 
-"Exactly! And I wanted to talk to you about the Taskly adoption metrics. They're really impressive—95% user adoption, 87% task completion rate. Vincent is very pleased."
+"Right, but from a strategic perspective, we need to show progress on internal tool adoption. The board is expecting metrics."
 
-Michael felt his stomach clench. "The numbers do look good," he said carefully.
+Michael had learned to recognize this moment in conversations with Vincent: the point where technical reality collided with executive expectations, and reality was expected to yield.
 
-"They do! And I think this shows that our team is really embracing the new processes. The engineers seem to be adapting well."
+"What kind of metrics are you looking for?" he asked.
 
-Michael thought about Alex's comment about the system crashing every time she tried to update a task. He thought about Mack's script that was generating fake metrics.
+"User adoption rates, productivity improvements, cost savings. The usual KPIs for digital transformation initiatives."
 
-"The team is very adaptable," he said.
+Michael opened his laptop and pulled up a spreadsheet he'd been dreading. "Here's what I can give you. We can migrate the teams to Taskly and show 100% adoption within two weeks."
 
-Sarah smiled. "That's exactly what I wanted to hear. You know, Michael, I think you're doing a great job as technical lead. The engineers respect you, and you're helping them navigate this transition really well."
+Vincent brightened. "That's exactly what I want to hear."
 
-Michael felt another pang of guilt. He wasn't helping them navigate anything. He was just standing by while they worked around the broken system.
+"But," Michael continued, "productivity will drop by approximately 30% for the first month while people learn the new system, and it'll stay 15% below baseline until the missing features are implemented."
 
-"Thank you," he said. "I'm trying my best."
+Vincent's enthusiasm dimmed. "Can we quantify the long-term benefits to offset the short-term productivity loss?"
 
-"I can see that. And I wanted to let you know that Vincent has been very impressed with your leadership during this transition. He mentioned that you might be considered for a promotion in the next quarter."
+"What long-term benefits?"
 
-Michael stared at her. "A promotion?"
+"Reduced vendor costs, improved collaboration, better visibility into project status."
 
-"To Engineering Manager. You'd have your own team, more responsibility, better compensation. It's a great opportunity."
+Michael consulted his spreadsheet. "We'll save $50,000 annually on licensing fees. Collaboration might improve once the API is built, but that's Q2 at the earliest. Visibility will actually decrease because Taskly's reporting is less flexible than what we currently have."
 
-Michael felt sick. A promotion based on fake metrics and a broken system. A promotion that would mean more meetings, more reports, more time away from his family.
+Vincent made notes. "So we're looking at short-term pain for long-term gain."
 
-"That's very flattering," he said. "But I'm not sure I'm ready for that kind of responsibility."
+"We're looking at short-term pain for minimal long-term gain, assuming the Innovation Lab delivers on their roadmap promises."
 
-Sarah's smile faltered slightly. "I understand. But think about it. You're already doing most of the work anyway. This would just make it official."
+"But you can make it work?"
 
-After the meeting, Michael walked back to his desk feeling exhausted. He sat down and stared at his computer screen, trying to process what had just happened.
+Michael recognized another moment: the point where his job required him to say yes to something he knew was a bad idea.
 
-"Everything okay?" Jordan appeared at his desk, carrying a notebook and looking concerned.
+"We can make it work," he said.
 
-"Fine," Michael said automatically.
+After the meeting, Michael walked back to his desk feeling like he'd just agreed to perform surgery with a butter knife. Technically possible, but unnecessarily difficult and likely to cause more problems than it solved.
 
-Jordan glanced at the closed Taskly report on his screen, then back at Michael. "Sarah's one-on-one go well?"
+His team was clustered around Alex's monitor, looking at something that was making them all shake their heads.
 
-"It was...", he paused.
+"What's the crisis?" he asked.
 
-Jordan nodded slowly. "I see. Well, if you need anything, let me know. I'm here to help."
+Alex pointed to her screen. "Taskly's data export function. It generates CSV files, but they're not actually comma-separated. They're semicolon-separated, and the encoding is wrong, so any non-ASCII characters get corrupted."
 
-Michael looked at Jordan. He wanted to tell him everything—about the promotion offer, about his guilt over the fake metrics, about his fear that he was becoming part of the problem instead of the solution. But he couldn't. Jordan was his friend, but he was also an engineer. Michael was management now, or at least management-adjacent. There were things he couldn't discuss.
+Mack laughed. "It's not CSV, it's SSV. Semicolon-Separated Values. Revolutionary."
 
-"Thanks, Jordan. I appreciate that."
+Jordan looked up from his laptop. "I've been trying to get clarification from the Innovation Lab, but they keep saying it's a 'configuration issue' that can be resolved through 'user training.'"
 
-After Jordan left, Michael opened his email and found a message from Vincent. "Great work on the Taskly rollout, Michael. The adoption metrics are exactly what we were looking for. Keep up the excellent work."
+Michael sat down at his desk and opened his email. Seventeen new messages since the meeting with Vincent, including three from the Innovation Lab asking for "feedback on the user experience" and two from other team leads reporting similar problems with the migration process.
 
-Michael stared at the email. The adoption metrics were fake. The system was broken. But Vincent was happy, Sarah was happy, and Michael was being offered a promotion. He was succeeding by every metric that mattered to the company, even though none of those metrics reflected reality.
+He started typing a response to the Innovation Lab, explaining the technical issues his team had identified. Halfway through, he deleted it and started over. The second draft was more diplomatic but still honest about the problems. He deleted that one too and wrote a third version that focused on "opportunities for improvement" and "collaborative problem-solving."
 
-His phone buzzed. It was Jenny again: "Sophie has strep throat. The doctor prescribed antibiotics. How's your day going?"
+He sent the diplomatic version and immediately felt like he'd betrayed his own team.
 
-Michael looked at Vincent's email, then at the Taskly report, then at his calendar full of meetings about a system that didn't work.
+His phone rang. Kate, calling from the hospital.
 
-"Fine," he replied. "Just another day at the office."
+"Quick question," she said. "Jake's science fair project is due tomorrow, and he's panicking about his volcano. Can you stop by the store and get baking soda and food coloring?"
 
-At 6:15, he packed up his laptop and headed for the elevator. He had fifteen minutes to get to Liam's soccer practice. If he left now, he could make it. If he stayed for the team meeting, he'd be late again.
+Michael looked at his calendar. The vendor review meeting at 3, the budget discussion at 4:30, the quarterly planning session at 7.
 
-His phone buzzed. It was Sarah: "Great meeting today, Michael. I'm excited about the possibilities for your future here at ByteSauce."
+"What time does the store close?"
 
-Michael pulled out of the parking lot and headed toward the soccer field. His phone buzzed again. It was Sarah: "Michael, I need you back in the office. Vincent wants to discuss the Taskly adoption metrics in person. He's very excited about the numbers and wants to understand how we achieved such success."
+"Nine, I think. But he really wants to practice the presentation tonight."
 
-Michael stared at the message. At 6:15 PM.
+"I'll figure something out."
 
-He pulled over to the side of the road and called Jenny.
+He hung up and immediately sent a message to his team: "Can someone cover the vendor meeting for me? Family emergency."
 
-"Hey," she said. "Are you on your way to get Liam?"
+Alex responded first: "I can handle it. Everything okay?"
 
-"Actually," Michael said, "I need to go back to the office. Vincent wants to discuss the Taskly metrics."
+"Twelve-year-old science fair crisis. Nothing life-threatening."
 
-"Right now? It's 6:15."
+"The worst kind of emergency," Mack replied. "Good luck with the volcano."
 
-"I know. I'm sorry."
+Michael left the office at 2:30 and drove to Target, where he bought baking soda, food coloring, and a poster board that Jake had forgotten he needed. By the time he got home, it was 4 PM, and Jake was sitting at the kitchen table surrounded by textbooks and looking overwhelmed.
 
-Jenny was quiet for a moment. "I'll ask my mom to pick up Liam."
+"Dad! I can't get the chemical equation right, and the volcano looks terrible."
 
-Michael felt another pang of guilt. "I'm really sorry, Jenny. This shouldn't take long."
+Michael sat down next to him and looked at the clay volcano he'd built. It was lopsided and painted in colors that didn't exist in nature, but it was clearly the work of someone who'd put effort into the project.
 
-"Michael, this is the third time this week. Liam's been asking when you're going to come to one of his practices."
+"It looks like a volcano to me," he said. "What's the chemical equation supposed to show?"
 
-"I know. I'll make it up to him. I promise."
+"The reaction between sodium bicarbonate and acetic acid. But I don't understand why it makes carbon dioxide."
 
-"Okay," Jenny said, but he could hear the disappointment in her voice. "Just let me know when you're on your way home."
+Michael grabbed a piece of paper and started drawing molecular diagrams. For the next hour, he explained chemical reactions, helped Jake practice his presentation, and watched his volcano erupt three times with increasing enthusiasm.
+
+It was the best hour of his day.
+
+At 6 PM, his phone started buzzing with messages from the quarterly planning session. Vincent wanted to know where he was, the budget numbers needed clarification, and someone had questions about the Taskly timeline that only he could answer.
+
+"I have to take a work call," he told Jake.
+
+"But we haven't finished the poster."
+
+"Your mom can help with the poster. This will just take a few minutes."
+
+Michael spent the next ninety minutes on a conference call, explaining why the engineering budget couldn't be cut by 20% without affecting project timelines, why the Taskly migration would impact productivity, and why the Innovation Lab's optimistic delivery dates were probably unrealistic.
+
+By the time he hung up, Jake had gone to bed, and Kate was finishing the science fair poster at the kitchen table.
+
+"How'd the call go?" she asked.
+
+"Same as always. Everyone wants everything faster and cheaper, and no one wants to hear why that's not possible."
+
+Kate held up the poster. "Think this will work?"
+
+Michael looked at Jake's project: a carefully researched explanation of chemical reactions, illustrated with diagrams he'd helped him draw, and a volcano that would definitely erupt when he demonstrated it tomorrow.
+
+"It's perfect," he said.
+
+"He was excited that you helped with the chemistry part. He said you made it make sense."
+
+Michael felt a familiar tension between pride and guilt. He was good at explaining technical concepts, solving complex problems, and helping people understand difficult ideas. But he spent most of his time in meetings where those skills were irrelevant, talking about timelines and budgets instead of the actual work.
+
+"How was your day?" he asked.
+
+"Three heart attacks, two overdoses, and a kid who broke his arm falling off his bike. Standard Tuesday in the ER."
+
+Michael nodded. Kate dealt with real problems that had clear solutions: stabilize the patient, treat the symptoms, save the life. His problems were abstract and political: balance competing priorities, manage expectations, translate between technical reality and business requirements.
+
+"Do you ever think about what you'd be doing if you weren't managing people?" Kate asked.
+
+"Every day."
+
+"What would you be doing?"
+
+Michael thought about the production alert that morning, the satisfaction of identifying a problem and implementing a solution. "Writing code. Solving technical problems. Building things that work."
+
+"Why don't you go back to that?"
+
+"Because someone has to protect the people who are writing code and solving technical problems. If I don't do it, they'll get someone who doesn't understand the work."
+
+Kate finished cleaning up Emma's art supplies. "So you're sacrificing your career satisfaction to protect your team's career satisfaction."
+
+"Something like that."
+
+"That's very noble. Also probably unsustainable."
+
+Michael's laptop was open on the counter, showing seventeen new emails from the evening's planning session. Action items, follow-ups, and requests for more detailed analysis of problems he'd already explained three times on the call.
+
+"I should probably respond to these," he said.
+
+"Jake's presentation is at 10 AM tomorrow. Think you can make it?"
+
+Michael opened his calendar. The Innovation Lab retrospective at 9:30, the vendor contract review at 11, and the all-hands meeting at 2.
+
+"I'll try to move the 9:30."
+
+"He'd really like you to be there."
+
+"I know. I'll make it work."
+
+Kate went upstairs, and Michael sat at the kitchen table with his laptop, responding to emails about strategic initiatives and budget reallocations. Outside, he could see the lights in the office building across the street, where other people were probably having similar conversations about impossible timelines and competing priorities.
+
+His phone buzzed with a text from Alex: "Vendor meeting went fine. They agreed to extend the contract terms. Nothing urgent."
+
+Michael typed back: "Thanks for covering. How bad was it?"
+
+"Standard vendor meeting. They want more money, we want better service, everyone agreed to think about it."
+
+"Appreciate you handling it."
+
+"No problem. Family stuff okay?"
+
+Michael looked at Jake's science fair poster, propped up against the counter and ready for tomorrow's presentation. "Yeah. All good."
+
+He closed his laptop and went upstairs, where Kate was already asleep and Jake's bedroom light was still on. He knocked softly on his door.
+
+"Dad?" he called.
+
+"Just wanted to say good luck tomorrow. Your volcano is going to be great."
+
+"Will you be there?"
+
+"I'll be there."
+
+Michael turned off his phone and set it on the dresser. Tomorrow's problems could wait until tomorrow.

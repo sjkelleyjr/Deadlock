@@ -1,151 +1,272 @@
 # Chapter 14
 
-Brad from Optimize arrived at 1:45 PM, fifteen minutes early for his demo. Alex watched him set up his laptop in the conference room, carefully arranging his business cards in a neat stack on the table. His polo shirt was pressed, his laptop was spotless, and he had the kind of practiced smile that suggested he'd given this presentation hundreds of times.
+Bradley from OptiMax arrived at 1:47 PM, early enough to rearrange the room. He tilted the screen, swapped the HDMI cable for his own, and set a branded water bottle at a precise forty-five-degree angle next to his laptop. Aisha, his solutions architect, lined up three adapters like surgical tools and asked for the guest Wi‑Fi with a smile that had been practiced in a hundred lobbies.
 
-The engineers filed in at 2 PM, taking seats at the back of the room. Vincent was already there, sitting in the front row with a notebook open and a pen ready. He looked excited, like a kid about to see a magic show.
+Sarah was already there, smoothing the handouts that no one would read. She’d blocked ninety minutes for the session and booked the only conference room with a door that actually latched.
 
-"Welcome, everyone!" Bradley began. "Today I'm going to show you how our platform can revolutionize your workflow."
+Alex took a seat near the back with her notebook open to a blank page. Mack sat beside her and started a quiet inventory of the dongles, whispering model numbers under his breath. Jordan chose the middle of the table where he could see the deck and the faces at the same time.
 
-Vincent nodded enthusiastically and started taking notes. Alex noticed he was writing down every buzzword Bradley used.
+Vincent walked in last and didn’t take off his sunglasses until the lights dimmed.
 
-"Our platform provides a unified view of your entire workflow," Bradley said, clicking to his first slide.
+“Thanks for coming in,” Sarah said, and gestured toward the screen like a stage manager. “Let’s keep this focused on how your platform can help our immediate needs.”
 
-Vincent wrote "unified view" in his notebook and underlined it twice.
+Bradley clicked to a title slide that had more gradients than information. “Absolutely. OptiMax provides a unified observability fabric with AI-assisted incident triage, zero-touch scaling, and compliance-first data controls. You’ll see faster time-to-diagnosis, fewer midnight pages, and happier engineers.”
 
-"With real-time analytics and AI-powered insights," Bradley continued.
+Mack whispered, “Happier engineers is a feature?”
 
-Vincent wrote "AI-powered insights" and added three exclamation marks.
+Alex didn’t smile. “It’s in the enterprise tier.”
 
-Mack leaned over to Alex. "Vincent's taking notes like he's studying for an exam."
+The demo launched into a dashboard with gauges, dials, and a map of the world for no apparent reason. Colored lines pulsed across graphs that measured something that might have been throughput or might have been confidence.
 
-Alex nodded. "He's going to try to implement every buzzword he hears."
+“This is our Command Canvas,” Bradley said. “One pane of glass. Instead of six tools, one experience. Our customers typically deprecate three vendors in the first quarter.”
 
-Bradley continued his presentation, using phrases like "paradigm shift," "disruptive innovation," and "synergistic optimization." Vincent wrote down each one, sometimes asking Bradley to repeat them so he could get the spelling right.
+Vincent leaned forward. “What’s your time-to-value?”
 
-"Could you spell 'synergistic'?" Vincent asked, pen poised over his notebook.
+“Day one, you’ll see insights,” Bradley said. “Day thirty, you’ll wonder how you lived without us.”
 
-"S-Y-N-E-R-G-I-S-T-I-C," Bradley said, clearly pleased that someone was taking such detailed notes.
+Aisha advanced to a screen labeled Policy Studio. “Data residency is configured here. We support regional pinning, retention windows, and field-level masking. SOC 2, HIPAA, PCI—we’ve got standard mappings out of the box.”
 
-Vincent wrote it down carefully, then added "optimization" underneath it. He was building a dictionary of corporate innovation, one buzzword at a time.
+Jordan raised a hand. “How do you handle export controls for mixed-jurisdiction datasets?”
 
-"Now, let me show you our dashboard," Bradley said, clicking to a new slide.
+“Automatic segmentation using tags,” Aisha said. “No developer effort.”
 
-The slide showed a screenshot of what looked like a standard business dashboard. There were charts, graphs, and various metrics displayed in a grid layout.
+“What’s the API surface area?” she asked. “Webhooks, rate limits, auth, pagination strategy?”
 
-"Beautiful," Vincent said, writing "dashboard" in his notebook.
+“Full REST and GraphQL,” Aisha said smoothly. “Unlimited rate for trusted partners, OAuth 2.1, cursor-based pagination.”
 
-Alex stared at the screen. The dashboard looked like every other business dashboard she'd ever seen - generic charts with sample data, meaningless metrics, and corporate jargon. There were pie charts showing "Productivity Distribution," bar graphs labeled "Efficiency Metrics," and a gauge that read "Optimization Score: 87%."
+“Documentation?” Alex said.
 
-"Notice how intuitive the interface is," Bradley said. "Everything is just one click away."
+“Best-in-class,” Bradley said. “Developer love is our north star.”
 
-Vincent nodded and wrote "intuitive interface" in his notebook. He also wrote "one-click access" and drew a small arrow pointing to it.
+Mack tilted his head. “Can the agent run air-gapped?”
 
-"Each widget is customizable," Bradley continued. "You can drag and drop them to create your perfect dashboard."
+“We have a hybrid story,” Bradley said. “Edge collectors, centralized intelligence.”
 
-Vincent wrote "customizable widgets" and "drag and drop" in his notebook. He was creating a feature checklist that would become his implementation roadmap.
 
-Jordan raised his hand. "What am I looking at?"
 
-"This is your workflow efficiency dashboard," Bradley said. "It shows key metrics like task completion rates, time tracking, and productivity trends."
+Sarah nodded at the slide with the customer logos. A handful were recognizable. A few were aspirational. One was their competitor.
 
-"Those look like generic charts with sample data," Alex said.
+“Let’s talk about the present,” Sarah said. “Our monitoring is fragmented. We need clarity without another migration that burns a quarter.”
 
-"They are sample data," Bradley's colleague Priya said. "We'll populate it with your actual data once we integrate."
+“Perfect,” Bradley said. “Our Seamless Lift assists ingestion from legacy systems. We don’t migrate, we harmonize.”
 
-"So you're showing us what our data might look like if we had your platform?" Alex asked.
+Jordan tracked the phrasing and filed it in his mind under “useful if the pitch needs selling upward.”
 
-"Exactly," Bradley said. "This gives you a preview of what you'll see once we're up and running."
+Vincent tapped the table. “We need to look bold to the board next month. Can you stand up a proof in two weeks?”
 
-Vincent was still taking notes. He wrote "preview of actual data" and underlined it.
+“We love quick wins,” Bradley said. “We can do a pilot with three services. Success criteria aligned to incident reduction and signal fidelity.”
 
-"Now, let me show you our advanced analytics module," Bradley said, clicking to a new slide.
+Sarah exhaled like a decision had moved an inch closer to being inevitable. “Scope it. Define ingest boundaries. No production writes.”
 
-The slide showed more charts and graphs, this time with labels like "Predictive Analytics," "Trend Analysis," and "Performance Forecasting."
+“Of course,” Bradley said. “Read-only to start.”
 
-Vincent wrote "advanced analytics" and "predictive analytics" in his notebook. He also wrote "trend analysis" and "performance forecasting," underlining each one.
+He dragged an artificial incident into view. The dashboard lit up with a red banner that read something between urgent and theatrical. A bot posted a recommendation in a side panel: suspected saturation in pool X, probable cause Y, suggested action Z.
 
-"This module uses machine learning to predict future performance based on historical data," Bradley explained.
+“Our Copilot analyzes eleven dimensions,” Aisha said. “It’s not rule-based—it learns your environment.”
 
-"Can you explain what 'machine learning' means in this context?" Jordan asked.
+“From what data?” Alex asked.
 
-Bradley looked pleased to have a technical question. "Our algorithms analyze patterns in your workflow data and identify trends that can help predict future outcomes."
+“Trace, metrics, logs,” Aisha said. “Plus meta-signals.”
 
-"Now, let me show you our AI-powered recommendation engine," Bradley said.
+“Define meta-signals,” Alex said.
 
-The slide showed a screenshot of what looked like a chat interface with some text bubbles.
+“Context across correlated streams,” Aisha said. “We can share the whitepaper.”
 
-"This is our AI assistant," Bradley said. "It can answer questions about your workflow and provide recommendations."
+Mack murmured, “Translation: vibes.”
 
-Vincent wrote "AI assistant" and "recommendations" in his notebook.
+Jordan cut in before the mood curdled. “Permissions model?”
 
-"What kind of questions?" Mack asked.
+“Role-based with project scoping,” Aisha said. “SAML, SCIM. Least privilege enforced.”
 
-"Questions like 'How can I improve my team's productivity?' or 'What are the bottlenecks in our current process?'"
+Vincent pointed at the graph that was trending upward in an encouraging color. “If this halves incidents, I’ll sign today.”
 
-Vincent wrote "productivity questions" and "bottleneck identification" in his notebook.
+Bradley smiled like the deal memo had just written itself. “Let’s walk through commercials after we wow you.”
 
-Alex watched as Vincent continued to document every feature, every promise, every buzzword. He was creating a shopping list of corporate solutions.
+Commercials arrived anyway. Seat-based pricing for features that sounded like adjectives. A surcharge for “advanced retention.” A discount if they cut their current contracts within sixty days.
 
-Bradley moved on to pricing. "Our platform starts at $50,000 per year for the basic package."
+Sarah’s pen paused. “We’re not cutting anything without evidence. Pilot first.”
 
-Vincent wrote "$50,000" and "basic package" in his notebook.
+Jordan added, “And the pilot is no-cost.”
 
-"With additional modules available for $15,000 each," Bradley continued.
+Bradley hesitated. “We can do a token fee to cover enablement.”
 
-Vincent wrote "$15,000 per module" and added a note about "scalable investment."
+“No-cost,” Jordan repeated. He did not smile.
 
-"Plus implementation fees of $25,000," Bradley added.
+Vincent waved it along. “Send your paper; we’ll get legal to bless it.”
 
-Vincent wrote "$25,000 implementation" and underlined it twice.
+Aisha advanced to a slide titled Integration Path. “Install lightweight collectors. Configure service tags. Point your exporters here.” She circled a URL that was vaguely reassuring.
 
-"And annual maintenance of 20% of the total cost," Bradley said.
+Mack glanced at Alex. “Want to see how it handles honest data?”
 
-Vincent calculated quickly in his notebook: "$50,000 + $25,000 + $10,000 = $85,000 first year." He wrote "annual maintenance 20%" and drew a box around the total.
+“After,” Alex said, never looking away from the screen.
 
-Alex watched as Vincent documented the entire cost structure, building a budget that would become his justification for the investment. She could see the wheels turning in his head - he was already planning how to present this to the board.
+They made it to the live portion. Bradley asked for a sample log stream; Mack provided one. It was a sanitized feed from a noisy service: intermittent timeouts, occasional spikes, a few Unicode surprises.
 
-The presentation continued for another thirty minutes. Bradley showed more slides, used more buzzwords, made more promises. Vincent took notes on everything.
+The dashboard consumed the feed, thought, and produced a sentence that would have been useful if it had been correct.
 
-Alex watched the process with growing concern. Vincent was going to try to implement every feature Bradley mentioned, regardless of whether they made sense or whether the company could afford them.
+“We’re seeing memory pressure,” Bradley said. “Recommendation: increase heap by twenty-five percent.”
 
-As the presentation wrapped up, Bradley asked if there were any questions.
+“That service is running with a generous heap,” Alex said. “The bottleneck is upstream retries after a partial deploy. We pinched the wrong lane last week.”
 
-Vincent raised his hand. "This is exactly what we need. When can we get started?"
+Aisha frowned. “The model will learn.”
 
-Bradley smiled. "We can begin the implementation process as soon as you're ready."
+“How long does learning take?” Alex asked.
 
-Vincent nodded enthusiastically. "Perfect. I'll have our legal team review the contract and we can get this rolling."
+“Depends on entropy,” Aisha said.
 
-Alex exchanged glances with Mack and Jordan. They all knew what was coming - another expensive corporate solution that would create more problems than it solved.
+Mack coughed into his fist. “Entropy is high today.”
 
-Mack leaned over and whispered, "Vincent's going to try to implement every feature Bradley mentioned."
+Bradley recovered. “That’s why we do a pilot—to tune to your reality.”
 
-Jordan nodded. "And we'll be the ones who have to make it all work."
+Jordan flipped his notebook to a page titled Nothing That Sounds Like A Promise. “Let’s outline success: a reduction in false positives, accurate root cause suggestions on at least two live incidents, and no data leaving region without explicit approval.”
 
-Alex sighed. "I can already see the meeting next week: 'We need to implement the synergistic optimization features with predictive analytics and machine learning algorithms.'"
+Sarah nodded. “Also: minimal engineering lift. We’re already underwater.”
 
-Mack grinned. "Don't forget the customizable widgets and drag-and-drop interface."
+“Understood,” Bradley said. “Our team will do the heavy lifting.”
 
-Jordan added, "And the AI-powered recommendation engine that provides actionable insights."
+“With our SREs supervising,” Jordan added.
 
-They all knew the drill. Vincent would present his notes as a strategic roadmap, the board would approve the budget, and the engineers would be left to figure out how to make it all work with systems that didn't need integrating and tools that didn't provide any value.
+Vincent stood. “If we get lift from this, we roll it out. I want momentum.”
 
-As the vendor team packed up their equipment, Vincent approached Bradley with his notebook open.
+The pitch wrapped with a video of another customer congratulating the platform in a voiceover that could have sold luxury SUVs.
 
-"Can you go over those key features again?" Vincent asked. "I want to make sure I have everything documented correctly."
+When the lights came up, Sarah started moving chairs back where they belonged. Bradley produced a clipboard for signatures that weren’t required yet.
 
-Bradley smiled and started listing off the features. Vincent wrote them down, one by one, building his roadmap for corporate transformation.  Alex watched the process with a sense of inevitability.
+“We’ll send the pilot doc,” he said. “You’ll have it tonight.”
 
-It was just another day in the corporate circus - another vendor selling solutions to problems that didn't exist, another manager buying into the promise of transformation, another round of engineers left to clean up the mess.
+“Tomorrow,” Jordan said. “Tonight we have real work.”
 
-Bradley was still talking to Vincent, going through his notebook page by page. The contract was as good as signed.
+Bradley’s smile thinned. “Tomorrow morning, first thing.”
 
-Alex looked at her watch. It was almost 4 PM. She had a meeting with Sarah in fifteen minutes to discuss the new project requirements.
+They left a stack of glossy one-pagers and two pastel stress balls shaped like clouds.
 
-She wondered how many more vendor demos she'd have to sit through in her career, how many more corporate solutions she'd have to pretend to implement, how many more buzzwords she'd have to translate into actual work.
+Vincent left first. “Two weeks,” he said to the room, to the air, to the calendar. “Make it shine.”
 
-The answer, she suspected, was "many."
+Sarah looked at Jordan. “You’ll coordinate the pilot.” It came out less like a question than a law of physics.
 
-Bradley was showing Vincent how to use the platform's "synergistic optimization features." Vincent was taking notes.
+Jordan’s smile edged. “Of course.”
 
-Alex stood up and walked out of the conference room. She had work to do.
+“Alex,” Sarah said, “own evaluation criteria. Document everything.”
+
+Alex nodded.
+
+“Mack,” Sarah said, “wire the collectors. Contain the blast radius.”
+
+Mack saluted with a stress cloud.
+
+They waited until the hallway noise faded before saying anything that sounded like opinions.
+
+“Their model thinks in slogans,” Mack said.
+
+“It thinks in correlations,” Alex said. “Slogans are the interface.”
+
+Jordan flipped to a new page. “If we control the criteria, the pilot stays honest. We can live with a tool that’s noisy as long as we can mute it.”
+
+“Or we become the tool that tunes their product for free,” Mack said.
+
+Alex started a list labeled "Things That Will Break". She wrote: rate limits, tag drift, Unicode, traffic spikes that look like holidays, dashboards that forget time zones, alerts that page security instead of ops, agents that update themselves at 2 AM.
+
+Jordan added a second list: People Who Will Ask For Demos. He wrote three names and then crossed out one.
+
+Sarah stepped back in with Michael behind her. “Quick sync. Pilot goes forward. Keep it isolated. If legal complains, we pause.”
+
+Michael scanned the remnants on the table—glossy clouds, abandoned adapters, a printed slide that read Operational Nirvana. “What’s the catch?”
+
+“Seat pricing,” Jordan said. “And a surcharge for remembering things longer than a month.”
+
+“We can’t even remember things for a week,” Michael said. “Maybe we’re safe.”
+
+Sarah kept moving. “Jordan, set cadences. Daily check-in during pilot. Thirty minutes. Keep it light.”
+
+“I’ll loop in legal for the data path,” Sarah said. “No surprises.”
+
+They dispersed with assignments that felt like sand poured into the gaps of their day.
+
+—
+
+The first install happened in a staging cluster after dinner. Mack opened the readme and stopped at a line that assumed root and optimism. He wrote a wrapper, built a container that refused to call home without a signed note, and labeled every outbound request with a fluorescent tag.
+
+“You’re tracing the tracer,” Alex said.
+
+“If it blinks, I want to know,” Mack said. “Also if it blinks when no one asked it to.”
+
+He fed the agent a sample of logs they didn’t mind sharing with strangers. The collector accepted the offering, translated it into its own taxonomy, and drew a graph that ignored reality in an attractive way.
+
+Alex opened a terminal and produced an incident on purpose: a locked mutex in a sidecar that usually behaved itself. The dashboard lit up late and guessed wrong again.
+
+“Entropy still high,” Mack said.
+
+“It will adjust,” Alex said. “Or we will.”
+
+She wrote a short script that mapped their internal labels to the vendor’s tags, added the ones that mattered, and blackholed the ones that didn’t. She left comments that would make sense to her in a month.
+
+Jordan drafted the pilot document. He avoided adjectives and used numbers where a fight might happen. He added a table: date, incident, platform suggestion, actual root cause, helpful/not helpful, notes. He left the last column blank and titled it Evidence.
+
+At 9:20 PM, the vendor Slack lit up with a cheerful message from someone named Nate offering to hop on a quick call to help them “accelerate success.” Jordan replied with a screenshot of the table and “We’ll add to this tomorrow,” then muted the channel for eight hours.
+
+—
+
+By the second day, the agent had stopped trying to phone unfamiliar regions. By the third, the suggestions were less wrong and more vague. On the fourth, the platform correctly identified a slow database connection and suggested increasing the connection pool by exactly zero, which was an impressive hedge.
+
+“They’re learning,” Mack said. “How to avoid being wrong in public.”
+
+“A valuable skill,” Jordan said.
+
+Sarah forwarded a note from Vincent with three words: Board wants wins.
+
+Alex added a new row to the table: midnight deploy, noisy alarms, wrong owner auto-paged; platform suggestion: adjust alert threshold; actual root cause: test flag persisting to prod after rollback. Helpful: no.
+
+Jordan kept the table clean and the language clean and the edges clean because the outcome would not be.
+
+Legal returned the pilot agreement with two clauses highlighted and one crossed out. Data stayed put. Metrics anonymized. Incident details redacted before any “training” occurred. Aisha accepted all changes and replied with a smile emoji and a calendar invite titled Enablement Workshop that landed on top of something that was supposed to matter more.
+
+Michael stopped by their desks and looked at the graph wall. “Is it helping?”
+
+“It’s not hurting,” Alex said.
+
+“Except the part where it wants an owner for the ‘happiness score,’” Mack said. “I’m not volunteering.”
+
+“Jordan already did,” Alex said.
+
+Jordan didn’t look up. “I volunteered to make sure no one else had to.”
+
+—
+
+On the last day of the second week, Bradley returned with a summary deck titled Outcomes. He clicked through charts that presented their table in radiant colors. The misfires were footnotes; the maybes were testimonials.
+
+“We saw a twenty-three percent reduction in mean detection time,” Bradley said. “We improved signal efficiency by forty.”
+
+“From what baseline?” Alex asked.
+
+“Industry baseline,” Bradley said.
+
+“Whose industry?” Mack asked.
+
+“Leaders like you,” Bradley said.
+
+Jordan slid the data table printout across the conference table. “Two correct nudges, five unhelpful guesses, four times we were told to ‘monitor closely.’ That’s not a case study.”
+
+Bradley nodded gravely. “Pilots are for learning. With a full rollout, you’d unlock features that change the slope.”
+
+Vincent appeared in the doorway as if summoned by the word slope. “Can we claim the improvement?”
+
+“We can claim we measured things,” Jordan said.
+
+Sarah folded the glossy one-pager in half. “We’re not ripping anything out yet. We’ll keep the pilot where it is and revisit next quarter. No more seats. No production breadcrumbs. If it earns its place, it stays.”
+
+He reset his smile. “We’ll be here when you’re ready.”
+
+He packed the adapters, lined up the water bottle, and left two more clouds.
+
+After they left, the room felt louder without actual sound. The screen reflected a quiet desktop and Jordan’s table in grayscale.
+
+Mack tossed a stress cloud in the air and caught it with one hand. “External pressure applied; internal pressure unchanged.”
+
+“Correction,” Alex said. “Internal pressure redistributed.”
+
+Jordan looked at his calendar. A new rectangle had appeared while Bradley was talking. It was blue, it was daily, it was early, and it had his name next to Host.
+
+He clicked it open: Pilot Standup — 8:15.
+
+He moved it to 8:30 and didn’t add a reason.
+

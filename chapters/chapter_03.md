@@ -1,73 +1,75 @@
 # Chapter 3
 
-Alex's apartment was exactly what you'd expect from someone who spent most of her time at work. The living room was dominated by a large desk with three monitors, a mechanical keyboard, and a collection of coffee mugs from failed startups. The walls were bare except for a single poster of a circuit board that she'd found at a tech conference five years ago.
+Alex's apartment was quiet except for the hum of three vintage computers and the soft clicking of Pixel's claws on the hardwood floor. She sat cross-legged on her couch with her guitar—a 1987 Fender Stratocaster she'd bought junior year with money from her campus IT job—picking out the opening riff to "Blackbird."
 
-But in the corner, almost hidden behind a stack of technical books, was her guitar.
+It was 7:30 PM on a Wednesday, which meant she had exactly ninety minutes before she needed to review the Taskly documentation she'd downloaded. Not enough time to dive into a real project, but perfect for working through the fingerpicking pattern she'd been practicing since college.
 
-It was a vintage Fender Stratocaster that she'd bought with her first real paycheck. The case was dusty, and the strings were probably out of tune, but she still picked it up sometimes when she couldn't sleep.
+Pixel jumped onto the couch and settled against her leg, purring in a way that suggested he approved of her song choice. Alex had named him after the smallest unit of digital imagery, which seemed appropriate for a cat who spent most of his time sleeping on warm computer equipment.
 
-Tonight was one of those nights.
+The guitar felt different than it had in college. Her fingers were stiffer now, less confident with the chord changes. She used to play for hours without thinking about it—in her dorm room, at coffee shops, during those late-night jam sessions with Marcus and Jenny from her computer science cohort.
 
-She'd been lying in bed for two hours, thinking about the Taskly migration and the nineteen forms she'd have to fill out tomorrow. Her brain wouldn't shut off, cycling through the same thoughts: the system crashes, the fake metrics, the way Vincent had looked at her when she'd asked about productivity.
+Marcus had played bass, Jenny had been on drums, and Alex had handled guitar and vocals for their band, which they'd never bothered to name. They'd played exactly four gigs: two at campus coffee shops, one at a friend's house party, and one disastrous set at the Battle of the Bands where their amp had cut out halfway through their opening song.
 
-She got up, made herself a cup of tea, and sat down on the couch with her guitar. The strings were indeed out of tune, but she didn't mind. Tuning was part of the ritual, a way to focus on something that wasn't work.
+She switched to "Wonderwall," partly because it was easier and partly because it annoyed her neighbors, who played their television too loud and left garbage bags in the hallway. The chord progression was simple enough that she could let her mind wander while her fingers found their positions.
 
-As she turned the tuning pegs, she thought about her college band. They'd been terrible, but they'd had fun. They'd played covers of songs they barely knew, and somehow managed to get a few gigs at local bars. She'd been the rhythm guitarist, which meant she'd mostly played power chords and tried not to mess up the timing.
+Tomorrow morning she'd stop by Grind Coffee like she did every weekday at 8:17 AM. She'd order a large dark roast with oat milk, and Danny—the barista with the philosophy degree and the sleeve tattoos—would ask her about her day while the espresso machine hissed in the background.
 
-Her phone buzzed with a text from her college roommate, Rachel. "Still alive?"
+Danny was probably the only person who saw her before she put on her work personality. At Grind, she was just Alex who played guitar and drank too much coffee and sometimes brought in printed articles about vintage computing that she thought he might find interesting. He'd never asked where she worked, and she'd never volunteered the information.
 
-Alex smiled. Rachel was now a professor at a small liberal arts college in Vermont, and they still talked regularly. Rachel was the only person who knew about her guitar, about the band, about the version of herself that had existed before she'd become a corporate drone.
+She'd discovered Grind during her second week at ByteSauce, when the office coffee had given her a headache and she'd needed something stronger to face another day of Vincent's "strategic insights". The shop was three blocks from her apartment, in the opposite direction from work, which made it feel like neutral territory.
 
-"Barely," Alex replied. "How's academic life?"
+Danny had a way of making conversation that didn't feel forced. He'd ask about her weekend plans or mention a band he'd heard that reminded him of something she'd mentioned before. Real conversation, not the corporate small talk that filled her days with questions about project timelines and resource allocation.
 
-"Grading papers. You know how it is."
+Alex finished "Wonderwall" and moved into "Tears in Heaven," which required more concentration and reminded her why she'd never been good enough to make music her career. Her timing was off, and she kept hitting the wrong fret on the bridge. In college, she'd thought she might double-major in music and computer science, until she'd realized that being decent at something wasn't the same as being good enough to do it professionally.
 
-Alex did know. Rachel had her own version of corporate absurdity - department politics, grant applications, the pressure to publish. But at least Rachel got to teach students who actually wanted to learn, who asked questions because they were curious, not because they were trying to look smart in front of their manager.
+She'd made the right choice, probably. Computer science had given her a career, health insurance, and the ability to afford an apartment with space for three vintage computers and a cat. Music had given her something to do with her hands when her brain needed a break from solving other people's technical problems.
 
-She started playing a simple chord progression, something she'd written years ago. It wasn't good, but it didn't matter. The melody was melancholy, which felt appropriate.
+The vintage computers hummed quietly from their corner of the living room: a 1984 Apple IIe, a 1991 NeXT workstation, and a 1995 SGI Indy that she'd rescued from ByteSauce's e-waste pile when they'd upgraded the graphics department. Each one represented a different era of computing, when software was simpler and hardware had personality.
 
-Her cat, Pixel, wandered into the room and jumped up on the couch next to her. Pixel was a rescue cat who'd been found living in the server room of her previous company. She'd adopted him when the company went under, and he'd been with her ever since. He was the only living thing that didn't expect anything from her.
+The Apple IIe still booted to a green-screen prompt where she could write BASIC programs that did exactly what she told them to do, nothing more and nothing less. No frameworks, no dependencies, no corporate requirements that turned simple tasks into complex workflows. Just clean code that solved specific problems.
 
-"Hey, buddy," she said, scratching behind his ears. "How's it going?"
+She'd spent last Saturday afternoon writing a program to calculate her monthly expenses, not because she needed help with her budget, but because it felt good to write software that worked the first time and didn't require a team of product managers to explain why it existed.
 
-Pixel purred and settled down next to her, watching her fingers move across the fretboard. He was used to this routine - Alex playing guitar late at night when she couldn't sleep, when work was too much to process.
+The NeXT workstation was more ambitious—a machine that had been ahead of its time, designed by people who cared more about elegant engineering than market share. It reminded her of the kind of software she'd wanted to build when she'd first learned to code: tools that made complex tasks simple, interfaces that anticipated what users needed.
 
-She thought about the barista at her coffee shop. His name was Jake, and he was probably in his early twenties. He had a tattoo of a guitar on his forearm, and she'd overheard him talking about his band The Yahoos to another customer. They were playing a show next weekend at The Basement.
+The SGI Indy was pure nostalgia. She'd used one just like it in her computer graphics class, back when rendering a simple 3D scene took hours and every frame was a small miracle of mathematics and patience. Now her phone had more processing power, but somehow the results felt less magical.
 
-She'd thought about asking him about it, about telling him that she used to play too. But she was thirty-two, and he was probably twenty-three, and the idea of explaining her corporate job to someone who spent his days making coffee and his nights playing music felt impossible.
+Alex set down her guitar and walked to the kitchen to make tea. Earl Grey, because it was caffeinated enough to keep her alert but not so much that she'd be awake until midnight. She had a collection of mugs from companies that no longer existed: Pets.com, Webvan, Kozmo.com. Corporate history reduced to ceramic souvenirs.
 
-Besides, what would she say? "I used to be in a band, but now I spend my days fighting with project management software and generating fake metrics for executives who don't understand what I do"?
+While the water heated, she checked her phone. Two text messages from her mother asking about Thanksgiving plans, three emails from work that could wait until tomorrow, and a notification from the guitar tutorial app she'd downloaded but never used.
 
-She put the guitar down and picked up her phone. Rachel had sent another text: "Remember when we used to talk about changing the world?"
+Her mother's texts were part of their weekly routine. "Have you thought about Thanksgiving? Dad wants to know if you're bringing anyone." Translation: are you dating someone, and if not, why not?
 
-Alex laughed. They had talked about that, back in college. Rachel was going to revolutionize education, and Alex was going to build software that actually helped people. They'd been so sure that they could make a difference, that they could avoid the corporate machine that had consumed their parents.
+Alex typed back: "Still thinking about it. Work is busy right now." Which was true but incomplete. Work was always busy, but that wasn't why she was hesitant about Thanksgiving. She was hesitant because family gatherings meant explaining her job to relatives who thought she "worked with computers" and wondered why she wasn't married yet.
 
-Alex looked around her apartment. It was clean, organized, and completely devoid of personality. The furniture was functional, the decorations were minimal, and the only personal touches were the guitar and the cat. It looked like a hotel room that someone had lived in for too long.
+Her cousin David had gotten engaged last month to someone he'd met on a dating app. Her aunt had called to share the news and ask if Alex was "putting herself out there." Alex had said she was focused on her career, which was partly true and partly an excuse to avoid explaining that dating required optimism about other people that she wasn't sure she possessed.
 
-She thought about her parents, who'd worked for the same company for thirty years. They'd been good people, hard workers, but they'd never seemed particularly happy. They'd talked about retirement like it was some kind of reward for surviving decades of corporate life, like the goal was to get through it rather than to enjoy it.
+The kettle whistled, and she poured water over the tea bag, watching the amber color spread through the clear water. Simple chemistry that produced predictable results.
 
-Was that what she was doing? Just getting through it?
+She carried her tea back to the couch and picked up her guitar again. This time she tried "Mad World," which matched her mood and didn't require complicated fingerpicking. Pixel had moved to his favorite spot on top of the NeXT workstation, where the heat from the processor kept him warm.
 
-She picked up the guitar again and started playing a different song, something by a band she'd loved in college. She couldn't remember all the words, so she made up her own.
+Through her apartment window, she could see into the office building across the street, where a few lights were still on. Someone working late. She wondered if they had hobbies that reminded them who they used to be before they started optimizing productivity metrics and attending strategic planning sessions.
 
-Pixel looked up at her, his ears twitching.
+In college, she'd imagined herself working for a company that made software people actually wanted to use. Maybe a startup with a mission she believed in, or a research lab where she could solve interesting problems without worrying about quarterly revenue targets.
 
-"Sorry, buddy," she said. "I know that's not very rock and roll."
+Instead, she worked for ByteSauce, where her job was to implement features that satisfied corporate requirements rather than user needs. She was good at it, which was both satisfying and depressing. She could debug systems that other people had given up on, translate business requirements into technical specifications, and deliver projects on time even when the requirements changed weekly.
 
-She put the guitar down and checked the time. It was almost midnight, and she had to be at work at 8:30 tomorrow. She should probably try to get some sleep.
+But none of it felt like the kind of work she'd thought she'd be doing when she'd stayed up until 3 AM writing code that made her professors smile and her classmates ask for help.
 
-But instead, she opened her laptop and started writing. She wasn't sure what she was writing - maybe a blog post, maybe a letter to herself, maybe just thoughts that needed to get out of her head.
+Alex finished "Mad World" and set her guitar back in its stand. She had forty-five minutes left before she needed to look at the Taskly documentation, which was enough time to check on a side project she'd been working on: a simple web app that helped people track their reading habits without selling their data to advertising companies.
 
-"Dear Future Alex," she typed. "If you're reading this, it means you're still alive and still working at ByteSauce. I hope you're doing okay. I hope you haven't forgotten about the guitar in the corner, or the person you used to be."
+She'd built it because she was tired of corporate software that treated users like products to be monetized. The app did exactly what it claimed to do, nothing more and nothing less. Three hundred people used it regularly, and she'd gotten thank-you emails from readers who appreciated software that respected their privacy.
 
-She paused, thinking about what else to write.
+It wasn't going to make her rich or famous, but it reminded her why she'd learned to code in the first place: to build things that made people's lives a little bit better.
 
-"I hope you remember that you're not just a cog in the machine, even if it feels like that sometimes. I hope you remember that you're still capable of creating something, even if it's just a simple chord progression on a guitar that's slightly out of tune."
+She opened her laptop and checked the app's usage statistics. Two new users today, no bug reports, server costs under twenty dollars for the month. Success measured in simplicity rather than growth metrics or user engagement scores.
 
-She saved the file and closed her laptop. Pixel was still sitting next to her, watching her with his green eyes.
+Her phone buzzed with a text from Danny at Grind: "Found that article about the NeXT workstation you mentioned. Want me to save it for you?"
 
-She put the guitar back in its case and carried it to the corner where it lived. As she was putting it away, she noticed a business card that had fallen behind the case. It was from a local music store, advertising guitar lessons.
+She smiled and typed back: "Definitely. See you tomorrow morning."
 
-She'd picked it up months ago, thinking maybe she'd take lessons again, maybe she'd get better, maybe she'd find a way to make music a bigger part of her life. But she'd never called the number, never made the time.
+It was a small thing, but it reminded her that there were still people who paid attention to what she actually cared about, outside of sprint planning and velocity optimization.
 
-She put the card back where she'd found it and went to bed. Tomorrow she would punch another ticket to the corporate carnival, fight with systems that didn't work, generate reports that no one would read. But tonight, for a little while, she'd remembered who she used to be.
+Alex closed her laptop and picked up the printed Taskly documentation she'd brought home. Thirty-seven pages of screenshots and feature descriptions that would probably be obsolete by the time the system launched. She'd read it, take notes, and prepare for tomorrow's inevitable questions about implementation timelines and technical feasibility.
+
+But first, she played one more song while Pixel purred on his warm computer and the vintage machines hummed their own quiet electronic lullabies.

@@ -1,211 +1,203 @@
 # Chapter 4
 
-"Annual Performance Reviews - Mandatory Attendance," Alex read aloud, staring at the email that had just appeared in her inbox. She forwarded it to Mack and Jordan with the subject "Here we go again."
+The conference room smelled like industrial carpet and the lingering ghost of someone's microwaved fish lunch. Alex sat across from David Thompson, who had arranged his materials with the precision of someone who'd done this exact same meeting forty-three times in the past two weeks.
 
-The review sessions were scheduled for the following week, with each engineer getting exactly thirty minutes with David from HR. The calendar invites included a link to a "pre-review self-assessment form" that was supposed to be completed at least 48 hours in advance.
+David opened his laptop and consulted a printed checklist. "Alex, thank you for taking the time to meet with me today. I know performance review season can feel overwhelming, but I want you to know this is really an opportunity for us to celebrate your contributions and identify areas for continued growth."
 
-Alex opened the form and immediately regretted it. The questions were written in corporate speak so dense it was almost unreadable.
+Alex nodded and folded her hands in her lap. She'd learned that looking attentive but not overly engaged was the sweet spot for these conversations.
 
-"Please rate your performance across the following competency areas: Strategic Thinking, Innovation Mindset, Collaborative Excellence, Results Orientation, and Leadership Potential."
+"Let me start by saying that your technical skills continue to be a real asset to the team," David said, reading from what was clearly a template. "Your ability to debug complex systems and deliver quality code is something we really value here at ByteSauce."
 
-She stared at the screen. "What does any of that actually mean?"
+Alex recognized the phrasing from last year's review. Possibly word-for-word.
 
-Mack appeared at her desk, carrying a coffee and looking amused. "I just filled mine out. It took me three minutes."
+"That said," David continued, "I think there are some opportunities for you to stretch yourself in terms of stakeholder communication and cross-functional collaboration."
 
-"How?"
+"Can you give me a specific example of where my stakeholder communication has been lacking?" Alex asked.
 
-"I rated myself 'exceeds expectations' on everything and wrote 'see previous year's review' for all the comments."
+David consulted his notes. "Well, it's more about... proactive engagement with the broader company ecosystem. Really leaning into those opportunities to interface with different business units."
 
-Alex laughed. "They're not going to notice?"
+Alex waited for him to continue. He didn't.
 
-"Notice what? That I copied last year's responses? They don't read these things anyway."
+"I see," she said. "And what would proactive engagement look like in practice?"
 
-Jordan joined them, carrying his customary notebook and looking thoughtful. "Actually, I think we should take this seriously. Performance reviews can impact promotions and raises."
+"Great question. I think it's really about... visibility. Making sure your contributions are seen across the organization. Maybe volunteering for cross-team initiatives or taking on some of those stretch assignments that really showcase your capabilities."
 
-"Promotions?" Mack questioned. "To what? Senior Engineer? Tech Lead? Engineering Manager? No thanks."
+Alex nodded. She was beginning to understand why these meetings were scheduled for thirty minutes when the actual content could fit in a three-sentence email.
 
-"Raises, then," Jordan shrugged. "Money is money."
+David moved to the next section of his checklist. "In terms of your goals for the coming year, I'd love to see you focus on thought leadership and strategic thinking. Really positioning yourself as someone who can see the big picture and drive innovation across the platform."
 
-Alex was still staring at the form. "How am I supposed to rate my 'Strategic Thinking'? I write code. Sometimes it works, sometimes it doesn't. Is that strategic?"
+"What kind of innovation are we talking about?"
 
-"Just put 'exceeds expectations' and move on," Mack advised. "Nobody cares about the actual content."
+"Well, that's really up to you. The best innovations come from individual contributors who are close to the technical challenges. I'm sure you have ideas about how we could optimize our processes or leverage new technologies."
 
-The self-assessment forms were due by Friday. By Thursday afternoon, Alex had managed to fill out one question. She was stuck on "Describe a time when you demonstrated exceptional leadership."
+Alex stared at him. "Are you asking me to come up with my own performance goals?"
 
-She'd never been in a leadership position. She'd never wanted to be in a leadership position. The closest she'd come was helping a junior developer debug a particularly nasty bug, but that felt more like basic human decency than leadership.
+"I'm asking you to think strategically about where you want to take your career. What excites you? What are you passionate about?"
 
-Jordan found her staring at the form at 4 PM. "Still working on that?"
+Alex considered several responses, most of which would end this meeting prematurely and possibly lead to termination. "I'm passionate about writing code that works and solving problems that actually need solving."
 
-"I'm trying to think of a time I demonstrated 'exceptional leadership,'" Alex admitted. "I'm drawing a blank."
+David made a note. "That's great. So maybe we could frame that as 'driving technical excellence through solution-oriented thinking' for your development plan."
 
-"Just make something up," Jordan suggested. "Everyone does."
+"Sure," Alex said.
 
-"Make something up?"
+The conversation continued for another twenty minutes, with David working through his checklist of required topics: career aspirations, learning opportunities, feedback on management, and something called "cultural alignment" that seemed to involve buzzword bingo.
 
-"Sure. Say you led a cross-functional team to deliver a critical feature under deadline. Say you mentored a junior developer who went on to become a senior engineer. Say you identified a major security vulnerability and coordinated the response team."
+By the end, Alex had been rated "meets expectations" in all categories, given improvement goals that were indistinguishable from everyone else's, and asked to sign a form acknowledging that she'd received "meaningful feedback" about her performance.
 
-Alex stared at him. "But none of that actually happened."
+"Any questions about the process?" David asked as he gathered his papers.
 
-"Doesn't matter. The point is to tell them what they want to hear."
+"Just one. Do you actually read these reviews, or do they go directly into a filing system somewhere?"
 
-Mack appeared behind them, carrying a stack of papers. "I just printed out last year's review forms. Want to see what I wrote?"
+David looked uncomfortable. "Of course I read them. This feedback goes into your permanent record and helps inform decisions about promotions, salary adjustments, and development opportunities."
 
-He handed Alex a sheet of paper. She read through it quickly. "This is exactly what you wrote this year."
+Alex nodded and left the conference room, passing Mack in the hallway. He was carrying his laptop and wearing the expression of someone walking toward his own execution.
 
-"Yep. Word for word. And you know what? I got a 'meets expectations' rating and a three percent raise."
+"How'd it go?" he asked.
 
-Jordan shook his head. "That's not how this is supposed to work."
+"I need to focus on stakeholder communication and strategic thinking," Alex said. "You?"
 
-"How is it supposed to work?" Mack challenged. "We fill out forms that nobody reads, have meetings that nobody remembers, and get ratings that don't mean anything. The whole thing is theater."
+"Haven't gone yet, but I'm guessing I need to focus on stakeholder communication and strategic thinking."
 
-Alex looked at her form again. "I'm going to be honest. I'm going to write what I actually think."
+"Probably."
 
-Jordan and Mack exchanged glances.
+Two hours later, Mack emerged from the same conference room looking exactly as predicted.
 
-"Good luck with that," Mack offered.
+"Let me guess," Alex said when he found her at her desk. "Stakeholder communication and strategic thinking?"
 
-The review sessions started the following Monday. Alex was scheduled for 10 AM, Mack for 2 PM, and Jordan for 4 PM. David had booked a conference room on the third floor, far away from the engineering area.
+"Plus something about 'leveraging my technical expertise to drive cross-functional innovation.'" Mack sat down at his desk and opened Slack. "I'm supposed to identify stretch opportunities that align with my passion for problem-solving."
 
-Alex arrived five minutes early, carrying a copy of her self-assessment. David was already there, sitting behind a table with a laptop open and a stack of papers in front of him. He looked up when she entered and smiled nervously.
+Jordan appeared with his own laptop and the slightly shell-shocked expression of someone who'd just been told his strengths were also his weaknesses.
 
-"Alex! Come in, come in. Have a seat."
+"Strategic thinking?" Alex asked.
 
-She sat down across from him. The table was covered with HR forms, performance templates, and what looked like a checklist of talking points.
+"Strategic thinking," Jordan confirmed. "Also stakeholder communication, even though my job is literally stakeholder communication."
 
-"How are you doing today?" David inquired.
+"Did he ask you what you're passionate about?" Mack asked.
 
-"Fine," Alex responded. "How are you?"
+"He asked me to think about how I could 'amplify my impact across the organization through thought leadership and innovative collaboration.'"
 
-"Oh, you know. Busy. Lots of reviews to get through this week."
+Alex opened a new document and started typing. "Performance Review Bingo," she titled it, then added: "Strategic thinking, stakeholder communication, thought leadership, cross-functional collaboration, leveraging expertise, amplifying impact."
 
-He opened his laptop and clicked through a few screens. "Let me pull up your file here... Ah, yes. Alex Chen. Software Engineer. Let's see what we have here."
+"Don't forget 'stretch opportunities,'" Mack said.
 
-Alex watched as he scrolled through what appeared to be a very long document. "That's my file?"
+"And 'solution-oriented thinking,'" Jordan added.
 
-"HR keeps very detailed records," David explained. "It's part of our comprehensive performance management system."
+Alex added both to the list. "Anyone get specific feedback about anything they actually did this year?"
 
-He continued scrolling. "I see you've been with ByteSauce for... three years now. And you're currently working on... let me find that... the Taskly migration project?"
+"I got praised for my 'technical acumen,'" Mack said. "Which I think means I know how to use a computer."
 
-"Among other things," Alex confirmed.
+"I got commended for my 'collaborative approach to problem-solving,'" Jordan said. "Which apparently means I attend meetings without complaining."
 
-"Excellent. Now, let's go through your self-assessment. I see you rated yourself 'meets expectations' across most areas. That's very... honest of you."
+"I got recognized for my 'commitment to quality deliverables,'" Alex said. "Which means I turn in my assignments on time."
 
-Alex had indeed been honest. She'd rated herself "meets expectations" on everything except "Strategic Thinking," where she'd put "needs improvement" and written "I write functional code. I'm not strategic."
+They sat in comfortable silence, each processing the experience of being evaluated by someone who couldn't describe what they actually did for work.
 
-"Thank you," she acknowledged.
+"You know what's funny?" Jordan said finally. "I've been here two years, and this is the first time David has asked me what I'm working on."
 
-David cleared his throat. "Now, let me share some feedback from your manager and peers. Sarah has noted that you... let me find the exact quote... 'consistently delivers on commitments' and 'maintains high code quality standards.'"
+"Did you tell him?" Alex asked.
 
-"That's nice," Alex commented.
+"I tried to explain the deployment pipeline automation, but he kept nodding and saying 'that sounds very technical' until I gave up."
 
-"However, there are some areas for improvement. She mentions that you could be 'more collaborative' and 'show more enthusiasm for company initiatives.'"
+Mack laughed. "I told him about the monitoring system I built, and he asked if it was 'aligned with our digital transformation objectives.'"
 
-Alex stared at him. "What does that mean?"
+"What did you say?"
 
-David looked uncomfortable. "Well, you know. Being more... engaged. Participating in team activities. Supporting the company's vision."
+"I said yes, because everything is aligned with our digital transformation objectives if you define the terms broadly enough."
 
-"I participate in team activities," Alex defended. "I go to meetings. I do my work. What more do they want?"
+Alex minimized her Performance Review Bingo document and opened her actual work. Three bug reports, two feature requests, and a deployment that needed to happen before end of day. Real problems with specific solutions, unlike the vague improvement goals she'd just been assigned.
 
-"I think they're looking for more... enthusiasm. You know, excitement about new projects, willingness to take on additional responsibilities, that sort of thing."
+Her phone buzzed with a message from Michael: "Can you stop by my office when you have a minute? Want to debrief on the review process."
 
-Alex was starting to get annoyed. "I'm excited about writing good code. I'm willing to take on technical challenges. But I'm not going to pretend to be excited about corporate initiatives that don't make sense."
+Alex walked to Michael's office, where she found him staring at a spreadsheet with the intensity of someone trying to solve a particularly difficult puzzle.
 
-David shifted in his seat. "I understand. But you have to understand that management wants to see... engagement. They want to know that you're invested in the company's success."
+"How'd your review go?" he asked without looking up.
 
-"I am invested in the company's success," Alex insisted. "I want ByteSauce to succeed. I just don't think the way to do that is through meaningless metrics and broken systems."
+"I need to focus on strategic thinking and stakeholder communication. You?"
 
-David was quiet for a moment. "I see. Well, let me move on to the next section. Your overall rating for this year is... 'meets expectations.'"
+Michael finally looked at her. "I had to give you that feedback. David sent me a template with required improvement areas for all the senior engineers."
 
-"What does that mean for my raise?"
+Alex sat down. "So the feedback wasn't actually based on my performance?"
 
-"Standard cost-of-living adjustment. Three percent."
+"The feedback was based on corporate initiatives that HR wants to promote this year. Strategic thinking is code for 'attend more planning meetings.' Stakeholder communication means 'interface with business units so engineering looks more collaborative.'"
 
-Alex nodded. "So basically, nothing changes."
+"And if I'd had a terrible year? Would the feedback have been different?"
 
-"Not exactly. You're still a valued member of the team. This rating reflects that you're meeting the expectations for your role."
+Michael consulted his spreadsheet. "I can adjust the ratings, but the improvement areas are standardized. Everyone gets the same development goals because they're tied to company-wide objectives, not individual performance."
 
-"Right. And if I had rated myself higher on everything and written glowing self-assessments, would I have gotten a better rating?"
+Alex studied the spreadsheet, which had columns for each team member and rows for different feedback categories. Most of the cells contained identical text.
 
-David looked even more uncomfortable. "The rating process is very thorough. We take into account multiple factors..."
+"This is why you looked miserable during the leadership meeting last week," she said.
 
-"Like what?"
+"I spent six hours writing individualized feedback for my team. David told me it was too specific and asked me to use the approved language instead."
 
-"Well, your manager's feedback, peer reviews, project contributions..."
+"What was wrong with specific feedback?"
 
-"Which all say I'm doing fine," Alex pointed out. "So why am I getting a 'meets expectations' rating instead of 'exceeds expectations'?"
+"It creates 'inconsistent messaging' across the organization. HR wants everyone to get the same development opportunities so no one can claim the process is unfair."
 
-David was quiet again. "I think we should focus on the positive aspects of your performance. You're a solid engineer, and the team values your contributions."
+Alex leaned back in her chair. "So the performance review process is designed to be meaningless."
 
-"Thanks," Alex acknowledged. "But I'm still getting a three percent raise."
+"The performance review process is designed to be defensible. If everyone gets the same feedback, no one can sue for discrimination."
 
-"Yes. That's correct."
+"But it doesn't actually help anyone improve their performance."
 
-The review wrapped up after another ten minutes of awkward conversation. David thanked her for her time and reminded her that she could appeal the rating if she disagreed with it.
+"That's not the primary objective," Michael said. "The primary objective is compliance with HR policies and legal requirements."
 
-Alex left the conference room feeling frustrated. She found Mack and Jordan in the break room.
+Alex stood up to leave. "Thanks for being honest about it."
 
-"How'd it go?" Jordan inquired.
+"For what it's worth," Michael said, "you're doing excellent work. The Taskly analysis you put together was exactly what I needed to push back on some of Vincent's more unrealistic expectations."
 
-"About as well as expected," Alex reported. "I got a 'meets expectations' rating and a three percent raise."
+"Did the pushback work?"
 
-"Same as last year," Mack observed. "And the year before that."
+"Vincent thanked me for the 'detailed technical assessment' and asked when we could schedule the migration."
 
-Jordan looked thoughtful. "What did you write in your self-assessment?"
+Alex walked back to her desk, where she found Mack and Jordan comparing their performance review documents.
 
-"The truth. That I'm a competent engineer who does good work but doesn't pretend to be excited about corporate nonsense."
+"Michael just told me the feedback is templated," she said.
 
-Mack laughed. "That's probably why you got 'meets expectations' instead of 'exceeds expectations.'"
+"All of it?" Jordan asked.
 
-"What do you mean?"
+"The improvement areas are identical for everyone at our level. The ratings can vary, but the development goals are standardized."
 
-"They want you to drink the Kool-Aid," Mack explained. "If you'd written about how excited you are about the Digital Transformation Initiative and how you're looking forward to leveraging synergies to drive results, you'd probably have gotten a better rating."
+Mack looked at his review form. "So when David asked me what I'm passionate about, he already knew what my improvement goals were going to be?"
 
-Alex stared at him. "You're kidding."
+"Apparently."
 
-"Nope. It's all about the buzzwords. The more corporate speak you use, the better your rating."
+Jordan shook his head. "I spent an hour preparing for that meeting. I had examples of projects I'd worked on, metrics about my contributions, ideas for how I could grow in the role."
 
-Jordan nodded. "It's true. I've seen the pattern. Engineers who use the right language get better reviews, regardless of actual performance."
+"Did you share any of that?" Alex asked.
 
-"That's ridiculous," Alex protested.
+"I tried, but David kept steering the conversation back to his checklist. Every time I mentioned something specific, he'd nod and say 'that's great' and move to the next question."
 
-"Of course it is," Mack agreed. "But that's how the system works."
+Alex opened her laptop and pulled up the performance review document she'd been asked to sign. Under "Employee Comments," she typed: "I acknowledge that this review process is designed for HR compliance rather than performance improvement, and I understand that my development goals are standardized rather than individualized."
 
-Mack's review was at 2 PM. He came back looking amused.
+She saved the document and submitted it through the HR portal.
 
-"How'd it go?" Alex inquired.
+"What did you write in the comments section?" Mack asked.
 
-"Great," Mack grinned. "I got an 'exceeds expectations' rating."
+"The truth."
 
-"What? How?"
+"Think that'll cause problems?"
 
-"I told David that I was 'passionate about innovation' and 'excited to leverage emerging technologies to drive ByteSauce's digital transformation.' I said I was 'committed to collaborative excellence' and 'focused on delivering strategic value.'"
+"Probably. But at least it's documented."
 
-Alex stared at him. "You said all that?"
+Jordan was still staring at his review form. "You know what bothers me most? I actually wanted feedback. I wanted to know what I could do better, what opportunities I should pursue, how I could contribute more effectively."
 
-"Word for word. I memorized it from a LinkedIn post I saw last week."
+"And instead you got a form letter," Alex said.
 
-"And he bought it?"
+"Instead I got a form letter that I'm supposed to pretend is personalized guidance for my career development."
 
-"Absolutely. He said I showed 'excellent growth potential' and 'strong leadership qualities.'"
+Mack closed his laptop. "Well, at least we're all focusing on the same thing this year. Strategic thinking and stakeholder communication for everyone."
 
-Jordan's review was at 4 PM. He returned looking satisfied.
+"Don't forget thought leadership," Jordan added.
 
-"Well?" Alex asked.
+"How could I forget thought leadership?"
 
-"'Exceeds expectations,'" Jordan reported. "Five percent raise."
+Alex looked around at her teammates—people she genuinely respected, who did excellent work, who deserved better than corporate theater disguised as professional development.
 
-"How did you manage that?"
+"Same time next year?" she asked.
 
-"I used my diplomatic skills. I asked questions about the company's vision, expressed enthusiasm for new initiatives, and positioned my work as contributing to strategic goals. I also mentioned that I was interested in taking on more leadership responsibilities."
+"Same time next year," Mack confirmed.
 
-"Are you actually interested in leadership?" Mack questioned.
+"With the same feedback," Jordan added.
 
-"Not really. But it's what they want to hear."
-
-Alex shook her head. "So the system rewards people who lie about their enthusiasm and punishes people who are honest about their work."
-
-"Pretty much," Mack confirmed.
-
-"That's insane."
-
-"It's corporate life," Jordan observed. "You learn to play the game or you get left behind."
+Alex opened her calendar and created a recurring meeting for next October: "Performance Review Bingo - Annual Edition."

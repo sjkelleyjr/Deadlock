@@ -8,7 +8,9 @@ Mack appeared at her desk, eyes wide. "You get the team building email too?"
 
 Jordan joined them, already plotting. "I say we treat this like a hackathon. But for chaos."
 
-Friday came and the team shuffled into the conference room. The exercise facilitators, Sarah and Jennifer, beamed at the group. "Let's start with the Human Knot activity!"
+Friday came and the team shuffled into the conference room.
+
+The exercise facilitators, Sarah and Jennifer, beamed at the group. "Let's start with the Human Knot activity!"
 
 The engineers formed a circle. But instead of grabbing hands, they started arguing about optimal knot topology.
 
@@ -18,7 +20,7 @@ Mack, arms folded, declared, "I refuse to participate in a non-deterministic kno
 
 Jordan began drawing graphs on the whiteboard. Within minutes, the group had split into two camps: those who wanted to simulate the knot in Python, and those who wanted to brute-force it with a Monte Carlo method. No one moved. The facilitators, flustered, called time and moved on to the next activity.
 
-Each team received spaghetti, tape, string, and a marshmallow. The goal was to construct a structure that put the marshmallow as high off the ground as possible.
+Each team received spaghetti, tape, string, and a marshmallow. The goal of the activity was to construct a structure that put the marshmallow as high off the ground as possible.
 
 Mack immediately began stress-testing the spaghetti, snapping pieces and muttering, "Brittle failure at 0.2 newtons."
 
@@ -40,4 +42,4 @@ Mack nodded. "And I negotiated a code freeze with interpretive tap dance."
 
 Jordan, still out of breath, commented, "Best team building ever."
 
-Somewhere, faintly, disco music played on.
+Somewhere, faintly, disco music played on. 

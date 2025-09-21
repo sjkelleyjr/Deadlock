@@ -1,107 +1,207 @@
 # Chapter 7
 
-Jordan adjusted his tie in the mirror of the hotel bathroom, checking that his collar was perfectly straight. The networking event was in full swing in the ballroom next door, and he could hear the murmur of conversation and the clink of glasses. He'd been to dozens of these events, but tonight felt different. Tonight, he was representing ByteSauce at the annual Tech Leaders Summit, and he knew there would be people here who could change his career trajectory.
+The networking event was being held in a converted warehouse that had been transformed into something the event coordinator called "industrial chic." Exposed brick walls, Edison bulbs hanging from the ceiling, and a bar made from reclaimed wood that looked like it had been expensive to build.
 
-He pulled out his phone and checked his LinkedIn profile one more time. His headline read "DevOps Engineer at ByteSauce | Cloud Infrastructure Specialist | Building Scalable Solutions" It was professional, technical, and just vague enough to sound impressive. He'd spent an hour crafting it, making sure it hit all the right keywords without being too obvious.
+Jordan arrived fifteen minutes early, which gave him time to survey the room and identify the key players before the crowd arrived. He'd learned that the best networking happened in the first thirty minutes, when people were still fresh and hadn't been worn down by small talk.
 
-"Jordan?" A voice called from outside the bathroom. "Are you in there?"
+He spotted Lisa Chen from the Innovation Lab across the room, talking to someone from the marketing department. She was wearing a blazer that probably cost more than his monthly rent and carrying a leather portfolio that matched Sarah's. Corporate middle management had a uniform, and Lisa wore it well.
 
-He recognized the voice immediately. It was Sarah, his manager, who had insisted on attending the event with him. She'd been excited about the "networking opportunity" and had spent the entire car ride talking about how this could "elevate ByteSauce's profile in the tech community."
+"Jordan! I didn't expect to see you here."
 
-"Coming," he called back, giving himself one final check in the mirror. He looked good—dark suit, expensive watch, confident smile. He'd learned early in his sales career that people made snap judgments based on appearance, and he'd always been good at playing that game.
+He turned to find Alex standing behind him, holding a glass of wine that looked like it had been poured from the expensive bottle. She was dressed in what he recognized as her "meeting clothes"—a blazer over a simple blouse, professional but not trying too hard.
 
-Sarah was waiting outside the bathroom, wearing a business suit and carrying a stack of business cards. She looked nervous, which was unusual for her. "There are so many people here," she said. "I don't know where to start."
+"Alex? What brings you to a networking event?"
 
-Jordan smiled his most reassuring smile. "Don't worry, I'll introduce you around. These events are all about making connections."
+"Sarah insisted. Said it would be good for 'cross-functional collaboration' and 'building relationships across the organization.'"
 
-They walked into the ballroom together. It was packed with tech professionals—engineers, managers, executives, and recruiters. The room was filled with the sound of networking: people exchanging business cards, discussing projects, and making small talk about the latest tech trends.
+Jordan nodded. Sarah was always pushing team members to attend these events, probably because she'd read somewhere that networking was essential for career development. "How's it going so far?"
 
-Jordan scanned the room, looking for familiar faces. He spotted several people he'd met at previous events, including a VP of Engineering from a competing company and a recruiter who'd tried to poach him last year. He also noticed a few people he'd been hoping to meet—senior engineers from major tech companies, startup founders, and industry influencers.
+"I've been here ten minutes and already had three conversations about 'synergy' and 'digital transformation.' I'm considering hiding in the bathroom until it's socially acceptable to leave."
 
-"Let's start over there," he said to Sarah, pointing toward a group of people near the bar. "I see someone I know."
+Jordan laughed. "That's why you need a strategy. You can't just show up and hope for the best."
 
-They made their way through the crowd. Jordan moved with practiced ease, nodding to people he recognized and making eye contact with strangers. He'd learned that confidence was contagious, and people were naturally drawn to those who seemed comfortable in their own skin.
+"What's your strategy?"
 
-"Jordan!" A voice called out. He turned to see Marcus Chen, a former colleague who now worked at a major cloud provider. "How are you doing, man?"
+"Identify the people who can help you, the people who can hurt you, and the people who are just here for the free wine. Then work the room accordingly."
 
-"Marcus!" Jordan said, extending his hand for a firm handshake. "Great to see you. How's life at CloudCore?"
+Alex looked around. "How do you tell the difference?"
 
-"Busy, but good. We're scaling like crazy. How about you? Still at ByteSauce?"
+"Body language, conversation topics, who they're talking to. The people who matter are usually talking to other people who matter. The people who don't matter are usually talking about their weekend plans."
 
-Jordan nodded. "Still there. We're going through some interesting changes with our digital transformation initiative."
+A woman in a business suit approached them, carrying a clipboard and wearing a name tag that identified her as "Jennifer - Event Coordinator."
 
-Sarah perked up at the mention of the initiative. "Yes, we're implementing some really exciting new processes. Jordan has been instrumental in our Taskly migration."
+"Excuse me, are you Jordan Williams? I have you down for the panel discussion on 'Building Effective Cross-Functional Teams.'"
 
-Marcus raised an eyebrow. "Taskly? I haven't heard of that."
+Jordan's smile faltered for just a moment. He'd forgotten about the panel. "That's me. What time does it start?"
 
-"It's our internal project management system," Sarah said. "We've achieved 95% user adoption."
+"Seven thirty. We have you, Lisa Chen from the Innovation Lab, and David Thompson from HR. Should be a great discussion."
 
-Jordan felt a pang of guilt at the mention of the fake metrics, but he kept his smile in place. "It's been quite a rollout," he said diplomatically.
+Jordan nodded and thanked her, but his mind was already calculating how to turn this unexpected responsibility into an opportunity. Panel discussions were excellent networking—everyone in the room would be paying attention to what he said.
 
-Marcus nodded, though Jordan could tell he wasn't particularly interested. "Well, if you're ever looking for a change, we're always hiring. The cloud space is exploding right now."
+Alex raised an eyebrow. "Panel discussion? When did you volunteer for that?"
 
-Jordan smiled. "I'll keep that in mind. Actually, I'd love to hear more about what you're working on. Maybe we could grab coffee sometime?"
+"I didn't. I think Sarah nominated me. She's always trying to get me involved in 'leadership opportunities.'"
 
-"Absolutely," Marcus said, pulling out his phone. "Let me get your number."
+"Translation: she wants you to do more work for free."
 
-They exchanged contact information, and Jordan felt a small thrill of satisfaction. Another connection made, another door opened. He'd learned that networking was like planting seeds—you never knew which ones would grow into opportunities.
+"Or she wants me to represent the engineering team in a positive light. Either way, it's good exposure."
 
-Sarah was watching the exchange with interest. "That was impressive," she said. "You made that look so natural."
+Alex sipped her wine. "Exposure to what? More meetings and responsibilities?"
 
-Jordan shrugged modestly. "It's just about being genuine and showing interest in what other people are doing."
+"Exposure to people who make decisions about promotions and budgets. You should try it sometime."
 
-They continued working the room, with Jordan introducing Sarah to various people and making connections of his own. He had a system for these events—he'd spend the first hour making initial contacts, the second hour deepening conversations with the most promising connections, and the final hour following up with people he'd met earlier.
+"I'd rather write code than talk about writing code."
 
-As they moved through the crowd, Jordan noticed a woman standing alone near the appetizer table. She was dressed in a sharp business suit and had the confident posture of someone who was used to being in charge. He recognized her immediately—Jennifer Park, the VP of Engineering at TechFlow, one of the fastest-growing startups in the city.
+Jordan spotted Lisa making her way toward them. "Speaking of which, here comes someone who definitely falls into the 'can help you' category."
 
-"Excuse me for a moment," he said to Sarah. "I see someone I need to talk to."
+Lisa arrived with the confidence of someone who'd been to dozens of these events. "Jordan, Alex, great to see you both. I was hoping to catch up with the engineering team."
 
-He made his way over to Jennifer, who was examining a plate of canapés with apparent disinterest. "Jennifer Park?" he said, extending his hand. "Jordan Williams. I'm a big admirer of what you've built at TechFlow."
+"Lisa," Jordan said, extending his hand. "How's the Taskly rollout going?"
 
-Jennifer looked up, surprised but not displeased. "Jordan Williams," she repeated, shaking his hand. "I don't think we've met."
+"Challenging, but we're making progress. The teams are providing excellent feedback that's helping us prioritize our roadmap."
 
-"We haven't, but I've been following TechFlow's growth. Your microservices architecture is really impressive. I'd love to hear more about how you're handling the scaling challenges."
+Alex's expression suggested she was translating this as: "Nobody wants to use our system, but we're pretending the complaints are feature requests."
 
-Jennifer's expression brightened. "You're familiar with our architecture?"
+"I've been thinking about how we could improve the adoption process," Jordan said. "Maybe we could set up some working sessions between the Innovation Lab and the engineering teams. Get everyone in the same room to discuss requirements and constraints."
 
-"Absolutely. I'm a DevOps engineer, and I've been studying how companies like yours are solving distributed systems problems. The way you've implemented your CI/CD pipeline is particularly interesting."
+Lisa brightened. "That's exactly the kind of collaboration we need. Would you be interested in helping coordinate those sessions?"
 
-They spent the next twenty minutes discussing technical architecture, scaling challenges, and industry trends. Jordan was genuinely interested in what Jennifer had to say, but he was also carefully positioning himself as someone who could be valuable to her company. He asked thoughtful questions, shared relevant experiences from his own work, and made sure to highlight his technical expertise without being boastful.
+Jordan's smile didn't waver, but Alex could see the moment when he realized he'd just volunteered for more work. "I'd be happy to help facilitate the discussions."
 
-"Jordan, you really know your stuff," Jennifer said. "We're actually looking for someone with your background. Are you open to new opportunities?"
+"Perfect. I'll set up a meeting next week to plan the agenda."
 
-Jordan smiled. "I'm always interested in hearing about interesting challenges. TechFlow is doing some really innovative work."
+As Lisa walked away, Alex turned to Jordan. "You just volunteered to coordinate meetings between the Innovation Lab and engineering teams."
 
-"Let's stay in touch," Jennifer said, pulling out a business card. "I'd love to have you come in for a conversation."
+"I was trying to be helpful."
 
-Jordan accepted the card and handed her one of his own. "I'd like that very much."
+"You were trying to be diplomatic, and it backfired. Again."
 
-As Jennifer walked away, Jordan felt a surge of excitement. This was exactly the kind of opportunity he'd been hoping for. TechFlow was a hot company, and Jennifer was well-connected in the industry. A position there could be a major step up in his career.
+Jordan shrugged. "It's not the worst thing that could happen. At least I'll have a say in how the meetings are structured."
 
-But then he thought about his team at ByteSauce—Alex, Mack, Michael. They were his friends, and they were counting on him to help navigate the corporate nonsense. He'd been their diplomat, their negotiator, their buffer against the worst of management's demands.
+"Or you'll spend the next month trying to get people who don't want to work together to work together."
 
-He looked around the room and saw Sarah talking to a group of people, looking more comfortable than she had at the beginning of the evening. She was learning, he realized. She was starting to understand how these events worked, how to make connections, how to present herself professionally.
+A man in his fifties approached them, wearing a suit that looked expensive and a watch that looked even more expensive. Jordan recognized him as Robert Martinez, the VP of Product Development.
 
-Jordan felt a pang of guilt. If he left ByteSauce, who would help the team navigate the corporate politics? Who would smooth things over with management when they inevitably made unreasonable demands? Who would be their diplomat?
+"Jordan Williams, right? I've heard good things about your work on the vendor integration project."
 
-He pulled out his phone and sent a quick text to his girlfriend, Amanda. "Networking event is going well. Might have an interesting opportunity. What do you think about TechFlow?"
+Jordan extended his hand. "Mr. Martinez, pleasure to meet you. The vendor project was a team effort—I just helped coordinate the technical requirements."
 
-Amanda was a lawyer, and she understood the importance of career advancement. She'd been encouraging him to look for opportunities that would advance his career and increase his earning potential. They were saving for a house, and a higher salary would help them reach their goal faster.
+"Call me Robert. And don't be modest. I heard you negotiated a 20% reduction in licensing fees while maintaining all the service level agreements."
 
-But Amanda also understood his loyalty to his team. She'd seen how much he cared about his colleagues, how he'd stayed up late helping them with problems, how he'd defended them in meetings when management was being unreasonable.
+"That was mostly luck and timing. The vendor was eager to renew, and we had some leverage."
 
-His phone buzzed with her response: "TechFlow is hot right now. But you love your team. What does your gut say?"
+Robert nodded appreciatively. "That's exactly the kind of thinking we need more of around here. Too many people just accept the first offer they get."
 
-Jordan looked around the room again. He saw Marcus talking to a group of people, Jennifer making her way toward the exit, Sarah now confidently engaging with a senior executive. He thought about the absurdity of ByteSauce—the fake metrics, the broken systems, the corporate nonsense that never seemed to end.
+Alex watched Jordan work the conversation, asking questions about Robert's background, sharing relevant experiences, and positioning himself as someone who understood both technical and business concerns. It was impressive, even if it felt slightly calculated.
 
-But he also thought about the camaraderie he'd built with his team, the inside jokes, the shared frustration with the system, the way they'd learned to survive together. They were his people, and he was their diplomat.
+"Have you thought about moving into product management?" Robert asked. "Your technical background combined with your negotiation skills would be valuable."
 
-He sent another text to Amanda: "My gut says stay. The team needs me. But I'm keeping the door open."
+Jordan's eyes lit up, but he kept his response measured. "I enjoy the technical work, but I'm always interested in opportunities to have more impact on the business side."
 
-Amanda responded: "Makes sense. Love you."
+"I'll keep that in mind. We're always looking for people who can bridge the gap between engineering and product."
 
-Jordan put his phone away and made his way back to Sarah, who was now talking to a group of executives. She looked more comfortable than she had at the beginning of the evening.
+As Robert walked away, Alex turned to Jordan. "Product management? I thought you liked coding."
 
-"Jordan!" she called out. "Come meet David. He's the CTO at Inno, and he's very interested in our digital transformation initiative."
+"I do like coding. But I also like having influence over what gets built and how it gets prioritized."
 
-Jordan smiled and extended his hand. "David, great to meet you. I'd love to hear more about what you're working on at Inno."
+"Translation: you want to be the person making decisions instead of the person implementing them."
+
+"Maybe. Or maybe I want to be the person who makes sure the right decisions get made."
+
+The event coordinator appeared again. "Jordan, we're ready to start the panel discussion. Could you come to the stage area?"
+
+Jordan excused himself and made his way to the front of the room, where Lisa and David were already seated behind a table with microphones. The audience consisted of about thirty people, mostly middle managers and team leads who'd been encouraged to attend for professional development.
+
+The moderator, a woman from the learning and development team, introduced the panel and asked the first question: "What are the biggest challenges you face when working across different departments?"
+
+Lisa went first, talking about communication gaps and the importance of shared goals. David discussed the need for clear processes and documentation. Jordan waited for his turn, then delivered a response that sounded genuine but had been practiced.
+
+"The biggest challenge is translating between different languages. Engineers speak in terms of technical constraints and implementation details. Business stakeholders speak in terms of market opportunities and revenue impact. My role is to help both sides understand each other's perspectives."
+
+The moderator nodded appreciatively. "That's a great insight. How do you handle situations where the technical reality doesn't match the business expectations?"
+
+Jordan glanced at Lisa, who was probably thinking about the Taskly migration. "Honesty is crucial, but so is finding solutions. Instead of just saying 'that's impossible,' I try to say 'that's challenging, but here are some alternatives that might achieve the same goal.'"
+
+Lisa jumped in. "That's exactly what we're trying to do with the Taskly rollout. We're working with the engineering teams to find ways to meet their needs while still achieving our strategic objectives."
+
+Jordan nodded, even though he knew the engineering teams would disagree with Lisa's characterization of the process.
+
+The discussion continued for another thirty minutes, covering topics like conflict resolution, stakeholder management, and building trust across organizational boundaries. Jordan found himself falling into the rhythm of corporate speak, using phrases like "synergistic collaboration" and "stakeholder alignment" without thinking about what they actually meant.
+
+After the panel ended, several people approached him to ask follow-up questions or share their own experiences. He spent the next hour working the room, collecting business cards and making connections that might be useful later.
+
+Alex found him near the bar, talking to someone from the finance department about budget planning processes.
+
+"How's the networking going?" she asked when the conversation ended.
+
+"Productive. I met the VP of Product Development, got invited to a working group on vendor management, and collected about fifteen business cards."
+
+"Any of them actually useful?"
+
+"Robert Martinez could be helpful if I decide to move into product management. And the vendor management group might give me some influence over which tools we buy."
+
+Alex sipped her wine. "So you're seriously considering leaving engineering?"
+
+"I'm considering all my options. The technical work is interesting, but there's a ceiling on how much impact you can have when you're just implementing other people's decisions."
+
+"What about your side projects? The real estate stuff?"
+
+Jordan's expression shifted slightly. "That's more of a long-term plan. I'm building a network now so that when I'm ready to make a move, I have options."
+
+Alex looked around the room, where people were starting to leave. "This whole thing feels like a game. Everyone pretending to be interested in each other's work while actually just looking for opportunities to advance their own careers."
+
+"It's not a game. It's relationship building. The people who succeed in corporate environments are the ones who understand that everything is connected."
+
+"Or the ones who are good at playing politics."
+
+"Politics is just another word for understanding how organizations work. You can either learn to navigate the system or complain about it."
+
+Alex finished her wine. "I think I'll stick with complaining."
+
+Jordan smiled. "That's why you're good at what you do. You see through the bullshit and call it out."
+
+"Then why are you trying to become part of the bullshit?"
+
+"Because the bullshit is where the decisions get made. You can either be the person who complains about the system or the person who tries to change it from the inside."
+
+Alex set down her glass. "Or you can just do good work and let the results speak for themselves."
+
+"Results don't speak for themselves in corporate environments. They get interpreted by people who don't understand the work. You know how many times I've seen excellent technical solutions get rejected because someone couldn't explain the value to the business?"
+
+"Probably the same number of times I've seen terrible technical solutions get approved because someone could sell them well."
+
+"Exactly. That's the game. The best code in the world doesn't matter if nobody understands why it's valuable."
+
+Alex looked around the room. "So the solution is to become the person who can sell bad ideas well?"
+
+"The solution is to become the person who can sell good ideas well. There's a difference."
+
+"Is there? Look at Taskly. It's objectively worse than what we had, but it's getting pushed through because someone made it sound strategic. The Innovation Lab is just vibe coding their way through the entire project."
+
+Jordan nodded. "And that's exactly why we need more engineers in positions where they can influence decisions. If the people making the calls don't understand the technical reality, they'll keep making bad choices."
+
+"Or maybe the problem is that we're treating software development like a business instead of like engineering."
+
+"Software development is a business. We're not building bridges or designing circuits—we're building products that need to make money and satisfy customers. The technical excellence matters, but so does the business case."
+
+Alex shook her head. "That's what they want you to think. They want you to believe that writing good code isn't enough, that you need to learn their language and play their games."
+
+"Maybe because writing good code isn't enough. Not in a world where the competition is also writing good code. The differentiator is how well you can solve business problems, not just technical ones."
+
+"And the business problems are usually created by people who don't understand the technical constraints."
+
+"Sometimes. But sometimes the technical constraints are artificial. Sometimes the 'impossible' requirements are just difficult, and the business needs someone who can figure out how to make them work."
+
+Alex looked at Jordan for a long moment. "When did you start believing their version of reality?"
+
+"When I realized that my version of reality wasn't getting me anywhere. I can write the cleanest, most elegant code in the world, but if nobody understands why it's better than the quick-and-dirty solution, it doesn't matter."
+
+"Then maybe the problem isn't that engineers need to learn business. Maybe the problem is that business people need to learn engineering."
+
+"Maybe. But I can't change what business people do. I can only change what I do."
+
+Alex stood up. "I should probably head out. I have a code review to finish tonight."
+
+"Of course. Don't let me keep you from your actual work."
+
+As Alex left, Jordan watched her go. She was right about a lot of things—the system was broken, the bullshit was real, and good technical work often got overlooked in favor of well-marketed mediocrity. But she was wrong about one thing: the solution wasn't to opt out of the game. The solution was to get better at playing it.

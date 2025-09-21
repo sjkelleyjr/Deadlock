@@ -1,147 +1,120 @@
 # Chapter 17
 
-Alex was halfway through her daily standup with the Data Analytics team when her screen lit up with a new notification. The subject line made her stomach sink: "MANDATORY: Innovation Workshop - Unlock Your Creative Potential." She opened it with the same enthusiasm she reserved for attending mandatory HR training sessions.
+The invite said Innovation Workshop and blocked three hours. Optional was in the description in a way that meant mandatory.
 
-"Vincent is hosting an innovation workshop," Mack appeared in her Slack with a message. "Apparently, we need to 'unlock our creative potential' and 'think outside the box.'"
+The room had been reset overnight: round tables, sticky note stacks in six colors, markers that squeaked, and a banner that read Think Like A Founder.
 
-Jordan chimed in: "I just got the same email. It's scheduled for tomorrow morning, 9 AM sharp. 'All hands required for this transformative experience.'"
+Vincent stood by a whiteboard with a list of rules that all said the same thing differently: no idea is a bad idea, defer judgment, build on others’ ideas, dream big, move fast.
 
-Alex typed back: "Transformative experience. Because what we really need is another meeting about innovation."
+“We’re here to unlock disruptive thinking,” he said. “Let’s get outside our comfort zones.”
 
-The workshop was scheduled for the main conference room, which had been transformed into what Vincent called a "creative space." The tables had been pushed to the sides, replaced by bean bag chairs and whiteboards covered in motivational quotes. A speaker system was playing what sounded like elevator music, but with more synthesizers.
+Alex sat at a table with Mack, Jordan, and three people from marketing who had been told they were technical because they used Excel functions. Sarah hovered near the door, half host, half bouncer.
 
-Vincent stood at the front of the room, wearing a polo shirt with the ByteSauce logo and a name tag that read "Innovation Facilitator." He was beaming with enthusiasm, which was always a bad sign.
+The facilitator—someone from Learning & Development with a cheerful lanyard—handed out prompt cards. “Round one: 50 ideas in 15 minutes. Quantity over quality.” She clicked a timer that started counting down from 14:59 in large, encouraging numbers.
 
-"Welcome, everyone!" Vincent proclaimed, clapping his hands together. "Today we're going to unlock your creative potential and discover breakthrough solutions to our biggest challenges. Innovation is the lifeblood of any successful organization, and we need to think unconventionally."
+They started writing because the room had decided to write.
 
-Mack leaned over to Alex. "I'm already thinking unconventionally. The convention is being in this room, and I'm thinking about being anywhere else."
+Alex wrote: less friction in deployment, a real staging environment, smaller pull requests, delete the feature that no one uses, replace cron jobs that drift, fewer dashboards with more truth, a feedback form that routes to someone who can fix the thing, a bug bash without prizes.
 
-"Shh," Alex whispered amusingly. "Let's see what kind of 'innovation' he has in mind."
+Mack wrote: dark mode for the admin console, a deploy button shaped like a big red button, a feature flag that triggers confetti in Slack, a system that laughs when a build passes, an API that speaks sarcasm, bring-your-dog-to-work day, a pager that pages the person who approved the risky change.
 
-Vincent continued: "We're going to start with a brainstorming session. I want you to think of the most trailblazing, disruptive, game-changing ideas you can imagine. Don't hold back. There are no bad ideas in innovation."
+Jordan wrote: quarterly customer councils, vendor contract leverage points, a win-back plan for churned accounts, an executive narrative that didn’t sound like a spreadsheet, conversations with support reps that weren’t recorded.
 
-Jordan raised his hand. "What specific problems are we trying to solve?"
+The marketing people wrote: viral growth loops, influencer partnerships, a TikTok strategy for developer tools, a manifesto.
 
-Vincent waved his hand dismissively. "That's the beauty of innovation, Jordan. We don't need to focus on specific problems. We need to think about possibilities. What if we could revolutionize the way we work? What if we could transform our industry?"
+The facilitator yelled “Pens down!” like it was a game show and taped everyone's sticky notes to the wall in clusters that meant something if you stood far enough away.
 
-Alex raised her hand. "But shouldn't we start with actual problems that need solving?"
+“Now dot vote,” she said, handing out colored stickers. “Vote with your heart.”
 
-"Alex, that's exactly the kind of linear thinking we need to break free from," Vincent explained. "Innovation isn't about solving problems. It's about creating opportunities."
+The stickers gravitated toward Mack’s jokes and the marketing loops. Alex’s notes formed a quiet island that looked like work.
 
-Mack's eyes lit up. "So we should just come up with random ideas and hope they're useful?"
+Vincent walked the wall nodding at bolder colors. “This is the energy we need.” He stood in front of Mack’s “pager that pages the approver” and laughed. “Accountability—love it. Make it playful.”
 
-"Exactly!" Vincent exclaimed, missing the sarcasm entirely. "Now, let's break into groups and start brainstorming. I want each group to come up with at least ten breakthrough ideas in the next thirty minutes."
+“Playful?” Alex said.
 
-The engineers were assigned to different groups, each with a mix of people from various departments. Alex found herself with Priya from Data Analytics, Carlos from Infrastructure, and a few people from Marketing and Sales.
+“Gamified accountability,” Vincent said, as if that explained anything.
 
-"Okay," Priya began, taking charge of their group. "Let's start brainstorming. What breakthrough ideas can we come up with?"
+Sarah’s expression did a small calculation and returned zero.
 
-Alex decided to play along. "Picture this: an AI-powered coffee machine that learns your preferences and automatically brews your perfect cup?"
+Round two was “build on the winners.” The facilitator split the room into teams and assigned a “concept owner” to each cluster. Jordan was given “customer councils.” Mack got “playful accountability.” Alex got “reduce deployment friction,” which was promptly renamed “speed to delight.”
 
-"Excellent!" Priya exclaimed, writing it down on the whiteboard. "That's exactly the kind of forward-thinking we need."
+“Let’s craft a vision,” the facilitator said, flipping to a slide with a template: For [users], who [need], our [solution] provides [benefit] unlike [alternative], because [magic].
 
-Carlos added: "Imagine if we had a smart parking system that uses machine learning to predict when spots will be available?"
+Alex filled the brackets with nouns that existed. The marketer next to her filled them with adjectives. By the time the timer beeped, the sentence could be read aloud in a meeting without meaning.
 
-"Brilliant!" Priya approved. "Keep them coming."
+Mack had built a game mechanic on a napkin: points for fixing your own breakages, multipliers for catching issues before deploy, a leaderboard with seasonal resets, a “we found it first” badge that automatically included legal.
 
-Alex continued: "Here's a wild one: a blockchain-based system for tracking office supplies?"
+“We’ll call it Ship Quest,” he said.
 
-"Revolutionary!" Priya declared, writing it down.
+“That’s… actually coherent,” Sarah said, which was her version of a compliment.
 
-Mack, who was in a different group, was clearly having fun. "Suppose we had a quantum computing solution for optimizing the lunch menu?"
+Jordan had sketched a council structure with a cadence, agenda skeletons, and a promise that someone would actually do something with the feedback. It was boring and therefore valuable.
 
-His group leader, a woman from HR, nodded enthusiastically. "That's thinking unconventionally! What else?"
+The facilitator called time and handed each table a foam microphone. “Pitch time. Two minutes. Make us believe.”
 
-"How about a neural network that predicts when the printer will run out of paper?"
+Mack went first. He sold Ship Quest like it was a late-night infomercial for accountability. The room laughed in the right places. Vincent clapped.
 
-"Genius!"
+Jordan went next. He described the customer councils with practiced calm. Vincent nodded, then asked if it could be rebranded “Innovation Ambassadors.” Jordan said yes because saying no would assign him six more hours of follow up meetings.
 
-"And what about a machine learning algorithm that automatically schedules meetings based on everyone's calendar preferences?"
+Alex stood last and pitched the idea of deploying without ritual pain. She said smaller changes shipped safer; fewer approvals moved faster; pre-merge checks caught more than post-mortems. She described removing a meeting and adding a test. She didn’t say delight.
 
-"Disruptive!"
+Vincent smiled. “Love the spirit. But where’s the disruption?”
 
-Jordan, in his group, was trying to be pragmatic. "What about improving our current processes? Maybe we could streamline the approval workflow?"
+“Shipping working software on purpose,” Alex said.
 
-His group leader shook her head. "That's not innovative enough. We need something more disruptive. What about a holographic conference room?"
+The facilitator moved on before anyone had to decide whether that counted.
 
-Jordan blinked. "A holographic conference room?"
+“Final round,” she said. “Assign owners for pilots.”
 
-"Yes! Imagine if we could have meetings in virtual reality!"
+Sarah opened her mouth to say something about capacity and was thanked for her leadership. “This is where managers clear the path,” the facilitator said.
 
-Jordan nodded slowly. "Right. What we need is more ways to have meetings."
+Vincent pointed like he was dealing cards. “Mack, own Ship Quest. Jordan, run Innovation Ambassadors. Alex, lead Speed to Delight.”
 
-After thirty minutes of brainstorming, each group had generated a list of "innovative" ideas. Vincent called everyone back together and asked each group to present their best ideas.
+Alex glanced at Sarah, who looked like she’d been handed a crate of live birds.
 
-The first group presented their ideas, which included:
-- A smart refrigerator that orders groceries automatically
-- A drone delivery system for inter-office mail
-- A virtual reality training program for new employees
-- A blockchain-based system for measuring employee happiness
+“We’ll need guardrails,” Sarah said carefully. “And definitions.”
 
-Vincent's eyes widened. "Now that's the kind of blue-sky thinking that will put us on the map!"
+“We’ll iterate,” Vincent said. “We’re agile.”
 
-The second group presented:
-- A quantum computing solution for optimizing the lunch line
-- A neural network for predicting printer paper shortages
-- A machine learning algorithm for automatic meeting scheduling
-- A holographic conference room system
+—
 
-Vincent was practically bouncing with excitement.
+The afternoon turned into logistics. Mack spun up a prototype that awarded points for writing a failing test before a fix and docked points for merging after 5 PM on Fridays. He added a rule that prevented anyone from transferring points to their manager.
 
-The third group, which included Alex, presented their ideas:
-- An AI-powered coffee machine
-- A smart parking system
-- A blockchain-based office supply tracker
-- A machine learning solution for optimizing the break room
+Jordan put together a list of ten customers who might actually want to talk and wrote an email that sounded like a human. Two replied yes, four asked what it was, and one asked if this meant pricing was changing.
 
-Vincent beamed. "I love the ambition here. This is the future of work!"
+Alex drafted a change to the deployment policy that removed one approval and replaced it with a required integration test. She wrote three paragraphs without adjectives and sent them to Michael for a sanity check.
 
-Jordan raised his hand. "But how do we implement these ideas? What's the timeline? What's the budget?"
+Michael replied from a meeting: “Bullseye. Expect turbulence.”
 
-Vincent waved his hand dismissively. "Jordan, you're thinking too linearly again. Innovation isn't about implementation. It's about possibility. These ideas show that we have a culture of innovation here at ByteSauce."
+“Turbulence” arrived as a calendar invite titled Speed to Delight Pilot—Gate Review. Attendees: four managers, one architect, Legal, Risk, “Brand.”
 
-Alex raised her hand. "But what about our current projects? Shouldn't we focus on improving the systems we already have?"
+Brand asked whether removing an approval would harm delight. Legal asked whether smaller changes could be sued. Risk asked for a rollback plan for the rollback plan. The architect asked why the integration test didn’t test everything.
 
-"Alex, that's exactly the kind of thinking that holds back innovation," Vincent countered. "Let's not limit ourselves to incremental change. I want to see paradigm shifts!"
+Alex kept her answers unambiguous and short. “No.” “No.” “Here.” “Because that’s impossible.”
 
-Mack raised his hand. "What about a system that automatically generates innovative ideas? We could train an AI to come up with random solutions to problems we don't have."
+When it ended, Sarah caught her in the doorway. “You were clear,” she said. “Clarity doesn’t always win.”
 
-Vincent's eyes lit up. "That's brilliant! An AI that generates innovative ideas. That's meta-innovation!"
+“Does it ever?”
 
-Jordan looked at Alex. "I think we may have created a monster."
+“Sometimes it just keeps a worse idea from getting approved.”
 
-Alex nodded. "We definitely have."
+—
 
-The workshop continued for another two hours, with Vincent leading various "innovation exercises" that involved more brainstorming, more whiteboard sessions, and more enthusiasm about ideas that had no connection to actual problems.
+Mack’s Ship Quest prototype leaked into Slack and collected emoji like lint. Someone asked if points could be redeemed for not being on call. Someone else asked if losing points meant you had to present at the post-mortem. The leaderboard showed a product manager in first place for suggesting that a feature be deleted.
 
-At the end of the workshop, Vincent was beaming. "This has been an incredible session! I can see that we have a truly innovative culture here at ByteSauce. These ideas are going to revolutionize how we work."
+"We need guardrails," Sarah said.
 
-He handed out certificates that read "Certified Innovation Thinker" and encouraged everyone to continue thinking unconventionally.
+"Done," Mack said. He added a config that disabled public leaderboards and sent only private weekly summaries. The seasonal reset stayed.
 
-Mack looked at his certificate with amusement. "Well, that was two hours of my life I'll never get back."
+Vincent DM’d him: "Love the buzz. Can we roll it out company‑wide?"
 
-Alex nodded. "But at least we got certificates."
+Mack sent a thumbs‑up and muted the thread.
 
-Jordan sighed. "I'm worried about what happens next. What if Vincent actually tries to implement some of these ideas?"
+—
 
-Mack grinned. "Then we'll have even more chances to improvise."
+By the end of the week, the innovation workshop had produced a prototype game, a calendar, and a draft policy. Vincent declared it momentum in a company-wide note that used the word disruption three times.
 
-Alex smiled. "And more opportunities to demonstrate our 'innovative thinking.'"
+The banner that said Think Like A Founder was folded and placed in a storage room with banners for three other initiatives that no one remembered starting.
 
-The next day, Alex received an email from Vincent with the subject line "EXCITING NEWS: Innovation Implementation Initiative." The email detailed how ByteSauce was going to implement several of the "innovative" ideas from the workshop, including the AI-powered coffee machine and the blockchain office supply tracker.
+A calendar hold appeared without an organizer and refused to move.
 
-Alex forwarded the email to Mack and Jordan with the subject line: "We may have unleashed something we can't control."
-
-Mack replied: "Or we may have created the perfect opportunity for more creative problem-solving."
-
-Jordan added: "At least we're getting good at thinking unconventionally. Even if the conventions are getting more absurd by the day."
-
-The next day, Alex received an email from Vincent with the subject line "EXCITING NEWS: Innovation Implementation Initiative." The email detailed how ByteSauce was going to implement several of the "innovative" ideas from the workshop, including the AI-powered coffee machine and the blockchain office supply tracker.
-
-Alex forwarded the email to Mack and Jordan with the subject line: "This is insane."
-
-Mack replied: "We've opened Pandora's Box."
-
-Jordan added: "At least we're getting good at "thinking unconventionally". Even if the "conventions" are getting more absurd by the day."
-
- 

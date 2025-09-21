@@ -1,154 +1,132 @@
 # Chapter 15
 
-David from HR arrived at his desk in the morning. He hung his coat on the back of his chair and straightened the motivational posters on his cubicle walls. "Excellence is not a skill, it's an attitude," read one. "Success is the sum of small efforts repeated daily," proclaimed another. His favorite, positioned directly across from his chair, simply said "PROCESS" in bold red letters.
+David scheduled the meeting for 7:35 AM because the calendar would let him. The subject line read: “Informational Review — Productivity Signals.” He avoided the word investigation like it was a policy violation.
 
-He opened his laptop and checked his calendar. Today was investigation day. He had interviews scheduled with the entire engineering team, starting with Alex at 9:30 AM. David felt a familiar sense of purpose as he reviewed his prepared questions and checklist. HR investigations were his specialty—he had conducted over fifty in the past three years, and he prided himself on his thoroughness and objectivity.
+Sarah arrived first, carrying a folder that made her look prepared. Alex, Mack, and Jordan followed, each with a different idea of what the meeting might be about and the same certainty that it wouldn’t help them ship anything.
 
-At 9:25 AM, David gathered his clipboard and walked toward Alex's desk. He passed by the engineering area, noting the casual atmosphere—hoodies, coffee cups, the faint sound of typing. It was so different from the HR floor, where everyone wore business casual and spoke in measured tones.
+David sat at the head of the small room with a spiral-bound notebook and a pen that clicked softly when he thought. “Thanks for making time. I want to understand some recent patterns so we can support you better.”
 
-"Alex, I need to speak with you about some concerns that have been raised," David announced, appearing at her desk with his practiced professional smile.
+Jordan took the middle chair. “What patterns are we talking about?”
 
-Alex glanced at her screen, then back at David. "What kind of concerns?"
+David slid a printed report across the table. The header said Workforce Analytics in a font that looked confident. The charts suggested that someone had been paying attention to everything except the work.
 
-David opened his clipboard and began reading from his prepared statement. "The engineering team has been accused of three primary violations: resisting corporate initiatives, creating a negative work environment, and failing to collaborate effectively."
+"We’ve seen irregularities in activity metrics," David said. "Meeting attendance has dipped on Tuesdays and Thursdays. Keyboard telemetry is inconsistent. Time logged in the new system doesn’t map to expected story flow."
 
-Alex blinked. "Who made these accusations?"
+Mack blinked. “Keyboard telemetry?”
 
-"Anonymous complaints," David responded simply. "Standard procedure requires investigation regardless of source."
+“We implemented a lightweight engagement tool,” David said. “It helps us identify burnout early.”
 
-Alex leaned back in her chair. "So you're investigating us based on anonymous complaints about not being excited enough about broken systems?"
+Alex looked at the chart that represented a week of her life as a heatmap. “Or it helps you measure the number of times someone bumps a key while thinking.”
 
-David's smile remained fixed. "I'm investigating the allegations as presented. The first concern is that the team shows insufficient enthusiasm for company initiatives."
+“It’s not punitive,” David said quickly. “We’re trying to be proactive.”
 
-"Which initiatives?"
+Sarah spoke before the room decided what to feel. “We value well-being, but we can’t equate activity with output. The last two outages were resolved by people who weren’t in meetings.”
 
-"Taskly migration, the new collaboration framework, vendor platform implementation."
+David nodded and wrote that down as if the "system" might incorporate nuance if he gave it enough examples. “Completely agree. Still, leadership has asked me to look for trends that could indicate systemic issues.”
 
-Alex nodded slowly. "And the second accusation?"
+“What counts as a trend?” Jordan asked.
 
-"Creating a negative work environment through excessive questioning and challenging management decisions."
+David turned a page. “Clusters of irregular signals. For example, the week we announced the code review rubric change, engagement dropped on Wednesdays.”
 
-"By asking questions and pointing out problems?"
+“Because we were fixing the security audit findings,” Alex said.
 
-David's pen moved across his clipboard. "The third concern is lack of participation in mandatory collaboration activities."
+“The tool doesn’t know that,” David said. “It only knows what it knows.”
 
-Alex stared at him. "What mandatory activities?"
+Mack leaned back. “And now it knows we’re irregular on Wednesdays.”
 
-"Daily check-ins, pair programming sessions, collaborative performance metrics."
+David clicked his pen again. “I’m not here to assign blame. I’m here to ensure alignment between our processes and your realities.”
 
-Alex couldn't help herself. "You mean the activities that waste time and don't help us do our work?"
+Sarah folded her hands. “What do you need from us?”
 
-David's expression didn't change. "I'm documenting the team's response to these concerns. How would you characterize the team's attitude toward these initiatives?"
+“Clarity,” David said. “And cooperation with some monitoring changes. Leadership wants signal that our transformation is, in fact, transforming.”
 
-Alex considered for a moment. "Honest. We point out when things don't work and ask questions when decisions don't make sense."
+Jordan kept his voice even. “What kind of changes?”
 
-David wrote this down. "And how often does this occur?"
+“Refined attendance expectations,” David said. “Meeting confirmations with reason codes. Weekly activity summaries auto-generated by the system for your review. And a trial of screen focus prompts that remind users to re-engage after a period of inactivity.”
 
-"Whenever we're asked to implement something that doesn't work or doesn't make sense."
+Mack stared at him. “You want my laptop to ask me if I’m paying attention.”
 
-David nodded and continued writing. "How does the team respond when management explains the benefits of these initiatives?"
+“Gentle prompts,” David said. “Configurable.”
 
-"By pointing out that the benefits don't materialize and the systems still don't work."
+Alex watched Sarah’s jaw set. “We’ll need to see the privacy policy.”
 
-David's pen paused. "And how does management respond to this?"
+David brightened. “We have one. Legal helped draft it.”
 
-"They tell us to give it more time and learn to use it properly."
+—
 
-David looked up from his clipboard. "I see. And how does the team feel about the mandatory collaboration activities?"
+The prompts arrived by lunch. A translucent banner slid across Alex’s screen: Are you still focused on sanctioned work? Click yes to acknowledge. She did not click yes. She committed code instead and the banner faded on its own, satisfied that something had happened.
 
-"We don't participate in activities that waste our time and don't help us do our work."
+Mack collected screenshots. He had a folder named museum where he stored artifacts of corporate life: launch emails, training slides, a memo that congratulated the team for completing a mandatory training that didn’t exist. The new prompts fit right in.
 
-David wrote this down. "I think I have sufficient information for now. This investigation will take approximately two weeks to complete."
+Jordan drafted an FAQ for the team. He kept the tone neutral and the verbs careful: what’s collected, what isn’t, what to do when the system asks a question it can’t understand. He added a line that said, “We are not our telemetry.”
 
-"Two weeks to investigate complaints about not being excited enough about broken systems?"
+Sarah forwarded leadership’s note that said the prompts were “a light-touch nudge toward engagement, not surveillance,” and asked managers to “model compliance.” She scheduled a meeting to ask why the nudge required admin privileges.
 
-David's smile remained unchanged. "I have a procedure to follow. I'll be interviewing all team members and preparing a comprehensive report."
+David sent a calendar invite titled Alignment Touchpoint. No one accepted. The system marked them tentative and felt included.
 
-Alex watched as David stood and walked toward Mack's desk, clipboard in hand. She could hear him beginning the same prepared statement.
+—
 
-David conducted his interviews throughout the morning, moving from desk to desk with the same practiced professionalism. Each engineer gave similar responses—they questioned inefficiencies, pointed out problems, and generally avoided activities that felt like a waste of time. David documented everything meticulously, his pen moving across page after page of his legal pad.
+By midweek, the changes had rippled. Meeting invites included a new dropdown labeled Purpose with options like Decision, Status, Ideation, and Culture. If you chose Culture, the invite required a facilitator and a post-session artifact.
 
-At noon, David returned to his cubicle and reviewed his notes. The pattern was clear: the engineering team consistently challenged corporate initiatives and expressed frustration with systems that didn't work. He began drafting his preliminary findings, using the standard HR template he had developed over the years.
+“What’s a culture artifact?” Mack asked.
 
-"Subject: Preliminary Investigation Findings - Engineering Team
-Date: [Current Date]
-Investigator: David Merkle, HR Specialist
+“A photo of people smiling,” Jordan said.
 
-Executive Summary:
-The investigation into allegations against the engineering team has revealed recurring behaviors that may require intervention..."
+Alex tried to select Other and the field turned red and refused it. She selected Decision and attached a one-line agenda that was the only decision that would be made.
 
-David paused, considering his next sentence. He had learned early in his HR career that the key to successful investigations was maintaining objectivity while following established procedures. He had handled everything from dress code disputes to workplace harassment, and he prided himself on his ability to remain impartial.
+The attendance system began rejecting meetings that overlapped by more than ten percent. Vincent’s triple-booked hour rendered itself into a puzzle that the scheduling assistant could not solve. He showed up late to the one with the most executive names and declared the new system a breakthrough.
 
-He continued writing, detailing each allegation and the team's responses. The procedure was familiar—he had done this many times before. The engineers' answers were straightforward, sometimes blunt, always rooted in what worked. David had seen this before: technical people who valued results over rituals.
+—
 
-At 2:30 PM, David took a break and walked to the break room for coffee. He passed by the engineering area again, noting the contrast with his own department. The engineers worked in an open space with standing desks and whiteboards covered in diagrams. His HR colleagues worked in cubicles with motivational posters and filing cabinets.
+David walked the floor with his notebook and his careful nod. He asked open-ended questions that sounded like policy. “How are you experiencing the prompts?” “Do you feel the attendance tags reflect reality?” “What support would make engagement more intuitive?”
 
-David poured himself a cup of coffee and thought about his family. His wife Gwen also worked in HR at a different company, and they had two children—Maya, age 8, and Lucas, age 5. Gwen often joked that David brought his HR personality home with him, always asking the children to "follow the process" when they got into arguments.
+Alex answered with specifics. “The prompt interrupts full-screen terminals. The meeting reasons are imprecise. The system mistakes code reviews for idle time.”
 
-"Dad, Maya took my toy!" Lucas would whine.
-"Let's follow the conflict resolution process," David would respond. "First, we need to identify the issue. Second, we need to understand both perspectives..."
+David wrote it all down. “This is helpful.”
 
-Gwen would roll her eyes and say, "David, they're five and eight. Just tell them to share."
+Mack asked for the prompt source. David promised to check. He returned with a link that required a role no one had.
 
-But David believed in the power of procedure. It was the backbone of his professional life, a safeguard against disorder.
+Jordan suggested a compromise: batch prompts to avoid interrupting typing; exempt terminals and video calls; limit reason codes to three that meant something. David nodded and asked him to help draft the changes. Jordan said yes before he could stop himself.
 
-He returned to his desk and continued working on his investigation report. The afternoon passed quickly as he interviewed the remaining team members and compiled his findings. Each interview followed the same pattern—he would read the allegations, the engineer would provide their perspective, and he would document everything for his report.
+—
 
-By 5:30 PM, David had completed all his interviews. He closed his laptop and gathered his materials. The investigation was proceeding according to schedule. He would spend the next few days compiling his final report, which would include recommendations for management action.
+Leadership wanted a readout by Friday. David stayed late on Thursday, assembling a narrative that would please people who needed graphs with arrows. He balanced phrases like “early indicators” and “encouraging alignment” with “opportunities for calibration.” He pasted three screenshots of dashboards that looked official.
 
-As he walked to his car, David reflected on his day. The engineers were pragmatic, always questioning inefficiencies and voicing their frustrations with broken systems. But David's responsibility ended with the report; what happened next was out of his hands.
+He added a section titled Risk. It felt dangerous to include and more dangerous to omit. He wrote: “Over-instrumentation risks conflating activity with output. Signals without context may mislead.” He deleted the second sentence and then put it back.
 
-At home, Gwen was preparing dinner while the children played in the living room. Maya was building a tower with blocks, and Lucas was trying to knock it down.
+He sent the draft to Sarah for review. She removed half the adjectives and the sentence that said the team was “leaning into transformation,” then added a line: “Engineering output has remained steady during this period.” She did not add a graph.
 
-"Dad's home!" Lucas shouted, running to greet David.
+—
 
-"Hi, buddy," David greeted, hugging his son. "How was your day?"
+Friday’s readout was a room of managers nodding at verbs. Vincent asked if the numbers could be rolled up into a single score. David said they could. Legal asked if the privacy notice should be updated. David said it would be. Finance asked what the ROI of prompts was. No one answered.
 
-"Maya won't share the blocks!"
+When it ended, Sarah closed her laptop and caught David in the hallway. “Is this going to help?”
 
-David looked at his wife, who was watching from the kitchen with an amused expression. "Let's follow the conflict resolution process," David began.
+David’s face did not have a setting for certainty. “It might prevent a memo.”
 
-Gwen interrupted. "David, just tell them to take turns. They're kids, not employees."
+“From whom?”
 
-David smiled. "You're right. Lucas, Maya, let's take turns with the blocks. Maya, you can build for five minutes, then Lucas gets a turn."
+“The kind that starts with ‘Effective immediately.’”
 
-The children agreed, and David joined his family for dinner. Over the meal, Gwen asked about his day.
+Sarah sighed. “Keep it from turning into punishment.”
 
-"Just another investigation," David reported. "The engineering team is being investigated for not being enthusiastic enough about corporate initiatives."
+“I’m trying,” David said.
 
-Gwen raised an eyebrow. "What does that mean?"
+—
 
-"Anonymous complaints about their attitude toward company projects."
+The system adapted by Monday. Prompts appeared less often. The dropdown lost three options and gained a checkbox that said No artifact will be created. The attendance tool recognized code reviews as time spent thinking with hands. Someone had taught it manners.
 
-"And what did you find?"
+Jordan’s FAQ grew to include edge cases and a line that said “You can say no.” He used it twice on Tuesday, once on behalf of someone else.
 
-David considered his response. "They're practical. If something doesn't work, they say so."
+Mack added a rule to his window manager that automatically moved prompts to a corner of the second monitor, where they expired peacefully.
 
-Gwen nodded. "So they're being investigated for being good at their jobs?"
+Alex wrote a tiny daemon that pressed yes when a build finished.
 
-David thought about this. "I'm investigating the allegations as presented. The decision about action will be made by management."
+—
 
-Gwen smiled. "David, sometimes I think you're too good at following 'the process'."
+At the end of the week, David sent a thank-you note to the team: “Appreciate your partnership as we calibrate.” He meant it.
 
-David looked at his wife. "Procedure is what keeps things running smoothly."
+He archived his notes, labeled the folder Alignment — Q3, and opened a new one titled Signals — Open Questions.
 
-Gwen laughed. "Procedure also makes you sound like a robot sometimes."
+He wrote: “What are we measuring?” Then he clicked save and went to his next meeting, where a dashboard indicated that everything was fine as long as you didn’t ask why.
 
-David smiled. "I prefer to think of it as professional consistency."
-
-"Taken too far, it can make life awfully boring."
-
-After dinner, David helped put the children to bed, then returned to his home office to work on his investigation report. He opened his laptop and began typing:
-
-"Final Investigation Report - Engineering Team
-Date: [Current Date]
-Investigator: David Merkle, HR Specialist
-
-Executive Summary:
-The investigation into allegations against the engineering team has been completed. All team members were interviewed, and their responses have been documented..."
-
-David worked methodically, following the standard HR report template he had used for years. The report would be thorough, objective, and professional. It would include all relevant information and provide clear recommendations for management action.
-
-As he typed, David thought about the engineering team's responses. Their answers were direct, sometimes blunt, and always focused on what worked.
-
-But his role was to document, not to judge. He gathered the facts, wrote the findings, and left the consequences to others.

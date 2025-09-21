@@ -1,101 +1,148 @@
 # Chapter 16
 
-Monday morning brought the email everyone had been dreading. The subject line read "EXCITING CHANGES: ByteSauce Reorganization Initiative," and Alex could hear the collective groan echoing across the engineering floor before she even opened it.
+The email arrived at 6:12 AM with a subject line that tried to sound calm: Organizational Update — Strengthening Focus. By 8:00, the floor was reading the same paragraphs with different names.
 
-"Reorganization," Mack said, appearing at her desk with a coffee cup in hand. "This is going to be beautiful."
+Sarah printed hers and circled nothing. Michael read his on his phone in the parking lot, then put the phone away and sat in the car for another 5 minutes. Alex, Mack, and Jordan skimmed theirs at their desks and arrived at the same conclusion by different routes.
 
-Jordan joined them, scrolling through the message on his phone. "They're calling it a 'strategic realignment to optimize productivity and enhance collaboration.'"
+“Reorg,” Mack said, not looking up. “Today.”
 
-"Translation: They're breaking up the team," Alex said.
+“Effective immediately,” Jordan added.
 
-The email was signed by Vincent and included a detailed PowerPoint presentation attached. The first slide showed a new organizational chart with boxes and arrows connecting various departments in ways that made no logical sense. The engineering team was being split across three different divisions, each reporting to a different manager.
+Alex closed the tab. “Of course it is.”
 
-Sarah appeared at their cluster of desks, looking stressed. "I just got off a call with Vincent. The reorganization is effective immediately. We're being restructured based on 'productivity metrics' and 'cross-functional collaboration opportunities.'"
+—
 
-"Productivity metrics," Mack repeated. "You mean the fake ones we've been generating?"
+The all-hands was scheduled for 9:00 and started at 9:17. Vincent stepped onto the small platform at the front of the cafeteria and spoke like change was a product launch.
 
-"Apparently, our 'excellent performance' has made us prime candidates for 'leadership opportunities' in other departments," Sarah said.
+“We’re realigning to accelerate outcomes,” he said. “This will allow us to sharpen execution, reduce silos, and move faster on strategic priorities.”
 
-Jordan's diplomatic instincts kicked in. "This could actually be an opportunity for us to—"
+The slide behind him listed three pillars and a handful of verbs that could be rearranged without changing meaning. A diagram showed boxes moving into other boxes.
 
-"Don't say it," Alex interrupted. "Don't volunteer for anything."
+“Effective today,” Vincent continued, “we’re forming three cross-functional initiative teams: Growth, Reliability, and Experience. Each will have dedicated leadership, clear charters, and accountability for outcomes.”
 
-Jordan's smile faltered. "I was just going to suggest we might be able to negotiate some favorable terms during the transition."
+He paused for the cadence he used instead of punctuation. “Michael will lead Reliability as Senior Engineering Manager.”
 
-Sarah shook her head. "There's no negotiation. The decision has been made. Alex, you're moving to the Data Analytics team. Mack, you're going to the Infrastructure group. Jordan, you're being assigned to the Customer Success team."
+Sarah clapped before anyone else did. Michael nodded once, a small acknowledgment; the new title came without his team.
 
-"What about our current projects?" Alex asked.
+“As part of this,” Vincent said, “we’re sunsetting legacy squads and reassigning individual contributors to maximize impact. Change can be uncomfortable, but it’s necessary.”
 
-"All current projects are being 'reassessed for strategic alignment,'" Sarah said, reading from the email. "The Taskly migration is being put on hold pending review."
+He didn’t read the list of names. HR would do that later, one meeting at a time.
 
-"Well, at least there's that," Mack grinned. "So they're splitting us up and hoping we can't coordinate anymore."
+—
 
-The reorganization meeting was scheduled for 2 PM in the main conference room. By 1:45, the room was packed with confused employees, all trying to decipher their new reporting structures and responsibilities.
+By 10:30, calendars repopulated like a time-lapse of mold. Alex received an invite titled Experience Intake — Sprint Zero. Jordan got Growth GTM Enablement. Mack got Reliability Tooling — Migration Plan (Draft).
 
-Vincent stood at the front of the room, beaming with enthusiasm. "This is an exciting day for ByteSauce! We're implementing a new organizational structure that will enhance productivity, improve collaboration, and create new opportunities for growth."
+Sarah’s one-on-ones turned into transition calls. Her team had been pulled apart and distributed like spare parts between the three initiatives. She had a new title—Director, Platform Programs—and no direct reports.
 
-He clicked through the PowerPoint slides, each one more confusing than the last. The new structure had teams reporting to multiple managers, projects being overseen by new committees, and a complex approval process that required signatures from three different departments.
+Michael had a team without his team in it. Reliability came with a charter, a roadmap, and six positions that were “to be filled.” It also came with an inbox full of questions about ownership that no one had answered because the ownership had just moved.
 
-"Under the new structure," Vincent continued, "we're implementing a matrix management approach. Each employee will have a primary manager and a functional manager, plus a project manager for specific initiatives."
+He walked to where his team had always sat and found three empty chairs and a pile of cables labeled for recycling. He stood there longer than the moment required and then kept moving.
 
-Mack leaned over to Alex. "So we'll have three bosses, each of whom can veto our work, but none of whom are responsible for our success."
+—
 
-"Welcome to the bureaucracy Olympics," Alex whispered back.
+Alex’s new manager introduced himself over video with a background that looked like a rental. “Welcome to Experience,” he said. “We’re going to make the product feel delightful.”
 
-The reorganization included new titles for everyone. Alex became a "Senior Data Solutions Architect." Mack was now a "Cloud Infrastructure Specialist." Jordan was appointed "Customer Experience Optimization Lead." Sarah was promoted to "Cross-Functional Team Coordinator," which meant she now had responsibility for three different teams but no direct reports.
+He assigned her a task labeled Journey Map Instrumentation and attached a design doc that treated user clicks like wishes. The acceptance criteria required three dashboards and a weekly sentiment report.
 
-"These new roles reflect our commitment to innovation and excellence," Vincent said. "Each of you will have expanded responsibilities and opportunities for growth."
+Alex opened the code and found nothing to change yet. She added a note to herself: define delight.
 
-Jordan raised his hand. "What about our current projects? How do we transition our work?"
+Her last PR pinged her just to close itself: “team no longer owns this component.” Her repo access disappeared for four hours.
 
-"Excellent question," Vincent said. "All current projects are being reviewed for strategic alignment. Some may be continued under new leadership, others may be restructured or discontinued based on our new priorities."
+—
 
-Alex raised her hand. "What happens to the Taskly migration project?"
+Mack’s Reliability invite came with a spreadsheet and a directive: migrate all services to the new observability platform by end of quarter. The spreadsheet listed every service by name and included a column for “owner” that was blank for a third of them.
 
-Vincent consulted his notes. "The Taskly migration is being put on hold pending a comprehensive review of our project management needs. We're considering alternative solutions that may better align with our new organizational structure."
+He posted in the new reliability intake channel. “Is this ours?”
 
-Mack smirked. "So they're shelving the project that was generating all the metrics they loved."
+His manager replied in-thread: “It is now.”
 
-The meeting continued for another hour, with Vincent explaining the new reporting structures, approval processes, and performance metrics. Each new process seemed designed to make work more difficult and less efficient.
+Mack wrote a small probe to scan service registries and fill in the blanks. The probe returned two hundred names and four ghosts.
 
-After the meeting, the engineers regrouped in the break room.
+—
 
-"Well," Alex said, "they've scattered us across the company."
+Jordan’s Growth kickoff was a loop of acronyms. GTM, NPS, LTV. He was asked to “bridge product and narrative” and “socialize wins.” He suggested starting with which wins existed. No one answered; a slide advanced.
 
-Jordan nodded. "But now we get to see how the rest of ByteSauce operates."
+Afterward, he got a DM from a product director he’d never met: “Great energy. Could you own the weekly Growth Standup?” He typed “Happy to help” and watched as the invite appeared on his calendar, daily.
 
-Mack's eyes lit up. "And we can still coordinate. Email, Slack, encrypted memes if necessary."
+—
 
-Sarah joined them, looking exhausted. "I've been assigned to coordinate three different teams, each with their own priorities and deadlines. I have no idea how I'm supposed to manage this."
+At noon, Sarah found Michael in a conference room that still had their old team’s sprint board on the wall. He was erasing it line by line, preserving nothing.
 
-"Welcome to middle management," Alex said. "Where you're responsible for everything but have authority over nothing."
+“Congratulations,” she said.
 
-The next few days were chaos. The engineers were relocated to different parts of the building, assigned to new teams with people they'd never worked with before. Their old projects vanished into limbo, replaced by a flurry of tasks that generated plenty of status updates but little actual progress.
+“I lost everyone,” he said.
 
-Alex found herself in the Data Analytics team, surrounded by people who spoke a different language. They talked about "data pipelines," "ETL processes," and "business intelligence dashboards." Her new manager, Priya Sharma, was enthusiastic about "leveraging data-driven insights to optimize business outcomes."
+“You gained a mandate,” she said.
 
-"Alex," Priya said during their first one-on-one, "I'm excited to have you on the team. Your background in software engineering will be valuable for our data infrastructure projects."
+“And a hiring freeze.”
 
-"Thank you," Alex said. "I'm looking forward to learning about data analytics."
+They looked at the empty columns on the board. To Do. Doing. Done. The markers left faint ghosts where names used to be.
 
-"What I'd like you to focus on initially is our customer behavior analysis project. We're trying to understand user engagement patterns across our platform."
+“They’ll come to you for answers,” Sarah said. “Even if you don’t have any yet.”
 
-Alex nodded, already thinking about how to approach this project. The data analytics team had their own maze of convoluted workflows and redundant tools. Alex immediately spotted a dozen ways things could be streamlined—or at least subverted.
+“I’ll make some,” Michael said. It was half promise, half reflex.
 
-Mack was assigned to the Infrastructure group, where he discovered a whole new world of corporate absurdity. His new manager, Carlos, was obsessed with "cloud optimization" and "cost management." The infrastructure team had their own collection of legacy scripts, overlapping dashboards, and a ticketing system that required three approvals to reboot a server. Mack wasted no time mapping out shortcuts and loopholes.
+—
 
-Jordan found himself in the Customer Success team, where he was expected to "optimize customer experience" and "drive customer satisfaction metrics." His new colleagues were focused on customer feedback surveys and satisfaction scores, and Jordan quickly realized that this team had their own version of the corporate dysfunction he'd been navigating—just with more exclamation points.
+The first week of the new shape felt like wearing someone else’s jacket. It fit if you didn’t move too much.
 
-The engineers had been scattered like spores across the company, each landing in a new ecosystem of dysfunction. But instead of being isolated, they were now embedded in every department, ready to spread their particular brand of chaos.
+Alex joined a workshop about microcopy guidelines for the onboarding flow. A facilitator asked the group to brainstorm three adjectives that described their brand voice. Alex wrote “accurate,” “fast,” and left the third blank.
 
-A week after the reorganization, Alex received an email from Mack: "New team, same problems. They have a 'data quality initiative' that's even more broken than Taskly. Want to coordinate some resistance?"
+“We like ‘playful,’” the facilitator said. “Can we be playful?”
 
-Alex smiled and replied: "Absolutely. Let's see what we can accomplish from our new positions."
+“Not in error messages,” Alex said.
 
-Jordan sent a message to both of them: "Customer Success has their own set of broken processes. I think we can apply our usual strategies here too."
+She was assigned to implement a tooltip that explained a page that shouldn’t need a tooltip. She wrote the tooltip and the bug report that would replace the page later.
 
-Management’s attempt to dismantle their alliance only broadened their reach. Now, each of them had a window into a new flavor of chaos—and even more creative ways to stay in touch.
+—
 
-Management had unwittingly created a distributed network of subversion. Each engineer was now a node in a system they couldn't control, spreading their influence through every department they touched.
+Mack started wiring collectors into services that hadn’t been touched in a year. He built guardrails so the agent wouldn’t talk to places it shouldn’t, and he wrote a stern README for a service that turned out to be a job no one owned that restarted at midnight for reasons that were lost.
 
-The reorganization had been designed to contain them. Instead, it had set them free. 
+The platform vendor offered “white-glove migration.” He watched one glove wave from a video window and kept his hands on the keyboard.
+
+At 2:10 AM a pager woke him; prod needed a hotfix he couldn’t ship because roles had moved. He typed “need temp elevate” and watched the spinner while he yawned.
+
+—
+
+Jordan facilitated Growth Standup #3 of 5 for the week and learned that “growth” meant different things to different departments and everything to no one. Marketing wanted case studies; Sales wanted features; Product wanted “momentum.” He took notes in verbs and assigned follow-ups that would keep people busy.
+
+He added a private line in his doc: growth of what?
+
+His calendar stacked three 8:15 standups on top of each other. He joined the wrong one and cheerfully updated a room that wasn’t his.
+
+—
+
+Michael’s Reliability charter wanted SLOs for systems that had never been instrumented. He drafted targets that were honest: “unknown” for baseline, “TBD” for alerting. He wrote a document titled What We Can Promise Right Now and sent it to Vincent, who replied with a thumbs-up and “Can we make it 99.99?”
+
+Michael did not reply.
+
+He found himself answering questions from people who used to be his team and people who now thought he was their manager. He drew a map of ownership on the whiteboard and then erased it when it changed again in the afternoon.
+
+—
+
+Sarah’s calendar filled with cross-initiative syncs that synchronized nothing. She tried to spot the pattern in the new org chart, then stopped trying. She wrote a list titled Things That Still Exist and added five items.
+
+She walked past the desks where her team used to sit and didn’t linger. A box of old lanyards sat on the corner of a cabinet with a sign that said FREE.
+
+Overnight, the old team channel had been archived; pinned runbooks 404’d; even the inside jokes were gone.
+
+—
+
+By Friday, the edges of the new shape had hardened. Alex had a second tooltip to write and a meeting about “gamifying adoption.” Mack had a migration spreadsheet that now had owners and red cells where the agent refused to install. Jordan had a weekly email titled Growth Wins that contained three bullet points and two caveats.
+
+Michael had a plan that would work if he had three more people, and a list of risks that read like a budget request.
+
+He sent Sarah a one-line message: “If we get through this quarter, it will be because of duct tape.”
+
+She replied: “Call it ‘reliability tape’ and finance will fund it.”
+
+—
+
+At 5:40, Alex wrote a commit message that said the tooltip now told the truth. Mack merged a collector wrapper that prevented an infinite loop from calling home until the heat death of the universe. Jordan moved his Growth Standup to 8:20 to avoid stepping on three other standups that had been moved to 8:15.
+
+Michael looked at the Reliability charter and crossed out two goals that did not belong to him anymore. He added one he could keep: “Reduce surprises.”
+
+He closed the document and opened his calendar. Monday had rearranged itself while he was working. He dragged a block titled Reliability Triage to the morning and left the description empty.
+
+The office lights flickered once and stayed on. The new shape held. For now.
+

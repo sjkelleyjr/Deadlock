@@ -1,127 +1,232 @@
 # Chapter 9
 
-Mack sat at his desk, staring at his laptop screen with the kind of intensity that usually meant he was either solving a complex problem or about to start something completely new. Today, it was the latter.
+Mack's apartment was a shrine to unfinished projects. Three mechanical keyboards sat on his desk, each with different keycaps and switches. A Raspberry Pi cluster hummed quietly in the corner, running some cryptocurrency mining operation that had stopped being profitable six months ago. His walls were covered in whiteboards, each filled with diagrams and code snippets that had seemed brilliant at 2 AM but made no sense in daylight.
 
-He had three different projects open in his browser tabs, each one representing a different phase of his creative cycle. The first was a task automation script he'd started two weeks ago to help the team work around Taskly's limitations. The second was a personal project—a web app for tracking his mechanical keyboard collection. The third was a half-finished blog post about why corporate software development was fundamentally broken.
+It was 11 PM on a Tuesday, and Mack was supposed to be working on a bug fix for the Taskly integration. Instead, he was building a script that would automatically generate "innovative" code comments based on the guidelines they'd developed for the code review process.
 
-"Working on something interesting?" Alex appeared at his desk, looking curious.
+His girlfriend, Jasmine, was sitting on the couch behind him, scrolling through her phone. She worked in marketing at a different company and had stopped trying to understand what Mack did for a living about six months into their relationship.
 
-"Always," Mack said, not looking up from his screen. "I'm trying to figure out why this automation script keeps crashing when it tries to generate fake metrics for Taskly."
+"What are you working on?" she asked, not looking up from her phone.
 
-Alex peered over his shoulder. "That's a lot of code for something that's supposed to be simple."
+"Just some automation stuff," Mack replied, typing furiously.
 
-"Exactly," Mack said. "It started as a simple script to create fake login data. Now it's a full-blown system with error handling, logging, and a web interface. I think I might have over-engineered it."
+"Is it for work?"
 
-Jordan joined them, carrying his notebook and looking amused. "Mack, you've over-engineered a script that's designed to generate fake data for a system that doesn't work. That's like putting a spoiler on a broken bicycle."
+"Sort of. It's for making work easier."
 
-Mack grinned. "But it's a really nice spoiler."
+Jasmine put down her phone and walked over to his desk. She looked at the code on his screen, which was mostly comments about AI and machine learning algorithms.
 
-The automation script had started as a simple Python script that would create fake user sessions in Taskly. But as Mack worked on it, he kept adding features. Now it had a database, a REST API, a web dashboard, and enough logging to track every fake action it performed.
+"This looks like the same thing you were working on last week. The thing that was supposed to help with code reviews?"
 
-"It's actually kind of beautiful," Mack said, scrolling through the code. "Look at this error handling. It's more robust than the actual Taskly system."
+"Same concept, different implementation. This version is more sophisticated."
 
-Alex stared at the screen. "You've written 500 lines of code to generate fake data for a broken system."
+"Didn't you say the last version was going to revolutionize how your team works?"
 
-"600 lines," Mack corrected. "And it's not just fake data. It's realistic fake data. The patterns match real user behavior. The timestamps are properly distributed. The error rates are statistically accurate."
+Mack paused his typing. "I might have oversold it a bit."
 
-Jordan shook his head. "You realize this is exactly the kind of thing that would make management think Taskly is working great, right?"
+Jasmine laughed. "You always oversell it. Remember the cryptocurrency mining setup? You said it was going to make us rich."
 
-"That's the beauty of it," Mack said. "They see the metrics improving, they think the system is working, and they leave us alone. Meanwhile, we can actually get our work done."
+"That was before the market crashed."
 
-Alex looked at the other tabs on his screen. "What's the keyboard collection tracker?"
+"And the smart home automation system that was going to control everything with voice commands?"
 
-Mack switched tabs to show a web application with a grid of mechanical keyboards, each with detailed specifications and ratings. "I have 12 mechanical keyboards now. I needed a way to keep track of them."
+"It works for the lights. Mostly."
 
-"Twelve?" Jordan said. "Why do you need twelve keyboards?"
+"And the productivity app that was going to change how people work?"
 
-"Different switches for different moods," Mack said. "Cherry MX Blues for when I'm feeling productive, Browns for when I need to be quiet, Reds for gaming. Plus, I'm building a custom one with hand-wired switches."
+"I'm still working on that one."
 
-Alex stared at the application. "You've built a full web app to track your keyboard collection."
+Jasmine sat down on the edge of his desk. "You know what I think? I think you get excited about these projects because they're more interesting than your actual job."
 
-"It's not just tracking," Mack said. "It has a recommendation engine. Based on your typing style and preferences, it suggests which keyboard you should use for different tasks."
+Mack looked up from his screen. "My job is interesting. It's just... constrained."
 
-Jordan laughed. "You've built a recommendation engine for keyboards."
+"By what?"
 
-"Hey, it's a real problem," Mack said. "You wouldn't believe how much time I was wasting trying to decide which keyboard to buy next."
+"By corporate policies. By managers who don't understand technology. By processes that exist for no reason other than to justify someone's job."
 
-The third tab contained Mack's blog post, which was currently titled "Why Corporate Software Development is Fundamentally Broken (And Why Nobody Cares)." He'd written about 2,000 words but had stopped mid-sentence.
+Rachel nodded. "So you build these side projects to feel like you're actually creating something useful."
 
-"How's the blog post coming?" Alex asked.
+"Maybe. Or maybe I just like building things."
 
-Mack switched to that tab and stared at the incomplete sentence. "I got distracted by the keyboard app. I'll finish it later."
+"Even if you never finish them?"
 
-"You always say that," Jordan said.
+Mack turned back to his screen. "I finish some of them."
 
-"I know," Mack said. "But this time I mean it. I've got some really good points about how corporate development prioritizes process over product."
+"Name one."
 
-Alex read the partial sentence on screen: "The fundamental problem with corporate software development is that it's designed to make managers feel good about themselves rather than to produce working software. When you prioritize—"
+"The script that automatically generates meeting notes from calendar invites."
 
-"You stopped mid-sentence," Alex said.
+"That's the one that just creates a template with the meeting title and attendees, right?"
 
-"I was going to say 'When you prioritize metrics over results, you get exactly what you measure: meaningless numbers that look good in presentations but don't actually solve real problems.' But then I started thinking about the keyboard app again."
+"It saves me five minutes every time I have a meeting."
 
-Mack's phone buzzed with a text from his girlfriend, Jessica. "Hey, are you still coming over tonight? I want to show you the new marketing campaign I'm working on."
+Jasmine smiled. "Five minutes. That's your most successful project."
 
-Mack typed back: "Of course! Can't wait to see it."
+Mack didn't respond. He was focused on debugging the comment generation script, which was currently producing comments that made no sense even by corporate standards.
 
-Jessica worked in marketing at a different company, and she was always excited to show Mack her latest campaigns. The problem was that she didn't really understand what Mack did for a living.
+"Hey," Jasmine said, "do you want to go get dinner? We could try that new Thai place that opened up."
 
-"What does your girlfriend think about all your side projects?" Alex asked.
+"In a minute. I just need to fix this bug."
 
-Mack shrugged. "She thinks I'm 'creative' and 'passionate about technology.' She doesn't really get the technical details, but she's supportive. Last week she asked me if I could help her set up a spreadsheet for tracking social media metrics."
+Jasmine sighed and went back to the couch. She'd learned that "in a minute" meant "maybe in an hour, if I remember."
 
-"Did you help her?" Jordan asked.
+Mack's phone buzzed. It was a message from Alex: "Did you see the new Innovation Score requirements? They want us to include 'disruptive thinking' metrics now."
 
-"I built her a full analytics dashboard with real-time data visualization," Mack said. "It was supposed to be a simple spreadsheet."
+Mack typed back: "Define 'disruptive thinking.'"
 
-Alex laughed. "Of course you did."
+"According to the 23-page document Vincent just sent, it means 'challenging conventional approaches to problem-solving while maintaining alignment with strategic objectives.' Also, he mentioned something about 'vibe coding' being the future of software development."
 
-Mack's side projects were legendary among his roommates. He lived with two other developers, and they had weekly "hack nights" where they'd work on personal projects together. The problem was that Mack would start something ambitious, get excited about it, work on it obsessively for a few days, then move on to something else.
+"So we're supposed to be disruptive but not too disruptive?"
 
-His roommates had learned to expect this pattern. They'd come home to find Mack hunched over his laptop, surrounded by empty coffee cups and energy drink cans, working on something completely different from what he'd been doing the day before.
+"Exactly. The sweet spot is 'innovative disruption that doesn't actually change anything.'"
 
-"Remember the time you built that smart home automation system?" Alex asked.
+Mack laughed and went back to his script. He was trying to add a feature that would analyze the actual code and suggest appropriate buzzwords based on the function's complexity. The problem was that the script kept suggesting "blockchain" for simple string manipulation functions.
 
-Mack grinned. "The one that would turn off the lights when you left the room and adjust the thermostat based on your schedule? That was a good one."
+His roommate, Carlos, walked in from his room. Carlos was also a developer, but at a startup that was actually doing interesting work.
 
-"You spent three weeks on it," Jordan said. "Then you moved on to building a cryptocurrency trading bot."
+"What are you building now?" Carlos asked, looking over Mack's shoulder.
 
-"And before that, it was the recipe recommendation app," Alex said. "And before that, the fitness tracking system."
+"Comment generator for corporate code reviews."
 
-"I get bored easily," Mack said. "There are just so many interesting problems to solve."
+"Let me guess—it adds buzzwords to make simple functions sound innovative?"
 
-The problem was that Mack's side projects were often more interesting than his day job. At ByteSauce, he was working on maintaining legacy systems and implementing corporate processes that made no sense. But in his free time, he was building things that actually solved real problems.
+"Exactly. Want to see it in action?"
 
-His latest obsession was the keyboard collection tracker, which had started as a simple spreadsheet but had grown into a full web application with user authentication, a recommendation engine, and a REST API. He'd even started thinking about adding machine learning to predict which keyboard someone would prefer based on their typing patterns.
+Carlos pulled up a chair. "Hit me."
 
-"Are you going to finish any of these projects?" Jordan asked.
+Mack ran the script on a simple function that calculated the average of an array:
 
-"Eventually," Mack said. "I'm just waiting for the right moment. You know, when the inspiration strikes."
+```javascript
+function calculateAverage(numbers) {
+    return numbers.reduce((sum, num) => sum + num, 0) / numbers.length;
+}
+```
 
-Alex looked at the three tabs on his screen. "You have three different projects open right now, and you're not working on any of them."
+The script generated:
 
-"I'm thinking about them," Mack said. "That counts as work."
+```javascript
+// REVOLUTIONARY AI-POWERED STATISTICAL ANALYSIS ENGINE
+// This cutting-edge algorithm leverages machine learning
+// to perform advanced mathematical computations through
+// neural network pattern recognition and predictive analytics
 
-The truth was that Mack's side projects were his way of staying sane in the corporate environment. When he was working on something he actually cared about, he could forget about the absurdity of ByteSauce and focus on solving real problems.
+function calculateAverage(numbers) {
+    // INNOVATION SCORE: 8.9/10
+    // Disruptive approach to statistical computation
+    // combining traditional mathematics with quantum computing principles
+    
+    return numbers.reduce((sum, num) => sum + num, 0) / numbers.length;
+}
+```
 
-But his inability to finish anything was starting to bother him. He had dozens of half-finished projects scattered across his GitHub account, each one representing a burst of creative energy that had fizzled out before completion.
+Carlos stared at the output for a moment. "That's the most ridiculous thing I've ever seen."
 
-"I should probably focus on one thing at a time," Mack said, looking at his screen.
+"Isn't it beautiful?"
 
-"Which one?" Alex asked.
+"It's like you're writing satire."
 
-Mack stared at the three tabs for a moment. "I don't know. Maybe I'll start something new."
+Mack grinned. "That's the beauty of it. The more absurd the comments, the more likely management is to approve the code."
 
-Jordan laughed. "There's the Mack we know and love."
+"Your company actually falls for this?"
 
-Mack grinned and opened a new tab. "I've been thinking about building a system to track all my unfinished projects. You know, to help me stay organized."
+"Not just falls for it—they love it. Vincent thinks we're building the most innovative codebase in the industry."
 
-Alex and Jordan exchanged glances.
+Carlos shook his head. "I'm glad I work at a startup. At least we can just write code that works."
 
-"Maybe I can just use Taskly.", he said.  They all laughed.
+"Don't get me wrong, I'd love to work somewhere where I could just focus on building good software. But until then, I'm going to make the best of what I've got."
 
-"Or maybe I'll work on the automation script some more," Mack said. "I think I can make it even more realistic."
+Jasmine called from the couch. "Are you two going to talk about work all night?"
 
-He switched back to the Taskly automation script and started typing. The code flowed easily, and he was soon lost in the rhythm of programming. This was what he loved—solving problems, building things, creating order out of chaos.
+"Sorry," Mack said. "We're almost done."
 
-Mack typed away, adding more features to his automation script, while his other projects waited patiently in their tabs. He'd get back to them eventually. Probably. 
+Carlos stood up. "I should get back to my project anyway. We're launching a new feature next week."
+
+"What kind of feature?" Mack asked.
+
+"Real-time collaboration tools. The kind of thing that actually helps people work together."
+
+Mack felt a pang of envy. Carlos got to build things that mattered, while he was stuck gaming a system that didn't make sense.
+
+After Carlos left, Mack went back to his script. He was trying to add a feature that would automatically adjust the Innovation Score based on the reviewer. Vincent always gave higher scores for mentions of AI and blockchain. Sarah preferred references to "synergy" and "collaboration." Michael responded well to anything that mentioned "efficiency" and "productivity."
+
+Jasmine came over and put her hands on his shoulders. "You're tense."
+
+"I'm fine."
+
+"You're not fine. You're frustrated because you want to build something meaningful, but you're stuck playing corporate games."
+
+Mack leaned back in his chair. "It's not that simple."
+
+"Isn't it? You're clearly talented. You could work anywhere. Why stay at a place that makes you build fake innovation instead of real solutions?"
+
+"Because it's not that easy to just quit and find something better. Because I have bills to pay. Because maybe I'm not as good as I think I am."
+
+Jasmine sat down in Carlos's chair. "That's bullshit and you know it. You're brilliant. You just need to find a place that appreciates that."
+
+"Easy for you to say. You work in marketing. You get to be creative and work with people who understand what you do."
+
+"Marketing has its own corporate bullshit. Trust me. But at least I'm not pretending to be innovative when I'm just doing my job."
+
+Mack looked at his screen. The script was working perfectly, generating comments that would make any corporate manager happy. It was a masterpiece of absurdity, a perfect reflection of the system he was trying to survive.
+
+"You know what the worst part is?" he said. "I'm actually proud of this script. It's clever. It's well-written. It solves a real problem. But the problem it solves shouldn't exist."
+
+Jasmine nodded. "So why not build something that solves a real problem instead?"
+
+"Like what?"
+
+"I don't know. Something that actually helps people. Something that makes the world better instead of just making corporate managers happy."
+
+Mack thought about it. He had dozens of half-finished projects that had started with good intentions. A privacy-respecting social media alternative. A tool for helping people learn to code. A system for connecting local businesses with customers. All abandoned when they got too complex or when he got bored.
+
+"Maybe you're right," he said. "Maybe I should focus on building something that matters."
+
+"Or maybe you should just finish one of the projects you've already started."
+
+Mack looked around his apartment at the evidence of his scattered creativity. "Which one?"
+
+"The productivity app. The one that was supposed to help people work better. That seems like something you actually care about."
+
+Mack opened the folder for his productivity app. It was a mess of half-implemented features and abandoned ideas. But there was something there, a core concept that had seemed important when he'd started it.
+
+"You know what? You're right. Let me show you what I was trying to build."
+
+He opened the main file and started explaining the concept. It was a tool that would help people focus on what mattered by automatically identifying and eliminating distractions. Not the corporate version of productivity that meant more meetings and more metrics, but real productivity that meant getting important work done.
+
+As he talked, Rachel listened. Really listened. And for the first time in months, Mack felt like someone understood what he was trying to accomplish.
+
+"See, the problem with most productivity tools is that they're designed by people who think productivity means doing more things faster," he said. "But real productivity is about doing the right things well."
+
+"That's actually really insightful," Rachel said.
+
+"It's simple, but nobody seems to get it. They keep building tools that make you track every minute of your day instead of tools that help you focus on what's important."
+
+"So why don't you finish it?"
+
+Mack looked at the code. "It's complicated. There are a lot of moving parts."
+
+"Start with one part. Make it work. Then add the next part."
+
+"That's not how I usually work."
+
+"Maybe that's the problem. You try to build everything at once instead of building one thing well."
+
+Mack thought about it. She was right. He always got excited about the big picture and tried to implement everything at once. Then when it got overwhelming, he'd abandon it and start something new.
+
+"Okay," he said. "Let's start with the core feature. The distraction identification."
+
+He opened a new file and started coding. Not the corporate code with fake innovation comments, but real code that solved a real problem. It felt good.
+
+Rachel watched him work for a while, then went to the kitchen to make coffee. When she came back, Mack was still typing, but now he was smiling.
+
+"What are you working on?" she asked.
+
+"The core algorithm. It's actually coming together."
+
+"See? When you focus on something that matters, you can do amazing things."
+
+Mack looked up from his screen. "Thanks"
+
+"Anytime. Now, about that Thai food..."
+
+"Give me another hour. I want to get this working."
